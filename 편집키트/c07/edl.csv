@@ -1,0 +1,43 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,5.9,5.9,hard,face_hands,MS,정면 아이레벨,고정,1x,"오프닝 무자막 원테이크 5.9초, 효과 없음",hook,,"0.7s 채반 달그락, 1.6s 낙하 퍽 + 비명(-6.4dB), 5.1~5.9s 잔해 바삭(고역비 0.294), 음악은 계속 깔림",,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=0s
+2,5.9,7.933,2.033,hard,hands,CU,하이앵글 45° 정면,고정,1x,"하드컷, 자막 없음",tension,,실리콘 틀 떼는 쩍 소리(고역비 0.123) + 6.7~7.1s 짧은 감탄(추정),,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=5s
+3,7.933,8.983,1.05,hard,face_hands,MCU,하이앵글 45°,고정,1x,"하드컷, 자막 없음",reaction,,"음악 + 낮은 끙 소리(742Hz 톤, 추정)",,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=7s
+4,8.983,12.517,3.533,hard,face_hands,MS,정면 아이레벨,고정,1x,"빨간 네온 X 자막 글자 팝(약 10.3s), 하드컷",setup,불림 부족→깨짐 X,"면 블록 끊어지며 물 뚝뚝(9.9~10.5s), 이어서 하강 실패음","하강 음정 실패음(10.9s, 영상 최대 피크)",https://www.youtube.com/watch?v=2t1I7H2UYT0&t=8s
+5,12.517,14.383,1.867,hard,object,CU,하이앵글 45° 창가,고정,1x,"장소 전환 하드컷(스튜디오→창가), 초록 네온 O 자막 팝",build,양면 뒤집어 불리기 O,"물 찰랑(낮게), 음악 위주",,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=12s
+6,14.383,16.9,2.517,jump,object,CU,하이앵글 45° 창가 → 렌즈 앞,고정,1x,"점프컷, 끝에서 면 질감으로 렌즈를 덮어 다음 컷과 매치",payoff,양면 불리기 O(유지),물방울 뚝뚝 + 15.3~16.9s 정답 차임,정답 차임(15.3s),https://www.youtube.com/watch?v=2t1I7H2UYT0&t=14s
+7,16.9,17.9,1.0,match,hands,CU,탑다운,고정,1x,면 질감→면 질감 매치컷(오브젝트 와이프)으로 창가→조리대 전환,build,,음악만(젖은 면 소리 미미),,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=16s
+8,17.9,19.05,1.15,jump,hands,CU,탑다운,고정,1x,"점프컷, 컷 안 점프 1회 추정(18.6s)",tension,,젖은 면 찢어지는 소리(18.34·18.60s 온셋),,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=17s
+9,19.05,21.617,2.567,jump,hands,CU,탑다운,고정,1x,"빨간 네온 X 자막 글자별 팝(20.3s부터), 컷 안 점프 추정(21.0s)",tension,통째로 미끄러움 X,"젖은 면 소리 약하게, 음악 위주",,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=19s
+10,21.617,23.517,1.9,jump,hands,CU,탑다운,고정,1x,"점프컷, 끝 0.5초 빈 화면 리셋",tension,X 자막 유지,음악만,,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=21s
+11,23.517,24.617,1.1,hard,hands,CU,하이앵글 45° 정면,고정,1x,"하드컷, 초록 O 자막 팝",build,결 따라 찢기 O,면 가닥 찢기(고역비 0.113),,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=23s
+12,24.617,25.25,0.633,jump,hands,CU,하이앵글 45° 정면,고정,1x,점프컷,build,결 따라 찢기 O(유지),음악 위주,,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=24s
+13,25.25,26.1,0.85,hard,hands,CU,탑다운,고정,1x,하드컷(정면→탑다운),build,결 따라 찢기 O(유지),음악 위주(온셋 3개),,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=25s
+14,26.1,26.517,0.417,jump,hands,CU,탑다운,고정,1x,점프컷 0.42초,build,결 따라 찢기 O(유지),음악 위주,,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=26s
+15,26.517,26.833,0.317,jump,hands,CU,탑다운,고정,1x,점프컷 0.32초,build,결 따라 찢기 O(유지),음악 위주,,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=26s
+16,26.833,27.5,0.667,jump,hands,CU,탑다운,고정,1x,"점프컷, 다음 자막이 글자별로 팝인 시작",build,꾹꾹 누르기(등장 중),음악 위주,,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=26s
+17,27.5,29.633,2.133,jump,hands,CU,탑다운,고정,1x,"초록 O 자막 글자 팝, OK 손 제스처",payoff,꾹꾹 눌러 고정 O,27.9~29.0s 정답 차임이 덮음,정답 차임(27.9s),https://www.youtube.com/watch?v=2t1I7H2UYT0&t=27s
+18,29.633,31.733,2.1,hard,face_hands,MS,정면 아이레벨,고정,1x,"하드컷(탑다운→스튜디오 정면), 자막 없음",tension,,"뜨거운 기름 붓는 치익(31.1s, 고역비 0.114)",,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=29s
+19,31.733,35.75,4.017,hard,hands,CU,하이앵글 45° 창가,고정,1x,"창가 세트 하드컷, 빨간 X 자막 팝(약 32.5s)",tension,약불 흘러내림 X,"튀김 지글 + 국자 달그락(온셋 16개, 초당 3.98)",,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=31s
+20,35.75,37.617,1.867,jump,hands,CU,하이앵글 45° 창가,고정,1x,"점프컷, 빨간 X 자막 팝",tension,센불 들뜸 X,센불 기포 보글(RMS -12~-14dB),,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=35s
+21,37.617,38.633,1.017,hard,hands,CU,탑다운,고정,1x,하드컷(창가→탑다운),build,,"가루 사락사락(초당 온셋 8.85, 영상 최고)",,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=37s
+22,38.633,39.683,1.05,jump,hands,CU,탑다운,고정,1x,"점프컷, 초록 O 자막 스케일 팝(39.0s 한 단어만 크게 보이는 프레임)",build,전분으로 고정 O,가루 소리 + 39.5s부터 정답 차임,정답 차임(39.5s),https://www.youtube.com/watch?v=2t1I7H2UYT0&t=38s
+23,39.683,40.467,0.783,jump,hands,CU,탑다운 → 렌즈 앞,고정,1x,"점프컷, 손 제스처 인서트",payoff,전분으로 고정 O(유지),정답 차임 여운(39.5~41.0s),,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=39s
+24,40.467,44.367,3.9,hard,hands,CU,하이앵글 45° 정면(버너),고정,1x,"하드컷, 컷 안 점프 2회(41.3·42.5s), 자막만 두 번 교체",build,중강불 팁 2줄 → 가장자리 팁 2줄,"기름 기포 소리 낮게(RMS -24~-30dB), 음악 위주",,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=40s
+25,44.367,45.367,1.0,hard,object,CU,하이앵글 45° 창가,고정,1x,"하드컷, 여기서부터 무자막",reveal,,채반에서 기름 줄줄 흐름(RMS -15~-17dB),,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=44s
+26,45.367,48.167,2.8,hard,face_hands,MS,정면 아이레벨,고정,1x,"하드컷, 컷 안 점프 1회(46.5s), 무자막",payoff,,채반 바닥 톡톡(45.63~47.39s 온셋 10개),정답 차임(47.3s),https://www.youtube.com/watch?v=2t1I7H2UYT0&t=45s
+27,48.167,48.567,0.4,hard,hands,CU,탑다운,고정,1x,"하드컷, 빡빡빡 몽타주 시작",build,,음악만(차임 여운),,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=48s
+28,48.567,48.983,0.417,jump,hands,CU,탑다운,고정,1x,"점프컷 0.42초, 컷 안 점프 1회(48.8s)",build,,음악만,,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=48s
+29,48.983,49.2,0.217,jump,hands,CU,탑다운,고정,1x,점프컷 0.22초,build,,음악만,,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=48s
+30,49.2,49.367,0.167,jump,hands,CU,탑다운,고정,1x,점프컷 0.17초,build,,음악만,,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=49s
+31,49.367,49.533,0.167,jump,hands,CU,탑다운,고정,1x,점프컷 0.17초,build,,음악만,,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=49s
+32,49.533,49.683,0.15,jump,hands,CU,탑다운,고정,1x,점프컷 0.15초(영상 최단),build,,음악만,,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=49s
+33,49.683,49.867,0.183,jump,hands,MS,탑다운,고정,1x,"과정 생략 점프(두 번째 반구 장식 생략), 구도가 접시 2개로 넓어짐",build,,음악만,,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=49s
+34,49.867,50.65,0.783,false,hands,MS,탑다운,고정,1x,"검출 오류(빠른 동작으로 끊김 없이 이어짐), 효과 없음",build,,"바삭한 반구 부딪힘(고역비 0.134, 50.0·50.2s 온셋)",,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=49s
+35,50.65,51.817,1.167,jump,hands,MS,탑다운,고정,1x,점프컷,build,,음악만,,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=50s
+36,51.817,51.967,0.15,jump,hands,ECU,탑다운 → 렌즈 앞,고정,2x,"0.15초 모션블러 뒤집기가 전환 역할(움직임 43.6, 영상 최대), 배속 추정",reveal,,음악만,,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=51s
+37,51.967,52.55,0.583,jump,hands,CU,탑다운,고정,1x,점프컷(공이 화면을 채운 상태에서 이어 붙임),reveal,,음악만,,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=51s
+38,52.55,53.633,1.083,hard,face_hands,MS,정면 아이레벨,고정,1x,"하드컷(탑다운→스튜디오), 무자막",payoff,,음악 + 53.06s 온셋(작은 감탄 또는 반짝음 추정),"짧은 반짝음(53.3s, 추정)",https://www.youtube.com/watch?v=2t1I7H2UYT0&t=52s
+39,53.633,54.383,0.75,hard,object,CU,아이레벨 창가,고정,1x,"하드컷, 무자막",payoff,,음악만(RMS -22dB대),,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=53s
+40,54.383,54.85,0.467,hard,hands,MS,아이레벨 창가,고정,1x,"하드컷, 무자막",payoff,,젤리공 얹는 톡(54.45s 온셋),,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=54s
+41,54.85,56.6,1.75,jump,object,MS,아이레벨 창가,고정,1x,"점프컷, 무자막",payoff,,"탄산 쏴아(고역비 0.164·중심 3962Hz, 영상 최고)",,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=54s
+42,56.6,57.55,0.95,jump,object,MS,아이레벨 창가,고정,1x,"점프컷, 무자막 엔딩",loop,,"음악 마무리(저역 위주, 고역비 0.003)",,https://www.youtube.com/watch?v=2t1I7H2UYT0&t=56s

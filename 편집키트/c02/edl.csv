@@ -1,0 +1,47 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,1.933,1.933,hard,face_hands,MS,아이레벨 정면,고정(끝 0.3초 피사체가 팬을 렌즈로 밀기),1x,"오프닝 하드컷, 끝에 팬으로 렌즈 덮기(다음 컷 전환 트리거)",hook,,"국자로 설탕면 긁는 사각 고역(고역비 0.30, 5kHz 이상 52%)",반짝·차임류 음정 멜로디(추정),https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=0s
+2,1.933,2.55,0.617,match,person,MS,아이레벨 → 하이앵글 45°,고정,1x,"매치컷(렌즈를 덮은 팬 → 같은 팬), 컷 안 점프 1회(약 2.1s, 검출 누락)",setup,,"팬 내려놓는 둔탁음(2.25·2.44s 온셋), 음악 위주(-20dB)",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=1s
+3,2.55,5.767,3.217,jump,person,MS,하이앵글 45° 정면(몸통 배경),고정,2x,"점프컷(같은 몸통 구도), 배속 추정(모션블러 큼)",build,,"주걱이 바닥을 긁고 시트가 떨어지는 쩌억·쩍 — 온셋 14개(4.35/s), rms -11.7dB로 앞부분 최대",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=2s
+4,5.767,6.1,0.333,jump,person,MS,하이앵글 45° 정면(몸통 배경),고정,2x,0.33초 점프컷,build,,"덩어리 떨어지는 철퍽 — 0.33초에 온셋 2개(6.0/s), rms -11.7dB",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=5s
+5,6.1,6.883,0.783,jump,person,MS,하이앵글 45° 정면(몸통 배경),고정,2x,점프컷,build,,"끈적 늘어나는 소리, rms -16.8dB로 살짝 낮춤",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=6s
+6,6.883,7.067,0.183,jump,person,MS,하이앵글 45° 정면(몸통 배경),고정,2x,0.18초 초단 점프컷,build,,"짧은 끈적음, 온셋 2개(10.9/s)",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=6s
+7,7.067,8.017,0.95,hard,hands,CU,하이앵글 45°,고정,1x,하드컷(MS→CU 사이즈 업),build,,"주걱에 붙었다 떨어지는 끈적음, rms -10.8dB·저역 55%",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=7s
+8,8.017,8.717,0.7,jump,hands,CU,하이앵글 45°,고정,1x,"점프컷, 움직임 최대(motion 10.75)",build,,"늘어지는 끈적음, rms -10.7dB",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=8s
+9,8.717,9.833,1.117,hard,object,CU,하이앵글 45°,고정,1x,하드컷(장소·배경 전환: 창가 식물),build,,"주걱 긁는 소리 약하게, 중심 1.66kHz — 음악 비중 커짐",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=8s
+10,9.833,10.95,1.117,hard,object,CU,하이앵글 45°,고정,1x,하드컷,build,,"붓는 소리 거의 없음 — 온셋 0, rms -21.1dB, 음악만",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=9s
+11,10.95,12.033,1.083,hard,hands,CU,탑다운,고정,1x,하드컷,setup,,음악만(온셋 0),,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=10s
+12,12.033,13.683,1.65,hard,hands,MS,탑다운,고정,1x,"하드컷, 밝기 급상승(평균 171)",build,,"음악만(온셋 0, -19.6dB)",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=12s
+13,13.683,14.767,1.083,hard,hands,ECU,탑다운(매크로),고정,1x,하드컷(사이즈 업),build,,"음악만(온셋 2, -20.6dB)",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=13s
+14,14.767,15.517,0.75,hard,hands,MS,탑다운,고정,1x,하드컷(사이즈 다운),build,,"음악만(온셋 2, -22.2dB)",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=14s
+15,15.517,16.05,0.533,hard,face_hands,MS,아이레벨 정면,고정,1x,"하드컷(탑다운→얼굴, 장면 대비)",rehook,,"비닐 봉지 바스락 — 고역비 0.436, 중심 4.16kHz",상행 차임(추정),https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=15s
+16,16.05,16.983,0.933,jump,face_hands,MS,아이레벨 정면,고정,1x,점프컷,rehook,,"봉지 바스락 + 젤리 끌리는 소리 — 온셋 5개(5.36/s), 고역비 0.485",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=16s
+17,16.983,18.267,1.283,jump,face_hands,MS,아이레벨 정면,고정,1x,점프컷,reaction,,"젤리 마찰음, 고역비 0.201",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=16s
+18,18.267,19.433,1.167,jump,face_hands,MS,아이레벨 정면,고정,1x,"점프컷, 끝에 피사체 접근",reaction,,"젤리 늘어나는 소리, 온셋 1",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=18s
+19,19.433,19.95,0.517,hard,hands,MS,탑다운,고정,1x,"하드컷, 채도 급상승(sat 156)",build,,젤리 떨어지는 소리(19.51s 온셋),,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=19s
+20,19.95,20.3,0.35,jump,hands,MS,탑다운,고정,1x,0.35초 점프컷,build,,가위 싹둑(19.97s 온셋),,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=19s
+21,20.3,20.467,0.167,jump,hands,MS,탑다운,고정,1x,0.17초 점프컷,build,,음악만(온셋 0),,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=20s
+22,20.467,20.733,0.267,jump,hands,MS,탑다운,고정,1x,0.27초 점프컷,build,,가위 싹둑(20.62s 온셋),,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=20s
+23,20.733,21.45,0.717,jump,hands,MS,탑다운,고정,1x,점프컷,build,,"음악 저역만 크게(rms -11.3dB, 온셋 0)",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=20s
+24,21.45,22.8,1.35,hard,hands,CU,탑다운,고정,1x,하드컷(사이즈 업),build,,"음악 저역 위주(중심 1.0kHz), 누르는 소리 약함",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=21s
+25,22.8,23.3,0.5,jump,hands,CU,탑다운,고정,1x,점프컷,build,,쫀득 누르는 소리 — 0.5초에 온셋 3개(6.0/s),,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=22s
+26,23.3,23.683,0.383,hard,hands,MS,탑다운,고정,1x,"하드컷(사이즈 다운), 가장 밝은 컷(평균 184)",build,,거의 무음(-29.2dB),,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=23s
+27,23.683,24.783,1.1,jump,hands,MS,탑다운,고정,1x,점프컷,build,,감기·가위 소리 — 온셋 4개(3.64/s),,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=23s
+28,24.783,24.95,0.167,jump,object,MS,탑다운,고정,1x,0.17초 완성 스냅 점프컷,payoff,,음악만(온셋 0),,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=24s
+29,24.95,27.75,2.8,hard,face_hands,MS,탑다운 ECU → 아이레벨 정면,핸드헬드 → 고정,1x,"하드컷, 컷 안 점프 1회(검출 누락)",reveal,,"유산지 벗기는 바스락·찌익 — 온셋 10개(3.57/s), 고역비 0.285",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=24s
+30,27.75,30.15,2.4,hard,person,MS,하이앵글 45° 정면(몸통 배경),고정,2x,"하드컷(얼굴→몸통 배경), 배속 추정",build,,"젤리 마찰, 온셋 5개·고역비 0.168",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=27s
+31,30.15,32.183,2.033,jump,person,MS,하이앵글 45° 정면(몸통 배경),고정,2x,"점프컷, 배속 추정",build,,"음악 위주(온셋 2, 고역비 0.035)",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=30s
+32,32.183,34.733,2.55,jump,person,MS,하이앵글 45° 정면(몸통 배경),고정,2x,"점프컷, 배속 추정",tension,,"고무 마찰, 온셋 5개·고역비 0.18",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=32s
+33,34.733,39.217,4.483,hard,face_hands,MS,아이레벨 정면,고정,1x,하드컷 + BGM 교체,payoff,,시위 튕김(온셋 3개) — 34.8s부터 BGM이 지속 배음 음원으로 바뀌며 rms -10.8dB,"음악 교체 스팅(지속 배음, 추정)",https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=34s
+34,39.217,41.433,2.217,jump,face_hands,MS,아이레벨 정면,고정(끝에 피사체가 활을 렌즈로 밀기),1x,"점프컷, 끝 렌즈 푸시 전환",payoff,,"음악만 — 영상 최대 음량 rms -7.9dB, 약 196Hz·392Hz 배음 지속음",저음 현 지속음 '둥~'(추정),https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=39s
+35,41.433,41.883,0.45,hard,hands,CU,탑다운,고정,1x,"하드컷(렌즈 푸시에서 이어짐), 음량 급감",setup,,"칼질 거의 안 들림 — rms -28.8dB, 온셋 1",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=41s
+36,41.883,42.133,0.25,jump,hands,CU,탑다운,고정,1x,0.25초 점프컷,build,,음악만(-27.9dB),,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=41s
+37,42.133,43.967,1.833,jump,hands,CU,탑다운,고정,1x,점프컷,build,,"음악만(-28.2dB, 온셋 0)",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=42s
+38,43.967,44.217,0.25,jump,hands,CU,탑다운,고정,1x,0.25초 점프컷,build,,음악만(온셋 0),,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=43s
+39,44.217,44.55,0.333,jump,hands,CU,탑다운,고정,1x,0.33초 점프컷,build,,"음악만(-30.7dB, 영상 최저 수준)",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=44s
+40,44.55,46.383,1.833,jump,hands,CU,탑다운,고정,1x,점프컷,build,,음악만(-29.2dB),,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=44s
+41,46.383,46.717,0.333,jump,hands,CU,탑다운,고정(끝에 칼을 렌즈로 들어 올림),1x,"점프컷, 끝 렌즈 푸시 전환",build,,음악 저역(-15.6dB로 다시 커지기 시작),,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=46s
+42,46.717,48.183,1.467,match,hands,MS,아이레벨 정면(창가),고정,1x,"매치컷(칼 위 레몬 → 같은 레몬이 잔으로), 장소 전환",build,,얼음 쏟는 달그락 — 46.74~47.83s 온셋 6개,,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=46s
+43,48.183,48.683,0.5,jump,hands,MS,아이레벨 정면(창가),고정,1x,점프컷,reveal,,얼음에 닿는 소리 약하게(온셋 1),,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=48s
+44,48.683,51.333,2.65,jump,object,MS,아이레벨 정면(창가),고정,1x,"점프컷, 색 변화(투명→파랑)",payoff,,"붓는 쏴아·탄산 치익 — 49.04~49.41s 온셋 몰림, 50s 고역비 0.19",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=48s
+45,51.333,53.3,1.967,hard,face_hands,MS,아이레벨 정면,고정,1x,하드컷(창가→원래 정면 세트),payoff,,얼음 찰랑·젓는 소리 — 온셋 9개(4.58/s),,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=51s
+46,53.3,55.6,2.3,jump,face_hands,MS,아이레벨 정면,고정,1x,"점프컷, 첫 컷과 같은 구도로 끝남(소프트 루프)",reaction,,"빨대 후루룩 + 얼음 — 온셋 7개, 400Hz~1kHz 44%",,https://www.youtube.com/watch?v=3Ia0yKqWgiM&t=53s

@@ -1,0 +1,83 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,1.583,1.583,hard,face_hands,MS,아이레벨 정면,고정,1x,"오프닝 하드컷, 끝 0.4초 동안 틀을 렌즈로 밀어 화면 가림(다음 컷 매치 준비)",hook,,실리콘 비트는 고역 스파이크(0.28s 고역비 0.228) + 잔잔한 인트로 음악,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=0s
+2,1.583,1.867,0.283,match,hands,CU,탑다운,고정(틀이 렌즈 앞에서 조리대로 내려감),1x,렌즈 가림 매치컷 — 편집 줌이 아니라 틀을 내려놓는 실제 동작,setup,,"틀 내려놓는 저음 쿵(1.81s 약 -9dB, 현장음·BGM 드럼 구분 불가)",,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=1s
+3,1.867,2.6,0.733,jump,hands,CU,탑다운,고정,1x,하드컷(같은 구도 점프),build,,칼이 키위 가르는 사각 소리(2.21s 타격점),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=1s
+4,2.6,2.85,0.25,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,과일 눌림 저음 + 음악,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=2s
+5,2.85,3.583,0.733,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,촉촉한 과육 자르는 소리(3.30s 타격점),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=2s
+6,3.583,4.0,0.417,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=3s
+7,4.0,4.833,0.833,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,칼 타격 2회(4.46s·4.64s),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=4s
+8,4.833,6.25,1.417,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,"레몬 칼질 탁탁 연타(4.46~6.11s 타격점 8개, 컷 안 초당 4.2개 — 전반부 최고 밀도)",,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=4s
+9,6.25,7.367,1.117,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,음악만(칼 스치는 약한 소리),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=6s
+10,7.367,7.95,0.583,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=7s
+11,7.95,8.583,0.633,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,칼 타격 2회(8.10s·8.29s),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=7s
+12,8.583,9.667,1.083,jump,hands,CU,탑다운,고정,1x,"하드컷(점프), 손동작 빠름",build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=8s
+13,9.667,10.183,0.517,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=9s
+14,10.183,11.033,0.85,jump,hands,CU,탑다운,고정,2x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=10s
+15,11.033,12.417,1.383,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,딸기 칼질 2회(11.17s·11.52s),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=11s
+16,12.417,12.633,0.217,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=12s
+17,12.633,12.933,0.3,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=12s
+18,12.933,13.983,1.05,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,음악만(약한 칼질),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=12s
+19,13.983,15.15,1.167,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=13s
+20,15.15,15.55,0.4,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=15s
+21,15.55,15.85,0.3,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=15s
+22,15.85,16.433,0.583,jump,hands,CU,탑다운,편집 줌(펀치인) 추정,1x,하드컷(점프) + 도마가 빠진 확대 구도(펀치인 또는 카메라 근접 추정),build,,"음악만(-25dB, 전체에서 가장 조용한 컷)",,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=15s
+23,16.433,17.767,1.333,jump,object,CU,탑다운,편집 줌(펀치인) 유지 추정,1x,하드컷(점프),build,,물 졸졸 붓는 소리(17.32s 고역비 0.41 — 전반부 최고),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=16s
+24,17.767,18.017,0.25,jump,hands,ECU,탑다운,크래시 줌,1x,"크래시 줌 펀치인(움직임 값 18.8, 전체 최고)",rehook,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=17s
+25,18.017,18.8,0.783,hard,hands,CU,POV,핸드헬드,1x,하드컷(장소 전환: 냉동실),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=18s
+26,18.8,18.917,0.117,flash,object,WS,아이레벨,고정,1x,0.12초 플래시 컷,broll,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=18s
+27,18.917,19.233,0.317,whip,object,MS,아이레벨,고정,1x,"문 닫힘 와이프(휩) 전환, 가전 로고 노출",broll,,문 닫힘 쿵(19.02s 타격점),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=18s
+28,19.233,19.9,0.667,hard,face_hands,MS,아이레벨 정면,고정,1x,하드컷(시간 경과: 의상 교체),reveal,,음악 볼륨 상승(-18→-13dB) — 후렴 진입 추정,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=19s
+29,19.9,21.2,1.3,jump,face_hands,MS,아이레벨 정면,고정,1x,하드컷(점프),tension,,"실리콘 떼는 쩍 소리(20.6s 고역비 0.31, 컷 안 타격점 7개)",,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=19s
+30,21.2,21.983,0.783,jump,face_hands,MS,아이레벨 정면,고정,1x,하드컷(점프),tension,,음악 + 얼음 스침,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=21s
+31,21.983,22.8,0.817,jump,face_hands,MS,아이레벨 정면,고정,1x,하드컷(점프),tension,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=21s
+32,22.8,26.217,3.417,jump,face_hands,MS,아이레벨 정면,고정,1x,하드컷(점프) + 피사체를 렌즈로 들이밀기,reveal,,"얼음·실리콘 마찰음(24.0s 고역비 0.649 = 영상 전체 순간 최고, 잡음형 스펙트럼), 컷 안 타격점 12개·평균 고역비 0.083",,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=22s
+33,26.217,27.417,1.2,hard,face_hands,MS,아이레벨 정면,고정,1x,하드컷(두 번째 미션 시작),setup,,"초콜릿 칩 차르르(타격점 9개, 초당 7.5개, 고역비 0.144)",,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=26s
+34,27.417,28.433,1.017,hard,person,MS,하이앵글 45°,고정,1x,하드컷(앵글 전환),build,,칩 떨어지는 소리(타격점 5개),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=27s
+35,28.433,28.967,0.533,jump,person,MS,하이앵글 45°,고정,1x,하드컷(점프),build,,칩 부딪히는 소리,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=28s
+36,28.967,29.283,0.317,jump,person,MS,하이앵글 45°,고정,1x,하드컷(점프),build,,칩 부딪힘 쨍(고역비 0.213),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=28s
+37,29.283,29.8,0.517,jump,person,MS,하이앵글 45°,고정,1x,하드컷(점프),build,,음악 + 봉지 바스락,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=29s
+38,29.8,30.683,0.883,hard,object,CU,탑다운,고정,1x,하드컷(앵글 전환: 탑다운),build,,물 붓는 소리(29.81s 타격점) + 음악 커짐,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=29s
+39,30.683,31.333,0.65,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=30s
+40,31.333,31.583,0.25,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=31s
+41,31.583,31.75,0.167,jump,object,ECU,탑다운,편집 줌(펀치인),1x,편집 펀치인(같은 테이크 확대),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=31s
+42,31.75,32.167,0.417,hard,hands,CU,하이앵글 45°,고정,1x,하드컷(장소 전환: 상판 클로즈),build,,음악만(비닐 바스락 약하게),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=31s
+43,32.167,32.583,0.417,jump,hands,CU,하이앵글 45°,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=32s
+44,32.583,32.983,0.4,jump,hands,CU,하이앵글 45°,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=32s
+45,32.983,33.533,0.55,jump,hands,CU,하이앵글 45°,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=32s
+46,33.533,34.3,0.767,jump,hands,CU,하이앵글 45°,고정,1x,하드컷(점프) + 피사체를 렌즈로 가까이,build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=33s
+47,34.3,34.583,0.283,jump,hands,CU,하이앵글 45°,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=34s
+48,34.583,35.083,0.5,jump,hands,CU,하이앵글 45°,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=34s
+49,35.083,35.4,0.317,jump,hands,CU,하이앵글 45°,고정,1x,하드컷(점프),build,,비닐 바스락(고역비 0.076),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=35s
+50,35.4,35.683,0.283,jump,hands,CU,하이앵글 45°,고정,2x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=35s
+51,35.683,35.917,0.233,jump,hands,CU,하이앵글 45°,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=35s
+52,35.917,36.283,0.367,jump,hands,CU,하이앵글 45°,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=35s
+53,36.283,36.533,0.25,jump,hands,ECU,하이앵글 45°,고정,1x,하드컷(점프),build,,음악 최대 구간 진입(-9dB),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=36s
+54,36.533,36.833,0.3,hard,hands,CU,탑다운,고정,1x,하드컷(앵글 전환: 탑다운 접시),build,,"음악(-8.3dB, 가장 큰 구간)",,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=36s
+55,36.833,37.417,0.583,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=36s
+56,37.417,37.583,0.167,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=37s
+57,37.583,37.733,0.15,jump,object,CU,탑다운,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=37s
+58,37.733,37.917,0.183,jump,hands,CU,탑다운,편집 줌(펀치인),1x,편집 펀치인,build,,음악만(가위 소리 약함),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=37s
+59,37.917,38.083,0.167,jump,hands,CU,탑다운,편집 줌(펀치인),1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=37s
+60,38.083,38.533,0.45,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=38s
+61,38.533,38.85,0.317,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=38s
+62,38.85,39.5,0.65,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=38s
+63,39.5,39.817,0.317,jump,hands,CU,탑다운,고정,1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=39s
+64,39.817,40.167,0.35,jump,hands,CU,탑다운,편집 줌(펀치인),1x,편집 펀치인,build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=39s
+65,40.167,40.483,0.317,jump,hands,CU,탑다운,편집 줌(펀치인),1x,하드컷(점프),build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=40s
+66,40.483,41.183,0.7,jump,hands,CU,탑다운,편집 줌(펀치인) 유지,1x,"하드컷(점프), 컷64~65와 같은 확대 구도 유지",reveal,,"음악(-17.8dB, 잠깐 낮아짐)",,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=40s
+67,41.183,42.317,1.133,jump,hands,CU,탑다운,편집 줌(펀치인),1x,하드컷(점프) 확대 구도,build,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=41s
+68,42.317,42.9,0.583,jump,hands,CU,탑다운,편집 줌(펀치인) 유지,1x,하드컷(점프),build,,톡톡 타격 2회(42.63s·42.75s),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=42s
+69,42.9,43.117,0.217,jump,object,ECU,탑다운,크래시 줌,1x,크래시 줌 푸시인 → 흰 화면 전환(움직임 값 12.5),rehook,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=42s
+70,43.117,44.5,1.383,hard,hands,MS,하이앵글 45°,고정,1x,하드컷(장소 전환: 통창 창가),build,,"얼음 와르르(43.14s·43.28s 타격점, 고역비 0.099)",,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=43s
+71,44.5,45.883,1.383,jump,hands,MS,하이앵글 45°,고정,1x,하드컷(점프),build,,얼음 위에 놓는 달그락(45.23s),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=44s
+72,45.883,46.55,0.667,hard,hands,CU,POV,핸드헬드,1x,하드컷(POV 클로즈),build,,아이스바 부딪히는 짤랑,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=45s
+73,46.55,47.1,0.55,hard,hands,MS,하이앵글 45°,고정,1x,하드컷(구도 복귀),build,,얼음 부딪힘(타격점 2개),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=46s
+74,47.1,47.667,0.567,hard,hands,CU,POV,핸드헬드,1x,하드컷(POV 클로즈),build,,"트레이 비트는 뽀각(타격점 3개, 고역비 0.091)",,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=47s
+75,47.667,48.267,0.6,jump,hands,CU,POV,핸드헬드,1x,하드컷(점프),build,,얼음 쩍 소리(타격점 3개),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=47s
+76,48.267,49.667,1.4,hard,hands,MS,하이앵글 45°,고정,1x,하드컷(구도 복귀),build,,"얼음 부딪힘 연타(타격점 8개, 초당 5.7개)",,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=48s
+77,49.667,50.617,0.95,hard,hands,CU,POV,핸드헬드,1x,하드컷(POV 클로즈),reveal,,음악 위주(-11dB),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=49s
+78,50.617,51.267,0.65,hard,hands,MS,아이레벨,고정,1x,하드컷(아이레벨 히어로 구도),payoff,,음악만,,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=50s
+79,51.267,53.683,2.417,hard,hands,MS,아이레벨,고정,1x,"하드컷(컷78보다 넓은 구도로 전환), 붓기 소리 시작 프레임에 컷",payoff,,"붓는 소리 쏴아 — 컷 첫 프레임에 고역비 0.001→0.24 급상승, 최고 0.34; 음악은 -9→-14dB로 덕킹",,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=51s
+80,53.683,54.617,0.933,hard,object,MS,아이레벨,고정,1x,하드컷(근접 구도),payoff,,붓는 소리 지속(고역비 0.216),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=53s
+81,54.617,55.817,1.2,hard,object,MS,아이레벨,회전,1x,하드컷 + 오빗 카메라 무브,payoff,,탄산 기포·얼음 소리(고역비 0.136),,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=54s
+82,55.817,59.733,3.917,hard,face_hands,MS,아이레벨 정면,고정,1x,"하드컷(장소 전환: 오프닝과 같은 가랜드 배경 스튜디오, 원목 테이블)",reaction,,"빨대로 얼음 휘젓는 달그락(타격점 13개, 고역비 0.095)",,https://www.youtube.com/watch?v=tkdIvzuZeTA&t=55s

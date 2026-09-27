@@ -1,0 +1,40 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,1.8,1.8,hard,face_hands,MS,정면 아이레벨,고정 + 피사체 렌즈 접근,1x,"첫 컷. 단어 단위 타자기 자막(약 0.2초 간격), 포장을 렌즈로 밀어 화면 가림",hook,전국 히트 → 브랜드명(타자기),"대형 비닐 포장이 스치는 휙·바스락(첫 온셋 0.07s), 밝은 BGM 시작",휙(추정),https://www.youtube.com/watch?v=VzC_u0lybgQ&t=0s
+2,1.8,3.683,1.883,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷(아크릴 박스 추가), 자막 유지",hook,브랜드명 유지,"비닐 포장 수십 개가 우르르 쏟아지는 소리 — 영상 최대 피크 -12.2dB, 2.0~2.5s rms -13.9dB로 음악 위로 크게",,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=1s
+3,3.683,4.167,0.483,hard,face_hands,MCU,정면 아이레벨,고정,1x,"하드컷(구도 리셋·샷 크기 한 단계 업), 타자기 자막 시작",setup,국산·천연 (타자기),포장 스치는 바스락 + 음악,,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=3s
+4,4.167,4.583,0.417,jump,face_hands,MCU,정면 아이레벨,고정,1x,"점프컷 0.42s, 타자기 자막 완성",setup,국산·천연색소 완성,"비닐 찢는 바삭 소리, 고역비 0.379(영상 상위권)",,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=4s
+5,4.583,5.133,0.55,jump,face_hands,MCU,정면 아이레벨,고정,1x,점프컷 0.55s,reveal,국산·천연색소,포장 미끄러지는 슥 소리(온셋 4.67·4.74s) + 음악,,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=4s
+6,5.133,6.35,1.217,match,face_hands,MCU,정면 아이레벨,고정,1x,"모양 매치 컷, 핵심 한 단어를 흰 글씨+빨간 두꺼운 테두리 대형 자막으로 팝",reveal,업그레이드 → 젤리바 강조,음악만(고역비 0.036),,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=5s
+7,6.35,7.333,0.983,jump,face_hands,MCU,정면 아이레벨,고정,1x,"점프컷, 좌우 대칭 비교 구도",build,젤리바 강조 유지,음악만(고역비 0.005),,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=6s
+8,7.333,10.167,2.833,jump,face_hands,MCU,정면 아이레벨,고정 + 피사체 렌즈 접근,1x,"등급 HUD 첫 등장, 점선 원 팝, 빨간 등급 문자 도장",build,무색소 강조 → 5분 상태,"7.5s 첫 바이트 고역비 순간 0.6~0.77로 급등, 음악 rms -23~-26dB로 더킹, 9.1~10.4s 씹는 소리 온셋 밀집","도장·띵(추정, 10.1s)",https://www.youtube.com/watch?v=VzC_u0lybgQ&t=7s
+9,10.167,11.233,1.067,jump,face_hands,MCU,정면 아이레벨,고정 + 피사체 렌즈 접근,1x,"점프컷(도장 0.05초 뒤 얼굴·단면이 한 단계 커진 구도, 하단 패키지 크기는 그대로 = 편집 줌이 아닌 시간 점프), 자막 교체",reaction,국산이라 안심,"씹는 소리 잔향 + 음악(컷 고역비 0.049, 온셋 3개)",,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=10s
+10,11.233,11.617,0.383,jump,face_hands,MCU,정면 아이레벨,고정,1x,점프컷 0.38s,setup,국산이라 안심,"비닐 찢는 소리, 초당 온셋 5.22, 고역비 0.32",,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=11s
+11,11.617,12.217,0.6,jump,face_hands,MCU,정면 아이레벨,고정,1x,"점프컷 0.60s, HUD 점선 원 0m 이동",setup,국산이라 안심,포장 슥 + 음악(고역비 0.222),,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=11s
+12,12.217,13.1,0.883,jump,face_hands,MCU,정면 아이레벨,고정 + 피사체 렌즈 접근,1x,점프컷,build,바로 먹어도 OK,"음악만, rms -26dB로 낮춰 곧 올 바이트에 대비",,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=12s
+13,13.1,16.833,3.733,jump,face_hands,MCU,정면 아이레벨,고정 + 피사체 렌즈 접근,1x,"롱테이크 3.73s(영상 최장), 'A+' 도장",payoff,쫀득 아이스크림 → 상큼 사과맛,"영상 최고 밀도 ASMR — 한 컷 20온셋(초당 5.36), 고역비 0.316, 음악을 -30~-24dB로 내려 사각 씹는 소리 전면","도장·띵(추정, 16.7s)",https://www.youtube.com/watch?v=VzC_u0lybgQ&t=13s
+14,16.833,18.1,1.267,jump,face_hands,CU,정면 아이레벨,편집 줌(펀치인),1x,"편집 펀치인 줌 약 130%, 하단 패키지가 크게 보임",reaction,상큼 사과맛,씹는 소리 잔향 + 음악(고역비 0.085),,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=16s
+15,18.1,18.517,0.417,jump,face_hands,MCU,정면 아이레벨,고정,1x,"점프컷 0.42s, HUD 원 30m 이동",setup,30분 → 투명 젤리,"비닐 찢기, 고역비 0.335",,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=18s
+16,18.517,20.767,2.25,jump,face_hands,MCU,정면 아이레벨,고정,1x,점프컷,reveal,투명 젤리 → 영롱함,음악만(고역비 0.074),,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=18s
+17,20.767,22.017,1.25,jump,face_hands,MCU,정면 아이레벨,고정,1x,점프컷,reveal,영롱한 젤리,음악만(고역비 0.022),,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=20s
+18,22.017,25.233,3.217,jump,face_hands,MCU,정면 아이레벨,고정,1x,"컷 안 점프컷 1회(22.52s, 고개 방향이 1프레임 만에 바뀜)",reaction,저칼로리 강조 → 쟁여두기,"젤리 씹는 찰박 소리, 22.85~24.75s 온셋 8개(컷 평균 고역비 0.141)",,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=22s
+19,25.233,27.017,1.783,jump,face_hands,MCU,정면 아이레벨,고정 + 피사체 렌즈 접근,1x,"'A' 도장으로 등급판 완성, 젤리로 렌즈 덮기(다음 컷 전환 준비)",payoff,칼로리 걱정 없음,젤리 흔들림·찰랑(25.2~25.4s 고역비 0.47~0.56),"도장·띵(추정, 25.3s)",https://www.youtube.com/watch?v=VzC_u0lybgQ&t=25s
+20,27.017,27.817,0.8,whip,person,MS,하이앵글 45°,고정,1x,"오브젝트 와이프(젤리 렌즈 가림) 전환, 뒤에 포장 스탠디",rehook,개인 추천: 5분,음악 급감(rms -29.7dB) — 조용한 테이블 소리,,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=27s
+21,27.817,28.267,0.45,jump,person,MS,하이앵글 45°,고정,1x,점프컷 0.45s,setup,개인 추천 유지,"조용함(rms -27.8dB), 젤리 눌리는 소리 약하게",,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=27s
+22,28.267,29.317,1.05,jump,person,MS,하이앵글 45°,고정,1x,점프컷,build,중간 상태 = 최고,"칼이 젤리 가르는 소리(온셋 28.05·28.44·28.8s), 음악 -25dB대로 낮춤",,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=28s
+23,29.317,29.683,0.367,hard,hands,MS,탑다운,고정,1x,"하드컷(하이앵글 → 탑다운), 밝기 164·채도 117로 급상승",build,가장 맛있었다,"막대·조각이 접시에 닿는 톡(29.4s, 온셋 29.35·29.42s), 초당 온셋 5.45",,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=29s
+24,29.683,29.983,0.3,jump,hands,MS,탑다운,고정,1x,점프컷 0.30s,build,가장 맛있었다 유지,"음악 복귀(rms -16.8dB), 현장음 거의 없음",,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=29s
+25,29.983,30.55,0.567,hard,hands,ECU,탑다운 매크로,고정,1x,하드컷(샷 크기 급변 MS → ECU),payoff,바로 → 점점 젤리로,음악만(고역비 0.011) — 칼질 현장음 대신 BGM,,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=29s
+26,30.55,31.283,0.733,jump,hands,CU,탑다운,고정,1x,점프컷 0.73s,payoff,점점 젤리로 유지,음악만(고역비 0.010),,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=30s
+27,31.283,32.033,0.75,hard,hands,CU,탑다운,고정,1x,하드컷(프레이밍 회전),payoff,모든 식감,음악만(고역비 0.016),,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=31s
+28,32.033,32.283,0.25,jump,hands,CU,탑다운,고정,1x,점프컷 0.25s,payoff,모든 식감 유지,음악만(고역비 0.025),,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=32s
+29,32.283,32.5,0.217,jump,hands,CU,탑다운,고정,1x,점프컷 0.22s(최단),payoff,모든 식감 유지,음악만(고역비 0.046),,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=32s
+30,32.5,33.05,0.55,jump,hands,CU,탑다운,고정,1x,점프컷 0.55s(32.50s 경계 프레임에서 큐브 수가 바뀜 — 검출 오류 아님),payoff,모든 식감 유지,음악만(고역비 0.040),,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=32s
+31,33.05,33.8,0.75,hard,hands,CU,탑다운,고정,1x,하드컷(기울어진 구도),payoff,모든 식감 유지,음악만(고역비 0.012),,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=33s
+32,33.8,34.117,0.317,hard,object,CU,탑다운,크래시 줌,1x,"크래시 줌(motion 16.85, 영상 최대), 채도 181로 최고",payoff,완전 매력,"음악만(고역비 0.001, rms -15.4dB 음악 최고조)",,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=33s
+33,34.117,35.217,1.1,hard,object,MS,아이레벨(카운터 높이),고정,1x,"하드컷(로케이션 전환, 창 역광·식물 배경) + 컷 안 점프 3회(스쿱 내용물이 1프레임 만에 바뀜)",build,완전 매력 유지,"큐브·얼음이 잔에 부딪히는 쨍 소리(34.3~35.5s 온셋 7개, 고역비 0.28)",,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=34s
+34,35.217,38.633,3.417,jump,hands,MS,아이레벨(카운터 높이),고정,1x,"컷 안 점프컷 3회(35.52·35.88·36.37s, 스쿱·장갑이 1프레임 만에 사라짐)",payoff,에이드·칵테일 → 홈카페,"탄산 붓는 소리·기포, 고역비 0.277, 37~38s 0.37~0.41로 상승",,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=35s
+35,38.633,39.933,1.3,hard,face_hands,MCU,정면 아이레벨,고정,1x,"하드컷(장소 복귀, 같은 잔으로 연결), 탄산 소리 브리지",cta,홈카페 → 망설이지 말고,"탄산 기포 지글거림이 컷을 넘어 이어짐 — 영상 최고 고역비 0.548, 중심 5054Hz",,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=38s
+36,39.933,40.933,1.0,jump,face_hands,MCU,정면 아이레벨,고정,1x,"점프컷, CTA 자막 고정 시작(약 40.5s~끝, 약 5초)",cta,편의점 가라 CTA,음악만(고역비 0.014),,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=39s
+37,40.933,42.933,2.0,jump,face_hands,MCU,정면 아이레벨,고정,1x,점프컷,reaction,CTA 유지,"젤리 씹는 소리(41.2~42.2s 온셋 6개, 고역비 0.188)",,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=40s
+38,42.933,44.717,1.783,jump,face_hands,MCU,정면 아이레벨,고정,1x,점프컷,reaction,CTA 유지,"마시는 소리 추정(온셋 42.84·43.35s), 음악 비중 큼",,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=42s
+39,44.717,45.383,0.667,jump,face_hands,MCU,정면 아이레벨,고정,1x,"점프컷, 페이드 없이 하드컷 종료",loop,CTA 유지,음악만(고역비 0.025),,https://www.youtube.com/watch?v=VzC_u0lybgQ&t=44s

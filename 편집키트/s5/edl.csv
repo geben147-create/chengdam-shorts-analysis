@@ -1,0 +1,60 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,4.204,4.204,hard,person,MCU,정면,핸드헬드,1x,첫 프레임부터 상단 제목 알약+하단 자막 고정. 컷 안 점프컷 약 4회(≈1.0·1.2·1.4·2.0s)로 동작만 남김,hook,1센트 vs 100달러 · 놀람 한마디,"가격 대비 문장 TTS가 0.0초부터 바로 시작, 음악 없음",,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=0s
+2,4.204,5.172,0.968,hard,person,MS,하이앵글 45°,핸드헬드,1x,하드컷. 아이 얼굴은 뒤통수만(얼굴 없음),setup,아이 갇힘 문제,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=4s
+3,5.172,6.807,1.635,jump,person,MS,하이앵글 45°,핸드헬드,1x,"점프컷(같은 장면 재구도, 약 0.97초 뒤 전환)",setup,아이 갇힘 문제(유지),TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=5s
+4,6.807,9.209,2.402,hard,hands,CU,측면,고정,1x,하드컷(다른 원본 클립). 해결 문장 시작 0.25초 전 화면이 먼저 넘어감,build,문손잡이에 감기,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=6s
+5,9.209,10.444,1.235,hard,hands,CU,측면,핸드헬드,1x,하드컷. 끝 프레임은 열린 문 틈(어두움),payoff,문제 예방,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=9s
+6,10.444,12.145,1.702,hard,hands,CU,아이레벨,핸드헬드,1x,"하드컷(새 꿀팁, 밝은 역광 야외)",build,옷걸이 양끝,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=10s
+7,12.145,14.481,2.336,hard,hands,MS,아이레벨,핸드헬드,1x,하드컷. 끝은 손 없이 바지만 걸린 결과 프레임,payoff,안 미끄러짐,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=12s
+8,14.481,15.249,0.767,hard,hands,CU,아이레벨,핸드헬드,1x,하드컷(다른 원본). 0.77초 짧은 컷,build,고리에 꿰기,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=14s
+9,15.249,15.883,0.634,hard,hands,CU,아이레벨,고정,1x,하드컷. 0.63초,build,고리에 꿰기(유지),TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=15s
+10,15.883,16.984,1.101,jump,hands,MCU,아이레벨,고정,1x,"점프컷(같은 구도, 단계 건너뜀)",build,바람에 안 날림,"치찰음 많은 문장 구간(고역비 0.184, 온셋 5.45/초)",,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=15s
+11,16.984,18.652,1.668,jump,hands,MS,정면,고정,1x,점프컷(더 넓은 구도로 결과 보여줌),payoff,바람에 안 날림(유지),TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=16s
+12,18.652,20.754,2.102,hard,face_hands,MS,정면,고정,1x,하드컷. 영상 유일한 얼굴 등장 — 코믹 몸짓 점프컷 몽타주,setup,병이 안 열림,"TTS만, 남성의 원음은 들리지 않음(추정)",,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=18s
+13,20.754,23.357,2.603,hard,hands,CU,하이앵글 45°,고정,1x,하드컷(인서트). 끝 프레임에 열린 뚜껑,reveal,작은 고무줄 도움,문장 사이 22.5초 부근 저음 타격 1회(뚜껑 열림음 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=20s
+14,23.357,24.591,1.235,hard,face,MS,정면,고정,1x,하드컷. 리액션 샷(얼굴 CU급 표정),reaction,쉽게 돌아감,치찰음 구간(고역비 0.193),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=23s
+15,24.591,26.527,1.935,hard,hands,CU,하이앵글 45°,고정,1x,"하드컷(새 꿀팁, 보라 조명 스튜디오). 컷 안 점프 1회(≈26.4s)",setup,비누받침 물 고임,"치찰음 구간(고역비 0.119), 물소리 없음",,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=24s
+16,26.527,28.595,2.069,hard,hands,CU,하이앵글 45°,고정,1x,하드컷,build,고무줄 3개,"치찰음 구간(고역비 0.161, 온셋 4.83/초)",,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=26s
+17,28.595,29.563,0.968,jump,hands,CU,하이앵글 45°,고정,1x,점프컷,build,비누 뽀송,치찰음 최다 구간(고역비 0.284) — s음 많은 문장,,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=28s
+18,29.563,31.431,1.869,hard,object,ECU,매크로,고정,1x,하드컷. 손 없는 물체 매크로,payoff,비누 뽀송(유지),TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=29s
+19,31.431,32.933,1.502,hard,hands,CU,아이레벨,핸드헬드,1x,하드컷(새 꿀팁). 실제로는 머리끈 사용,setup,정리함 없을 때,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=31s
+20,32.933,34.034,1.101,hard,hands,CU,POV,핸드헬드,1x,하드컷. 1.1초,build,컵에 고무줄,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=32s
+21,34.034,34.601,0.567,jump,hands,CU,POV,핸드헬드,1x,점프컷. 0.57초 — 빡빡 구간 시작,build,컵에 고무줄(유지),무음에 가까운 문장 끝(온셋 0),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=34s
+22,34.601,34.902,0.3,jump,hands,CU,POV,핸드헬드,1x,점프컷. 0.30초 초단컷,build,컵에 고무줄(유지),"가장 조용한 컷(RMS -33.3dB, 문장 사이)",,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=34s
+23,34.902,36.537,1.635,hard,hands,MCU,아이레벨,고정,1x,하드컷. 끝은 손 떠난 완성 프레임,payoff,도구 꽂이,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=34s
+24,36.537,38.772,2.236,hard,hands,MCU,정면,고정,1x,"하드컷(새 꿀팁, 욕실 타일 배경)",setup,테이블 없이 충전,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=36s
+25,38.772,42.409,3.637,jump,hands,MCU,정면,핸드헬드,1x,점프컷. 3.64초로 이 영상 3번째 긴 컷,build,폰에 감기·케이블 통과,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=38s
+26,42.409,43.877,1.468,jump,hands,CU,정면,핸드헬드,1x,점프컷(더 가까운 CU),build,케이스로 고정,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=42s
+27,43.877,44.578,0.701,jump,hands,CU,정면,핸드헬드,1x,점프컷. 0.7초,build,충전기 근처에 걸기,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=43s
+28,44.578,45.946,1.368,jump,hands,MS,정면,고정,1x,점프컷(넓은 구도 결과),payoff,공간 절약,치찰음 구간(고역비 0.221) — s음 문장,,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=44s
+29,45.946,46.513,0.567,hard,hands,CU,하이앵글 45°,고정,1x,"하드컷(새 꿀팁, 나무 도마 세트) — 가장 빠른 구간 시작(0.57초)",setup,봉지 속 통,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=45s
+30,46.513,47.281,0.767,jump,hands,MS,하이앵글 45°,고정,1x,점프컷. 0.77초,build,봉지 속 통(유지),짧은 컷에 온셋 5.22/초 — 말이 빽빽,,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=46s
+31,47.281,48.015,0.734,hard,hands,CU,정면,고정,1x,하드컷(정면 인서트). 0.73초,build,입구에 고무줄,치찰음 구간(고역비 0.166),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=47s
+32,48.015,48.649,0.634,jump,hands,MS,하이앵글 45°,고정,1x,점프컷. 0.63초,build,입구에 고무줄(유지),TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=48s
+33,48.649,49.182,0.534,jump,hands,CU,하이앵글 45°,고정,1x,점프컷. 0.53초 — 이 구간 최단,build,입구에 고무줄(유지),TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=48s
+34,49.182,50.083,0.901,jump,hands,MS,하이앵글 45°,고정,1x,점프컷. 0.9초,build,손잡이 밑으로,문장 사이 무온셋(0),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=49s
+35,50.083,51.685,1.602,jump,hands,CU,하이앵글 45°,고정,1x,점프컷(더 가까운 CU),build,손잡이 밑으로(유지),TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=50s
+36,51.685,53.62,1.935,jump,hands,MS,하이앵글 45°,고정,1x,점프컷. 썸네일(src.jpg)이 이 장면,reveal,복주머니 보관함,온셋 5.17/초로 말 빽빽,,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=51s
+37,53.62,54.254,0.634,jump,hands,CU,탑다운,고정,1x,점프컷. 0.63초,payoff,과일·채소 보관,치찰음 구간(고역비 0.214),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=53s
+38,54.254,55.722,1.468,jump,hands,MS,하이앵글 45°,고정,1x,점프컷,payoff,과일·채소 보관(유지),TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=54s
+39,55.722,56.29,0.567,jump,hands,CU,탑다운,고정,1x,점프컷. 0.57초 — 보관함 파트 마지막,payoff,과일·채소 보관(유지),TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=55s
+40,56.29,58.659,2.369,hard,hands,CU,탑다운,고정,1x,하드컷(새 꿀팁),setup,여행용 고무줄,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=56s
+41,58.659,59.259,0.601,hard,hands,MS,아이레벨,고정,1x,하드컷. 0.6초,payoff,옷 걸기,치찰음 구간(고역비 0.163),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=58s
+42,59.259,60.294,1.034,hard,object,MS,아이레벨,고정,1x,하드컷. 손 없는 결과 프레임,payoff,옷 걸기(유지),"문장 사이 무온셋, 조용한 구간",,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=59s
+43,60.294,65.132,4.838,hard,hands,MS,정면,고정,1x,하드컷. 4.84초로 가장 긴 컷. 오른쪽 아래 흰 얼룩(원본 로고 가림 추정),build,걸이 구멍 작음·해결,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=60s
+44,65.132,65.332,0.2,hard,hands,CU,하이앵글 45°,고정,2x,"하드컷. 0.2초, 움직임 24.4(영상 최대) — 진입부 가속 추정",setup,고무줄 2개 교차,문장 사이(온셋 0),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=65s
+45,65.332,66.667,1.335,false,hands,CU,하이앵글 45°,고정,1x,검출 오류 — 44번 장면이 끊김 없이 이어짐,build,고무줄 2개 교차(유지),치찰음 구간(고역비 0.153),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=65s
+46,66.667,67.434,0.767,hard,hands,CU,하이앵글 45°,고정,1x,하드컷. 0.77초,build,폰 뒷면에,"영상 최고 치찰음(고역비 0.409, 센트로이드 4489Hz) — s음 많은 문장",,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=66s
+47,67.434,68.969,1.535,jump,hands,CU,하이앵글 45°,고정,1x,"점프컷(폰 각도 급변, 컷 점수 4.0으로 경계값)",build,폰 뒷면에(유지),TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=67s
+48,68.969,69.369,0.4,hard,hands,CU,아이레벨,고정,1x,하드컷. 0.4초 초단컷,build,병으로 거치대,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=68s
+49,69.369,71.071,1.702,jump,hands,CU,아이레벨,고정,1x,점프컷,build,병으로 거치대(유지),TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=69s
+50,71.071,72.506,1.435,jump,hands,CU,아이레벨,고정,1x,점프컷. 끝은 손 거의 없는 완성 프레임,payoff,각도 조절,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=71s
+51,72.506,77.144,4.638,hard,hands,CU,탑다운,고정,1x,"하드컷. 4.64초 긴 컷, 조명 반사광 번쩍임",setup,일회용 장갑 고정,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=72s
+52,77.144,80.647,3.504,hard,hands,CU,하이앵글 45°,고정,1x,하드컷(새 꿀팁). 3.5초 컷 안 점프 몽타주,build,막대 자르기·감기,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=77s
+53,80.647,81.782,1.134,jump,hands,CU,하이앵글 45°,고정,1x,점프컷,build,나무 조각 추가,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=80s
+54,81.782,82.916,1.134,jump,hands,CU,하이앵글 45°,고정,1x,점프컷,reveal,수제 집게 완성,"온셋 적음(1.76/초), 문장 끝",,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=81s
+55,82.916,83.884,0.968,hard,hands,CU,아이레벨,핸드헬드,1x,하드컷. 실사용 컷,payoff,수제 집게 완성(유지),치찰음 구간(고역비 0.125),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=82s
+56,83.884,85.185,1.301,hard,hands,CU,탑다운,핸드헬드,1x,하드컷(마지막 꿀팁),setup,탄력 잃은 고무줄,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=83s
+57,85.185,87.588,2.402,hard,object,MCU,탑다운,고정+편집 줌(펀치인),1x,하드컷. 컷 안 줌인→줌아웃(원본 카메라 또는 편집 줌 추정),build,뜨거운 물에 담그기,"물결 소리 없음, TTS만",,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=85s
+58,87.588,88.989,1.401,jump,hands,MCU,하이앵글 45°,틸트,1x,점프컷. 끝에서 카메라가 올라가며 들어 올린 끈을 따라감,payoff,다시 사용,TTS 내레이션만(원본 현장음 제거 추정),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=87s
+59,88.989,89.056,0.067,flash,text,WS,정면,고정,1x,검은 끝 프레임 0.07초 — 아웃트로·구독 요청 없음,loop,,무음(RMS -31.3dB),,https://www.youtube.com/watch?v=LM6QQa5VoY8&t=88s

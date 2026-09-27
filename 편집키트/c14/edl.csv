@@ -1,0 +1,33 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,3.817,3.817,hard,face_hands,MS,정면 아이레벨,고정,1x,"하드컷(시작) · 효과 없음, 3.8초 원테이크",hook,,"뚜껑 '뽁'(0.72s 고역 스파이크) + 반죽 철퍽 + 짧은 비명 추정, BGM 위로 현장음을 살림",,https://www.youtube.com/watch?v=VCClwwc95jo&t=0s
+2,3.817,7.0,3.183,hard,face_hands,CU,정면 아이레벨,고정,1x,하드컷(옷·촬영일 전환),build,,"4.3~5.1s 조용한 구간에 플라스틱 마찰(고역비 0.46~0.56) → 5.3~6.2s 큰 저역 + 물결 배음(힘주는 목소리 추정), 컷 고역비 0.127",,https://www.youtube.com/watch?v=VCClwwc95jo&t=3s
+3,7.0,8.583,1.583,jump,face_hands,CU,정면 아이레벨,고정,1x,점프컷(준비 과정 생략),reaction,,"몰드 여는 딸깍(초당 온셋 3.16, 고역비 0.166)",,https://www.youtube.com/watch?v=VCClwwc95jo&t=7s
+4,8.583,10.017,1.433,hard,face_hands,CU,정면 아이레벨,고정,1x,하드컷 · 얼굴이 렌즈로 다가와 화면을 채움(움직임 값 6.82),reaction,,"8.96s 고역 스파이크(0.71, 양파 떨어지는 소리 추정) → 9.24~9.66s 짧은 감탄 추정(영상 최대 피크 -4.0dB)",,https://www.youtube.com/watch?v=VCClwwc95jo&t=8s
+5,10.017,13.033,3.017,hard,object,MS,아이레벨,고정,1x,하드컷,build,,"BGM 위주(고역비 0.017), 11.2~12.3s 낮은 지속음(중심 약 850Hz — 화면 밖 목소리인지 BGM인지 확인 불가)",,https://www.youtube.com/watch?v=VCClwwc95jo&t=10s
+6,13.033,14.717,1.683,hard,face_hands,MCU,정면 아이레벨,고정,1x,하드컷,reaction,,"감탄 목소리 추정(14.0~14.4s) + 박스 바스락, 초당 온셋 3.57",,https://www.youtube.com/watch?v=VCClwwc95jo&t=13s
+7,14.717,15.8,1.083,hard,hands,MS,하이앵글 45°,고정,1x,하드컷 · 빨간 글로우 자막 타자기 시작,tension,원인 자막 시작(타자기),"전 굽는 지글(14.8~16.3s 광대역 치익, 고역비 0.209)",,https://www.youtube.com/watch?v=VCClwwc95jo&t=14s
+8,15.8,15.967,0.167,false,hands,MS,하이앵글 45°,고정,1x,"검출 오류(이어지는 장면) · 빨간 글로우 자막 타자기 진행, X 팝",tension,원인 X(반죽 부족),"지글 + 뒤집개 휙(고역비 0.362, 영상 최고)",,https://www.youtube.com/watch?v=VCClwwc95jo&t=15s
+9,15.967,17.683,1.717,false,hands,MS,하이앵글 45°,고정,1x,검출 오류(이어지는 장면) · X 자막 유지,tension,원인 X 유지,지글 잦아듦(고역비 0.047),버저(오답) 16.4~17.0s,https://www.youtube.com/watch?v=VCClwwc95jo&t=15s
+10,17.683,19.033,1.35,hard,hands,CU,탑다운,고정,1x,하드컷(45° → 탑다운) · 초록 글로우 자막 글자별 등장,reveal,"해결 초록 자막(반죽 덧바르기, O 기호 없음)","조용한 BGM만(rms -18.2dB, 온셋 0개, 고역비 0.009)",,https://www.youtube.com/watch?v=VCClwwc95jo&t=17s
+11,19.033,19.333,0.3,jump,hands,CU,탑다운,고정,1x,점프컷,build,해결 자막 유지,음악만,,https://www.youtube.com/watch?v=VCClwwc95jo&t=19s
+12,19.333,19.567,0.233,jump,hands,CU,탑다운,고정,1x,점프컷,build,해결 자막 유지,음악만,,https://www.youtube.com/watch?v=VCClwwc95jo&t=19s
+13,19.567,20.25,0.683,hard,hands,MS,하이앵글 45°,고정,1x,하드컷,tension,해결 자막 유지,"지글(고역비 0.118, 초당 온셋 4.39)",,https://www.youtube.com/watch?v=VCClwwc95jo&t=19s
+14,20.25,20.417,0.167,false,hands,MS,하이앵글 45°,고정,1x,검출 오류(이어지는 장면),tension,해결 자막 유지,"지글 + 휙(고역비 0.306, 초당 온셋 11.98)",,https://www.youtube.com/watch?v=VCClwwc95jo&t=20s
+15,20.417,22.783,2.367,false,hands,MS,하이앵글 45°,푸시인(편집 줌 추정),1x,검출 오류(이어지는 장면) · 자막 퇴장 · 약 1초 푸시인,payoff,해결 자막 퇴장(약 21.3s),지글 잦아듦(고역비 0.067),상승 차임(성공) 20.5~22.2s — 착지와 동시,https://www.youtube.com/watch?v=VCClwwc95jo&t=20s
+16,22.783,25.35,2.567,hard,face_hands,MCU,정면 아이레벨,고정,1x,하드컷,rehook,,"24.15·24.43s 고역 스파이크(0.33, 링 부러지는 소리 추정) + 24.4~25.3s 큰 저역(놀란 목소리 추정)",,https://www.youtube.com/watch?v=VCClwwc95jo&t=22s
+17,25.35,27.333,1.983,jump,face_hands,MS,정면 아이레벨,고정,1x,점프컷 · BGM 빼기(컷 경계와 일치),reaction,,"BGM이 빠진 정적(rms -25.1dB, 영상에서 가장 조용 — 중앙값보다 약 10dB 낮음)","단음 '띵' 몇 개(25.6~27.2s, 추정)",https://www.youtube.com/watch?v=VCClwwc95jo&t=25s
+18,27.333,29.467,2.133,hard,face_hands,WS,정면 아이레벨,고정,1x,하드컷,reaction,,"계란 톡톡(27.4~28.2s 온셋 6개, 고역비 0.152) + 감탄 추정",,https://www.youtube.com/watch?v=VCClwwc95jo&t=27s
+19,29.467,34.6,5.133,hard,hands,MS,탑다운,고정,1x,하드컷,tension,,"BGM 위주(고역비 0.044), 30.3s 원형틀 누르는 사각·33.5s 링 부서지는 소리로 보이는 고역 스파이크(추정)",,https://www.youtube.com/watch?v=VCClwwc95jo&t=29s
+20,34.6,34.967,0.367,jump,hands,MS,탑다운,고정,1x,점프컷,build,,음악만,,https://www.youtube.com/watch?v=VCClwwc95jo&t=34s
+21,34.967,35.433,0.467,jump,hands,MS,탑다운,고정,1x,점프컷,build,,음악만,,https://www.youtube.com/watch?v=VCClwwc95jo&t=34s
+22,35.433,37.4,1.967,jump,hands,MS,탑다운,고정,1x,점프컷 · 빨간 글로우 자막 타자기,tension,원인 X(커터 단면 두꺼움),음악만(고역비 0.028),자막 블립 추정(36.0~37.3s 온셋 5개) + 끝 37.3s 버저 시작,https://www.youtube.com/watch?v=VCClwwc95jo&t=35s
+23,37.4,38.167,0.767,jump,hands,MS,탑다운,고정,1x,점프컷,tension,원인 X 유지,음악만,버저(오답) 이어짐(37.3~37.9s),https://www.youtube.com/watch?v=VCClwwc95jo&t=37s
+24,38.167,40.25,2.083,jump,hands,MS,탑다운,고정,1x,"점프컷 · 컷 안 점프컷 2회 추정(약 38.33s·38.88s, 검출 누락) · 자막 X(상단) 퇴장 → O(하단) 등장",reveal,해결 O(칼집),"음악 위주(초당 온셋 4.32, 고역비 0.017)",,https://www.youtube.com/watch?v=VCClwwc95jo&t=38s
+25,40.25,40.55,0.3,jump,hands,MS,탑다운,고정,1x,점프컷,build,해결 O 유지,음악만,,https://www.youtube.com/watch?v=VCClwwc95jo&t=40s
+26,40.55,41.0,0.45,jump,hands,MS,탑다운,고정,1x,점프컷,build,해결 O 유지,음악만,,https://www.youtube.com/watch?v=VCClwwc95jo&t=40s
+27,41.0,42.3,1.3,jump,hands,MS,탑다운,고정,1x,점프컷,build,해결 O 유지,"칼 들어가는 소리 추정(BGM에 묻힘, 초당 온셋 3.85)",,https://www.youtube.com/watch?v=VCClwwc95jo&t=41s
+28,42.3,44.6,2.3,jump,hands,MS,탑다운,고정,1x,점프컷,payoff,해결 O 유지,칼로 도려내는 소리 추정(41~43s 촘촘한 세로 줄),상승 차임(성공) 43.3~44.9s,https://www.youtube.com/watch?v=VCClwwc95jo&t=42s
+29,44.6,47.267,2.667,hard,hands,MS,탑다운,고정,1x,하드컷 · 빨간 글로우 자막 타자기(하단 중앙 y≈0.62),tension,원인 X(양파가 더 큼),음악 위주(고역비 0.014),버저(오답) 46.7~47.3s,https://www.youtube.com/watch?v=VCClwwc95jo&t=44s
+30,47.267,48.733,1.467,jump,hands,MS,탑다운,고정,1x,점프컷 · 자막 X→O 교체,reveal,해결 O(잘라 끼우기),"가위 싹둑 추정(고역비 0.077, 온셋 4개)",,https://www.youtube.com/watch?v=VCClwwc95jo&t=47s
+31,48.733,49.733,1.0,jump,hands,MS,탑다운,고정,1x,점프컷,payoff,해결 O 유지,"음악만(rms -9.3dB, 차임이 겹쳐 커짐)",상승 차임(성공) 48.7~50.2s,https://www.youtube.com/watch?v=VCClwwc95jo&t=48s
+32,49.733,50.167,0.433,jump,hands,MS,탑다운,고정,1x,점프컷 · 급종료,loop,해결 O 유지,음악만(고역비 0.0),,https://www.youtube.com/watch?v=VCClwwc95jo&t=49s

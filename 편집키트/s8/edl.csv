@@ -1,0 +1,30 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,0.733,0.733,hard,face_hands,MS,정면 아이레벨,고정,1x,"첫 프레임=썸네일. 상단 고정 제목 바(브랜드명 붓글씨+'고오급' 부제), 0.2초부터 하단 알약형 이름 자막 팝",hook,안주 이름(호래기회),"조용한 방 톤 위 첫 발화(안주 이름), 컷 평균 -35.2dB로 작게 시작, 고역비 0.227(젖은 촉감 추정)",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=0s
+2,0.733,1.867,1.133,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷(같은 프레임), 하단 구호 자막 교체",setup,브랜드 구호,"병 드는 손동작 + 또렷한 구호 발화(-26.1dB, 온셋 3개)",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=0s
+3,1.867,2.433,0.567,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷, 앞 컷 자막을 그대로 이어 붙여 이음매를 가림",build,앞 컷 구호 자막 잔류,"레몬 즙 짜는 작은 소리, 말 없음(-33.8dB, 온셋 0)",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=1s
+4,2.433,3.1,0.667,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷, 하단 설명 자막 교체",build,깻잎 쌈 안내,"작게 속삭이는 설명(-20.9dB, 중심 1941Hz, 고역비 0.015)",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=2s
+5,3.1,4.7,1.6,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷, 컷 안 연속 동작(3.7~4.1초 검출 피크는 손 움직임으로 판단)",build,앞 컷 설명 자막 잔류 후 없음,"손동작만 조용히(-34.9dB, 온셋 0) — 초장 찍는 소리 작게",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=3s
+6,4.7,5.533,0.833,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷, 자막 없음(씹는 소리에 집중)",payoff,,"입 속 씹는 저음 크게(-18.4dB, 피크 -8.6dB, 중심 1886Hz)",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=4s
+7,5.533,6.767,1.233,jump,face_hands,MS,정면 아이레벨,고정,1x,점프컷,reaction,,"씹는 소리(온셋 6.6초), 전체는 조용(-33.5dB)",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=5s
+8,6.767,7.4,0.633,jump,face_hands,MS,정면 아이레벨,고정,1x,점프컷(리액션 2연타),reaction,,거의 무음(-35.6dB),,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=6s
+9,7.4,8.567,1.167,jump,face_hands,MS,정면 아이레벨,고정,1x,점프컷,payoff,,"후루룩 빨아들이는 소리(온셋 8.4초), 전체 -35.5dB",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=7s
+10,8.567,9.167,0.6,jump,face,MS,정면 아이레벨,고정,1x,"점프컷, 한 글자 자막",reaction,허밍 한 글자,"허밍 저음 크게(-13.4dB, 고역비 0.035, 중심 1309Hz) — 목소리 자체가 ASMR",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=8s
+11,9.167,9.967,0.8,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷, 식감 자막",reaction,식감 강조(쫄깃),"허밍 이어짐(-15.7dB, 고역비 0.004)",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=9s
+12,9.967,10.6,0.633,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷, 질문형 자막",rehook,시청자에게 질문,"속삭이는 질문, 치찰음(고역비 0.311, 온셋 3개 = 초당 4.74)",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=9s
+13,10.6,11.467,0.867,jump,face,MS,정면 아이레벨,고정,1x,"점프컷, 앞 자막 잔류로 이음매 가림",reaction,앞 질문 자막 잔류,"조용한 씹기(-33.4dB, 온셋 0)",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=10s
+14,11.467,12.667,1.2,jump,face_hands,MS,정면 아이레벨,고정,1x,점프컷 + 컷 안 점프컷 1회,payoff,,"고추 아삭 깨무는 소리(온셋 12.24·12.31·12.47초, 고역비 0.176)",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=11s
+15,12.667,15.467,2.8,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷 + 컷 안 점프컷, 자막 3회 교체, 끝에 'ㅋㅋㅋ' 접미",rehook,술 종류 소개→'혹시'→지역 드립+웃음 표기,"대화 톤 발화, 영상 최고 피크 -3.8dB(온셋 5개)",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=12s
+16,15.467,16.5,1.033,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷 + 컷 안 점프컷, 앞 컷 자막이 넘어옴",build,앞 지역 드립 자막 잔류,"얼음 쏟아지는 쨍그랑 — 1.03초에 온셋 10개(초당 9.68, 영상 최고), 고역비 0.372(최고), -12.8dB",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=15s
+17,16.5,16.933,0.433,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷, 재료명 한 단어 자막",build,재료명(토닉),"탄산 붓는 쏴 소리(고역비 0.156, 온셋 16.58초)",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=16s
+18,16.933,18.7,1.767,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷, 동작 설명 자막",build,술 채우기,"콸콸 붓는 소리(온셋 17.30·17.65초, 고역비 0.194)",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=16s
+19,18.7,20.167,1.467,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷 + 컷 안 점프컷, 잔 위에 검은 정보 박스 팝",build,유자 짜기 + 정보 박스(레몬 대체),속삭임 + 유자 즙 짜는 소리(온셋 19.09초),,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=18s
+20,20.167,21.233,1.067,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷, 정보 박스 잔류",build,정보 박스 유지,"즙 찍찍 짜는 소리 — 온셋 5개(초당 4.69), 고역비 0.353(두 번째로 높음)",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=20s
+21,21.233,22.0,0.767,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷, 가니시 자막",reveal,가니시 명칭,유자 끼우는 소리(온셋 21.46초),,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=21s
+22,22.0,23.967,1.967,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷, 감탄 자막",payoff,가니시 자막→시원함 감탄,"빨대 쭉 + 얼음 달그락(22초대 고역비 평균 0.224, 최대 0.941)",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=22s
+23,23.967,25.967,2.0,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷, 비유 자막(물음표로 강조)",tension,'그냥 마시면'→'제사맛' 비유,"대화 톤으로 볼륨 상승(-13.4dB, 온셋 7개)",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=23s
+24,25.967,27.0,1.033,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷, 설명 자막",reveal,하이볼 방식,대화 톤(-15.5dB),,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=25s
+25,27.0,27.667,0.667,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷, 형용사 자막",payoff,시원함 강조,"대화 톤(-14.2dB, 중심 1395Hz)",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=27s
+26,27.667,28.2,0.533,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷, 한 단어 자막",payoff,깔끔함,대화 톤(-18.4dB),,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=27s
+27,28.2,31.233,3.033,jump,face,MS,정면 아이레벨,고정,1x,"점프컷 + 컷 안 점프컷, 자막 3회 교체",payoff,가격→용량→동의 구하기,"대화 연속 — 온셋 13개(초당 4.29), -13.3dB",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=28s
+28,31.233,32.633,1.4,jump,face,MS,정면 아이레벨,고정,1x,"점프컷, 결론 자막",payoff,결론(더 고급),"대화 톤(-15.1dB, 중심 1760Hz)",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=31s
+29,32.633,33.467,0.833,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷, CTA·엔드카드 없음",loop,앞 결론 자막 잔류,"셀러리 아삭(온셋 32.76초, 고역비 0.133) 후 33초대 -39.8dB로 급감",,https://www.youtube.com/watch?v=qzhEF2DE_Jg&t=32s

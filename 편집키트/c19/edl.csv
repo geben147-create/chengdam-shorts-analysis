@@ -1,0 +1,35 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,3.567,3.567,hard,face_hands,MS,아이레벨 정면,고정,1x,"하드컷 시작, 자막 없음. 첫 프레임과 썸네일이 같은 젤리 장면",hook,,젤리 들릴 때 철퍽·물소리 작게(rms -25dB) → 찢어져 떨어지는 2.5초에 영상 최대 음량(피크 -4.1dB),"고음 지속 효과음(약 1.6kHz, 2.3~3.4초, 추정)",https://www.youtube.com/watch?v=UoH6PfK5xw4&t=0s
+2,3.567,4.733,1.167,hard,face_hands,MS,아이레벨 정면,고정,1x,"하드컷(의상 변화로 다른 날 NG임을 알림), 무가 렌즈 앞을 가리는 순간 모션 블러",rehook,,"채칼에 무 긁는 쓱쓱(온셋 6개·초당 5.1, rms -11.8dB) + 무가 튀는 광대역 소리",,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=3s
+3,4.733,5.833,1.1,jump,face,MCU,아이레벨 정면,편집 줌(펀치인) → 풀아웃,1x,"편집 펀치인 줌(약 1.3배 → 원래 크기, 이징) + 첫 프레임 모션 블러, 컷 경계가 가장 가까운 온셋에서 0.12초",reaction,,"비명·놀람 광대역 소리(추정, rms -14.1dB)",,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=4s
+4,5.833,8.283,2.45,hard,face_hands,MS,아이레벨 정면,고정,1x,"하드컷(세 번째 의상), 자막 없음",setup,,"음악 위주, 현장음 작음(rms -27.1dB)","짧게 휘는 '띠용'형 톤(약 7.0초, 추정)",https://www.youtube.com/watch?v=UoH6PfK5xw4&t=5s
+5,8.283,14.95,6.667,hard,face_hands,MS,아이레벨 정면,고정 + 편집 리프레임(10.9~11.5초),1x + 역재생 2회,하드컷 + 컷 안 역재생 2회(각 0.2~0.3초) + 10.9~11.5초 확대(인물 왼쪽)→넓은 구도(인물 가운데) 리프레임,tension,,"전기그릴 지글지글(고역비 0.464, 중심 4.5kHz, 온셋 18개) 내내 깔림","상승 스윕 3연타(12.8·13.25·13.7초, 추정 코믹 효과음)",https://www.youtube.com/watch?v=UoH6PfK5xw4&t=8s
+6,14.95,15.333,0.383,hard,object,CU,탑다운,고정,1x,"하드컷(정면→탑다운 앵글 전환, 밝기 131→164)",setup,,기름 지글 작게(고역비 0.208) + BGM 밀도 전환,,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=14s
+7,15.333,15.867,0.533,jump,object,CU,탑다운,고정,1x,미세 점프컷(조리 시간 삭제 추정),build,,지글 작게(rms -23.7dB),,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=15s
+8,15.867,19.683,3.817,jump,hands,CU,탑다운,고정,1x,타자기식 자막 등장(17.5초 첫 단어부터) + 빨강 외곽선·글로우 + 큰 X 기호,reveal,통소세지 칼집 없음 → X,"팬 기름 지글 + 집게 톡톡(온셋 17개·초당 4.45, 고역비 0.251)",오답 버저 2연타(약 18.2·19.0초),https://www.youtube.com/watch?v=UoH6PfK5xw4&t=15s
+9,19.683,20.2,0.517,hard,hands,CU,탑다운,고정(편집 확대 크롭),1x,"하드컷 + 장소·조명 전환(팬 → 도마), 크롭 확대 약 1.2배",setup,,"음악만(고역비 0.042, 현장음 거의 없음)",,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=19s
+10,20.2,21.483,1.283,jump,hands,CU,탑다운,고정,1x(약 1.5배 추정),점프컷(크롭 원래 크기로 교차),build,,"음악만(온셋 0, 고역비 0.000) — 칼질 소리 지움",,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=20s
+11,21.483,22.0,0.517,jump,hands,CU,탑다운,고정(편집 확대 크롭),1x,점프컷 + 크롭 확대 교차,build,,음악만(고역비 0.001),,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=21s
+12,22.0,22.85,0.85,jump,hands,CU,탑다운,고정,1x(약 1.5배 추정),점프컷(크롭 원래 크기),build,,"음악만(온셋 0, rms -29.6dB)",,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=22s
+13,22.85,23.5,0.65,jump,hands,CU,탑다운,고정,1x,점프컷,build,,음악만(rms -31.2dB),,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=22s
+14,23.5,26.467,2.967,jump,hands,CU,탑다운,고정,1x,타자기식 초록 외곽선·글로우 자막 + 큰 O 기호,reveal,앞뒤 번갈아 칼집 → O,음악 위주(rms -26.6dB),정답 차임(약 25.4초),https://www.youtube.com/watch?v=UoH6PfK5xw4&t=23s
+15,26.467,26.617,0.15,hard,hands,CU,탑다운,고정,1x,0.15초 초단컷 — 세로로 가르는 과정을 생략하고 결과로 점프,build,O 카드 잔상,음악만(rms -29.6dB),,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=26s
+16,26.617,27.183,0.567,false,hands,CU,탑다운,고정,1x,검출 오류(앞 컷과 같은 탑다운 동작이 이어짐) — 컷 없이 모양 변형,reveal,,"음악만(현장음 거의 없음, 고역비 0.035)",,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=26s
+17,27.183,27.733,0.55,jump,hands,CU,탑다운,고정,1x,점프컷(밀가루가 이미 묻은 상태로 시간 건너뜀),build,,밀가루 문지르는 소리 거의 안 들림(rms -30.0dB),,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=27s
+18,27.733,28.983,1.25,jump,hands,CU,탑다운,고정,1x,점프컷(손 위치가 순간 이동),build,,"고역 약간(고역비 0.163), rms -25.7dB — 밀가루 스치는 소리 추정",,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=27s
+19,28.983,30.783,1.8,jump,hands,CU,탑다운,고정,1x,타자기식 초록 외곽선 자막 + O 기호,reveal,감자 붙게 밀가루 → O,"음악 위주(rms -26.9dB, 고역비 0.179)",정답 차임(약 30.1초),https://www.youtube.com/watch?v=UoH6PfK5xw4&t=28s
+20,30.783,33.167,2.383,jump,hands,CU,탑다운,고정,1x,타자기식 빨강 외곽선 자막 + X 기호,tension,숟가락 누르기 → X,음악 위주(rms -32.1dB),오답 버저(약 32.6초),https://www.youtube.com/watch?v=UoH6PfK5xw4&t=30s
+21,33.167,35.033,1.867,jump,hands,CU,탑다운,고정,1x,"점프컷, X 자막 잔상 유지 후 사라짐",build,X 카드 잔상,거의 무음에 가까운 음악(rms -33.9dB),,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=33s
+22,35.033,35.95,0.917,jump,hands,CU,탑다운,고정,1x,점프컷,build,,영상 최저 음량(rms -43.3dB),,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=35s
+23,35.95,36.883,0.933,jump,hands,CU,탑다운,고정,1x,점프컷 + 초록 외곽선 자막 타자기 등장,build,손으로 둘러 밀착 → O(등장 시작),고역 약간(고역비 0.229) + 음악,정답 차임(약 36.5초),https://www.youtube.com/watch?v=UoH6PfK5xw4&t=35s
+24,36.883,37.5,0.617,jump,hands,CU,탑다운,고정,1x,초록 외곽선 자막 + O 기호 유지,payoff,손으로 둘러 밀착 → O,고역 높음(고역비 0.37) + 차임 잔향,,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=36s
+25,37.5,37.667,0.167,hard,object,MS,하이앵글 45°,핸드헬드,2x(추정),"하드컷 + 장소 전환(창가 철판), 0.17초 초단컷, 모션 블러",payoff,,"하드컷과 동시에 철판 지글 폭발(고역비 0.381, 중심 4.6kHz)",,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=37s
+26,37.667,38.317,0.65,jump,object,MS,하이앵글 45°,핸드헬드,2x(추정),"점프컷, 뒤집개 전경 스침",payoff,,"뒤집은 면이 철판에 닿는 치익(고역비 0.514, 중심 5.1kHz = 영상 최고 수준)",,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=37s
+27,38.317,38.883,0.567,jump,hands,MS,하이앵글 45°,핸드헬드,2x(추정),점프컷,build,,"뒤집개가 철판 긁는 소리 + 지글(고역비 0.506, 초당 온셋 7.1)",,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=38s
+28,38.883,39.483,0.6,jump,hands,MS,하이앵글 45°,핸드헬드,2x(추정),점프컷,build,,"지글 + 긁는 소리(고역비 0.337, 초당 온셋 8.3)",,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=38s
+29,39.483,39.733,0.25,hard,hands,MS,하이앵글 45°,핸드헬드,1x,"하드컷(새 구도, 더 넓게), 0.25초",build,,"지글(고역비 0.333, 초당 온셋 8.0)",,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=39s
+30,39.733,39.883,0.15,jump,hands,ECU,하이앵글 45°,핸드헬드,2x(추정),"0.15초 초단컷, 모션 평균 21.26(영상 최대) 블러 = 자연 휩 전환",payoff,,보트가 착지하는 탁 + 지글(고역비 0.453),,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=39s
+31,39.883,40.65,0.767,jump,hands,MS,하이앵글 45°,핸드헬드,1x,점프컷,build,,"지글(고역비 0.197, 온셋 3개)",,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=39s
+32,40.65,41.0,0.35,jump,hands,MS,하이앵글 45°,핸드헬드,2x(추정),"점프컷, 0.35초",build,,"지글 + 긁는 소리(고역비 0.321, 초당 온셋 5.7)",,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=40s
+33,41.0,41.283,0.283,jump,hands,MS,하이앵글 45°,핸드헬드,2x(추정),"점프컷, 0.28초, 모션 블러",build,,"지글(고역비 0.256, 초당 온셋 7.1)",,https://www.youtube.com/watch?v=UoH6PfK5xw4&t=41s
+34,41.283,43.083,1.8,jump,face,MCU,하이앵글 45° → 아이레벨 정면,고정,1x,"컷 안 하드컷(약 41.4초, 검출 누락) → 정면 리빌, 윙크에 반짝 효과음",payoff,,"지글 잔향 + 차임(rms -16.1dB, 피크 -7.3dB)","반짝 차임(약 42.1~42.9초, 추정)",https://www.youtube.com/watch?v=UoH6PfK5xw4&t=41s

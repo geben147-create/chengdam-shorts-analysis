@@ -1,0 +1,52 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,2.367,2.367,hard,face_hands,MS,정면 아이레벨,고정,1x,"오프닝 하드컷, 끝에 멜론으로 렌즈를 덮는 바디 와이프",hook,,"비닐 랩 바스락이 음악보다 크게 — 0~1.0s 고역비 평균 0.66(최대 0.85), 1.0~1.9s는 0.25 안팎으로 줄어듦, 컷 온셋 8개(3.4/s)",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=0s
+2,2.367,3.0,0.633,match,hands,ECU,매크로 → 탑다운,고정,1x,"멜론 밀기 → 같은 멜론 매크로로 모양 맞춤 전환(바디 와이프), 이어서 피사체가 렌즈에서 빠지는 연속 풀백",setup,,"음악만 — 고역비 0.002, RMS -7.4dB로 음악이 크게 올라옴",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=2s
+3,3.0,3.767,0.767,hard,hands,CU,탑다운,고정,1x,하드컷,setup,,"음악만 — 고역비 0.0, 붓는 소리는 들리지 않음",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=3s
+4,3.767,4.533,0.767,hard,hands,CU,탑다운,고정,2x,"하드컷, 약 2배속 추정",build,,"숟가락이 언 과육을 긁는 사각 소리 시작 — 온셋 3.9/s, 음악과 비슷한 크기",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=3s
+5,4.533,5.583,1.05,jump,hands,CU,탑다운,고정,2x,"점프컷(시간 건너뜀), 약 2배속 추정",build,,사각 긁기 연속 — 온셋 2.9/s,,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=4s
+6,5.583,6.45,0.867,jump,hands,CU,탑다운,고정,2x,점프컷,build,,긁기 온셋 4.6/s로 촘촘,,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=5s
+7,6.45,8.383,1.933,jump,hands,CU,탑다운,고정,2x,점프컷,build,,긁기가 약해지고(온셋 1.55/s) 음악 비중 증가,,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=6s
+8,8.383,10.0,1.617,hard,face_hands,MS,하이앵글 45°,고정,1x,"하드컷, 앵글·장소 전환",build,,"긁기 타격 9개(5.6/s)로 앞부분 최고 밀도, 피크 -4.8dB",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=8s
+9,10.0,11.8,1.8,jump,face_hands,MS,하이앵글 45°,고정,1x,점프컷,reaction,,"긁기와 크림 뭉개지는 소리 — 온셋 3.3/s, 고역비 0.051",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=10s
+10,11.8,12.617,0.817,hard,hands,CU,아이레벨,고정,1x,"하드컷, 장소 전환(창가)",build,,긁기와 크림 소리 — 온셋 2.45/s,,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=11s
+11,12.617,13.5,0.883,jump,hands,CU,아이레벨,고정,1x,점프컷,build,,긁기 온셋 3.4/s,,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=12s
+12,13.5,14.517,1.017,hard,hands,CU,탑다운,고정,1x,"하드컷, 탑다운 복귀",build,,"긁기 온셋 4.9/s, 고역비 0.063",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=13s
+13,14.517,15.917,1.4,jump,hands,CU,탑다운,고정,1x,점프컷,payoff,,"크림 펴는 긁기 소리 정점 — 14.6~15.0s 고역비 순간 0.2~0.28(컷 평균 0.086), 온셋 3.6/s",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=14s
+14,15.917,16.333,0.417,hard,hands,CU,탑다운,고정,1x,"하드컷, 색 리셋(흰·청록 → 빨강·노랑, 채도 82→127)",setup,,음악만 — 고역비 0.001,,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=15s
+15,16.333,17.267,0.933,jump,hands,CU,탑다운,고정,2x,"점프컷, 약 2배속 추정",build,,음악만(고역비 0.0),,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=16s
+16,17.267,17.75,0.483,jump,hands,CU,탑다운,고정,3x,"점프컷, 약 3배속 추정",build,,음악만,,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=17s
+17,17.75,18.467,0.717,jump,hands,CU,탑다운,고정,2x,점프컷,build,,음악만,,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=17s
+18,18.467,19.733,1.267,hard,hands,CU,탑다운,고정,1x,"하드컷, 사이즈 업",build,,음악만(고역비 0.001),,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=18s
+19,19.733,20.233,0.5,jump,hands,ECU,탑다운 → 매크로,크래시 줌,1x,"크래시 줌 + 모션블러(움직임 17.34, 영상 최고)",payoff,,음악만(효과음 없음),,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=19s
+20,20.233,21.133,0.9,hard,hands,MS,POV 하이앵글,핸드헬드,1x,"하드컷, 핸드헬드 POV",broll,,음악만 — 20.5s RMS -6.5dB로 음악 최대,,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=20s
+21,21.133,21.317,0.183,flash,object,MS,POV 정면,핸드헬드,2x,"플래시 컷(0.2초 미만), 약 2배속 추정",broll,,음악만,,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=21s
+22,21.317,21.533,0.217,whip,object,CU,정면,핸드헬드,1x,휩 전환(문 블러),broll,,"문 닫힘 저역 '툭' 추정 — 21.46s 온셋이 있으나 고역비 0.04 이하(고역 스파이크 없음, 음악 박자일 가능성도 있음)",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=21s
+23,21.533,21.65,0.117,false,object,CU,정면,고정,1x,하드컷처럼 검출됐으나 실제로는 컷 22의 연속,broll,,문 닫힌 뒤 잔향과 음악,,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=21s
+24,21.65,22.983,1.333,hard,face_hands,MS,정면 아이레벨,고정,1x,"하드컷, 얼굴 세트 복귀",rehook,,"포장지 바스락 — 21.9s 고역비 순간 0.81(컷 평균 0.159), 콘 두 개를 흔들어 내밀 때",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=21s
+25,22.983,23.917,0.933,hard,hands,CU,정면 아이레벨,고정,1x,"하드컷, 장소 전환(몸통 테이블)",setup,,"음악 위주 — 고역비 0.008, 초코 흐르는 소리는 작음",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=22s
+26,23.917,26.933,3.017,hard,hands,CU,정면 아이레벨,고정,1x,"하드컷, 롱테이크",build,,"초코 흐름 소리 약하게 + 음악, 고역비 0.014",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=23s
+27,26.933,27.433,0.5,hard,hands,MS,아이레벨,고정,1x,"하드컷, 장소 전환(창가)",build,,음악만(온셋 0),,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=26s
+28,27.433,28.667,1.233,hard,hands,CU,하이앵글 45°,고정,1x,하드컷,build,,"음악만 — 고역비 0.0, RMS -8.8dB",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=27s
+29,28.667,29.05,0.383,jump,hands,CU,하이앵글 45°,푸시인,1x,점프컷 + 푸시인(움직임 8.67),build,,음악만,,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=28s
+30,29.05,30.0,0.95,hard,hands,CU,정면 아이레벨,고정,1x,하드컷,build,,음악만(고역비 0.002),,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=29s
+31,30.0,31.2,1.2,jump,hands,CU,정면 아이레벨,고정,1x,점프컷,build,,"음악 위주, 온셋 2개",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=30s
+32,31.2,32.117,0.917,hard,hands,MS,아이레벨,푸시인,1x,하드컷 + 푸시인,broll,,음악 위주(고역비 0.013),,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=31s
+33,32.117,32.7,0.583,hard,hands,MS,POV 하이앵글,핸드헬드,1x,"하드컷, 핸드헬드",broll,,"음악 + 유리 부딪힘 추정(온셋 4개, 6.9/s)",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=32s
+34,32.7,32.867,0.167,flash,object,MS,POV 정면,핸드헬드,1x,플래시 컷,broll,,음악만,,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=32s
+35,32.867,33.05,0.183,whip,object,CU,정면,핸드헬드,1x,"휩 전환(문 블러), 컷 22와 같은 패턴 반복",broll,,"문 닫힘(작게) + 음악, 온셋 1개",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=32s
+36,33.05,36.433,3.383,hard,face_hands,MCU,정면 아이레벨,고정,1x,"하드컷, 얼굴 세트 복귀, 3.38초 롱테이크",reveal,,"실리콘 뒤틀림·초코 분리 소리 — 온셋 5개, 컷 고역비 0.035(33.8s 0.27, 35.9s 0.31 순간값), 컷 RMS -16.1dB로 음악이 내려감(덕킹 추정)",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=33s
+37,36.433,37.117,0.683,hard,person,MS,정면 아이레벨,고정,1x,"하드컷, 장소 전환",build,,"돔이 접시에 닿는 톡 소리 — 온셋 4.4/s, 고역비 0.043",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=36s
+38,37.117,39.117,2.0,jump,person,MS,정면 아이레벨,고정,1x,점프컷,build,,"몰드 비틀기 연타 — 온셋 8개(4.0/s), 고역비 0.051",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=37s
+39,39.117,39.7,0.583,jump,person,MS,정면 아이레벨,고정,1x,점프컷,build,,음악 위주(온셋 1개),,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=39s
+40,39.7,42.25,2.55,jump,person,MS,정면 아이레벨,고정,1x,"점프컷, 2.55초 연속 동작(내부 끊김 없음)",reveal,,종이 찢는 소리 — 39.5~40.5s 고역비 0.24~0.29(최대 0.66),,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=39s
+41,42.25,42.867,0.617,jump,person,MS,정면 아이레벨,고정,1x,점프컷,build,,"종이 소리 약하게, 온셋 2개",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=42s
+42,42.867,43.533,0.667,jump,person,MS,정면 아이레벨,고정,1x,점프컷,reveal,,"종이 찢기 — 컷 고역비 0.454, 구간 최대 0.71(본문 최고)",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=42s
+43,43.533,44.567,1.033,jump,person,MS,정면 아이레벨,푸시인,1x,점프컷 + 푸시인(움직임 7.83),payoff,,"음악 위주, 온셋 1개",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=43s
+44,44.567,46.467,1.9,hard,hands,CU,하이앵글 45°,고정,1x,"하드컷, 장소 전환(창가), 1단계 재료 재등장",build,,"언 아이스크림 긁기 — 온셋 2.6/s, 45.0s 구간 고역비 약 0.1",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=44s
+45,46.467,48.45,1.983,jump,hands,ECU,하이앵글 45° → 매크로,푸시인,1x,점프컷 + 푸시인(ECU까지),build,,"긁기 소리 고역비 0.065, 온셋 3.0/s",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=46s
+46,48.45,50.0,1.55,hard,hands,CU,아이레벨,고정,1x,하드컷,build,,"스쿱 얹는 소리 — 온셋 4개, 고역비 0.037",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=48s
+47,50.0,51.433,1.433,jump,hands,CU,아이레벨,고정,1x,점프컷,reveal,,"돔 얹는 소리 — 50.5s 고역비 순간 0.55(컷 평균 0.09), 온셋 4개",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=50s
+48,51.433,52.25,0.817,hard,hands,MS,아이레벨,고정,1x,"하드컷, 사이즈 아웃",reveal,,"돔 소리 — 온셋 1개, 고역비 0.132",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=51s
+49,52.25,53.817,1.567,hard,hands,MS,아이레벨,핸드헬드,1x,"하드컷, 음량 급감",reveal,,"거의 무음 — RMS -24.8dB, 온셋 0(음악이 빠짐)",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=52s
+50,53.817,55.6,1.783,hard,face_hands,MS,정면 아이레벨,고정,1x,"하드컷, 얼굴 세트 복귀",payoff,,"초코 돔 두드림 — 54.17·54.38·54.54·54.78s 온셋 연타, 컷 고역비 0.202(순간 0.56~0.62)",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=53s
+51,55.6,60.133,4.533,hard,face_hands,MS,정면 아이레벨,고정,1x,"하드컷, 페이드 없이 종료",loop,,"깨무는 바삭 — 56.05s 고역비 0.83, 56.47s 0.93(영상 최고), 57.5~58.5s 씹는 소리(평균 0.30), 컷 온셋 14개",,https://www.youtube.com/watch?v=CPuRmVLLlF0&t=55s

@@ -1,0 +1,23 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,0.633,0.633,hard,face,MS,아이레벨 정면,고정,1x,하드컷 시작. VS 헤더·제품 누끼·라벨·면책 문구가 첫 프레임부터 전부 깔린 완성 화면,hook,라운드 제목 '미백',"차분한 저음 VO(F0 약 110Hz)가 카테고리 한 단어를 호명, 화면 속 입은 닫힘. 음악 없음",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=0s
+2,0.633,1.2,0.567,jump,face_hands,MS,아이레벨 정면,고정,1x,점프컷 + 승자 누끼 확대 팝(약 1.2배) + 빨간 붓 타원 draw-on 약 0.2초,reveal,승자 이름 한 단어,"0.74s 판정 외침(rms -11dB, F0 약 220Hz) — 앞 컷 VO보다 두 배 높은 톤",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=0s
+3,1.2,5.567,4.367,jump,face_hands,MS,아이레벨 정면,고정,1x,"점프컷, 대사 자막 2회 교체",payoff,용도 3가지 → 고함량 승,"설명 톤 발화(F0 약 218Hz), 온셋 6개(1.37/s), 음악 없음",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=1s
+4,5.567,12.0,6.433,jump,face_hands,MS,아이레벨 정면,고정,1x,"점프컷, 대사 자막 4회 교체",tension,연구 농도대 / 염증이면 약국,"빠른 설명(온셋 15개, 2.33/s), 쉼 없이 이어짐",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=5s
+5,12.0,12.767,0.767,jump,face_hands,MS,아이레벨 정면,고정,1x,문장 중간 점프컷 — 자막을 교체하지 않아 튐 은폐,build,약국 4% 조건 이어짐,"문장 끝부분 발화(rms -20dB), 12.77s 직전 말이 끝남",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=12s
+6,12.767,14.1,1.333,hard,face,MS,아이레벨 정면,고정,1x,"하드컷으로 제품 누끼·제목 동시 교체, 중립 대기 클립 재사용",setup,라운드 제목(기미·색소),"12.92s까지 앞 라운드 말꼬리가 넘어온 뒤 저음 VO(F0 약 132Hz)로 제목 호명, 13.38s 'ㅅ' 치찰음 고역비 0.98(컷 고역비 0.165, 영상 최고)",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=12s
+7,14.1,19.5,5.4,jump,face_hands,MS,아이레벨 정면,고정,1x,점프컷 + 승자 확대 팝(폭 약 90→120px) + 빨간 원 draw-on(14.6s) + 자막 3회 교체,reveal,약국 / 치료면 확정 / 국소 사용,"판정 외침 F0 약 256Hz, 이후 온셋 11개(2.04/s) 설명",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=14s
+8,19.5,22.1,2.6,jump,face_hands,MS,아이레벨 정면,고정,1x,"점프컷, 자막 2회 교체",payoff,예방용 한계,"설명 발화 온셋 8개(3.08/s), 22.1s 직전 볼륨이 -36~-48dB로 떨어지며 라운드 종료",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=19s
+9,22.1,23.5,1.4,hard,face,MS,아이레벨 정면,고정,1x,"하드컷 라운드 교체, 대기 클립 재사용",setup,라운드 제목(블랙헤드·여드름),"저음 VO(F0 약 137Hz) 뒤 22.94~23.03s -180dB 디지털 무음, 컷 평균 rms -44dB로 영상에서 가장 조용",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=22s
+10,23.5,24.133,0.633,jump,face_hands,MS,아이레벨 정면,고정,1x,점프컷 + 승자 확대 팝 + 빨간 원 draw-on,reveal,승자 이름 한 단어,"판정 외침 F0 약 262Hz — 영상 최고음, 온셋 1개",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=23s
+11,24.133,30.367,6.233,jump,face_hands,MS,아이레벨 정면,고정,1x,"점프컷, 자막 3회 교체, 빨간 원 유지",payoff,4배 농도 / 압승 / 부위 한정,"온셋 16개(2.57/s) 빠른 설명, 음악 없음",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=24s
+12,30.367,31.7,1.333,hard,face,MS,아이레벨 정면,고정,1x,"하드컷 라운드 교체, 대기 클립 재사용",setup,라운드 제목(장벽·보습),"저음 VO(F0 약 131Hz), 31.30~31.35s -180dB 무음 후 31.58s 'ㅅ' 치찰음 고역비 0.97, 컷 rms -37dB",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=30s
+13,31.7,41.467,9.767,jump,face_hands,MS,아이레벨 정면,고정,1x,"점프컷 + 승자 확대 팝 + 빨간 원 draw-on(32.4s) + 자막 5회 교체, 영상 최장 9.77초 컷",payoff,매장 승 / 함량·제형 / 손상 부위 예외,"31.86~32.0s rms -10~-12dB 영상 최대 음량대 외침(F0 약 193Hz), 이후 온셋 19개(1.95/s)",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=31s
+14,41.467,42.633,1.167,hard,face,MS,아이레벨 정면,고정,1x,"하드컷 라운드 교체, 대기 클립 재사용",setup,라운드 제목(PDRN·재생),"저음 VO(F0 약 160Hz), 42.40s 치찰음 고역비 0.74, 42.68s -70dB 틈",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=41s
+15,42.633,47.0,4.367,jump,face_hands,MS,아이레벨 정면,고정,1x,점프컷 + 승자 확대 팝 + 빨간 원 draw-on(43.3s) + 자막 3회 교체,reveal,약국 / 농도 역전인데 승,"판정 외침 F0 약 259Hz, 온셋 9개(2.06/s)",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=42s
+16,47.0,49.3,2.3,jump,face_hands,MS,아이레벨 정면,고정,1x,문장 중간 점프컷 — 자막 유지로 은폐,build,같은 원료사,"설명 발화 온셋 7개(3.04/s), rms -16.8dB",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=47s
+17,49.3,53.5,4.2,jump,face_hands,MS,아이레벨 정면,고정,1x,문장 중간 점프컷(자막 유지) + 자막 1회 교체,build,화장품용 vs 의약품용,"온셋 9개(2.14/s), 음악 없음",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=49s
+18,53.5,57.867,4.367,jump,face_hands,MS,아이레벨 정면,고정,1x,"점프컷, 자막 2회 교체",tension,원료 등급 차이 / 시술 후 회복,"온셋 6개(1.37/s), 57.6~57.7s -13dB로 말끝을 세게",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=53s
+19,57.867,58.733,0.867,jump,face_hands,MS,아이레벨 정면,고정,1x,점프컷 + 별 스티커 팝(영상 유일 스티커),payoff,결론 제품명,"짧은 결론 발화, 58.38~58.52s 치찰음 고역비 0.11~0.24(평탄도 0.79 = 잡음성) — 별 효과음 아님",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=57s
+20,58.733,60.067,1.333,hard,face,MS,아이레벨 정면,고정,1x,"하드컷 라운드 교체, 대기 클립 재사용",setup,라운드 제목(EGF·재생),"저음 VO(F0 약 118Hz, 라운드 제목 중 가장 낮음), 59.02s·59.81s 치찰음 스파이크, 컷 고역비 0.079",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=58s
+21,60.067,60.767,0.7,jump,face_hands,MS,아이레벨 정면,고정,1x,점프컷 + 승자 확대 팝 + 빨간 원 draw-on,reveal,승자 이름 한 단어,"60.09s -50dB 틈 → 60.19s -14dB 외침, F0 약 210Hz",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=60s
+22,60.767,66.567,5.8,jump,face_hands,MS,아이레벨 정면,고정,1x,"점프컷, 자막 3회 교체, 엔딩 카드·CTA 없음",loop,10배 농도 / 전체 도포 / 겔 유리,"온셋 8개(1.38/s) 설명, 마지막 음절과 영상 끝이 거의 겹침 — 아웃트로 음악 없음",,https://www.youtube.com/watch?v=4xoTx74CYt0&t=60s

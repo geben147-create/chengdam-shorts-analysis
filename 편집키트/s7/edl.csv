@@ -1,0 +1,44 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,0.968,0.968,hard,face_hands,MCU,정면(약한 로우앵글),고정,1x,영상 시작. 상단 고정 타이틀(🎪 양쪽 이모지+흰 굵은 글씨+그림자)과 화면 중앙 흰 자막이 첫 프레임부터 떠 있음,hook,오늘 서울 여행 선언,"현장음 거의 없음 — VO 첫 문장+BGM, 씹는 소리는 안 들림(고역비 0.041)",,https://www.youtube.com/watch?v=J_NEozHo6v0&t=0s
+2,0.968,1.802,0.834,hard,face_hands,MCU,로우앵글,고정,1x,"하드컷(장소 점프), 자막은 1번 컷 문장 그대로 유지",hook,첫 문장 유지,"VO 이어짐+BGM, 현장음 없음",,https://www.youtube.com/watch?v=J_NEozHo6v0&t=0s
+3,1.802,3.537,1.735,hard,face_hands,MS,셀카(하이앵글 45°),핸드헬드,1x,"하드컷, 중앙 자막이 출발 선언으로 교체",setup,부산→서울 출발,"VO+BGM, 역사 소음은 들리지 않음(추정)",,https://www.youtube.com/watch?v=J_NEozHo6v0&t=1s
+4,3.537,5.239,1.702,hard,object,MS,아이레벨,핸드헬드,1x,"하드컷, 자막 2줄",setup,맛집 목적·이른 출발,"VO+BGM, 열차 소리 없음",,https://www.youtube.com/watch?v=J_NEozHo6v0&t=3s
+5,5.239,6.94,1.702,hard,face_hands,CU,정면,고정,1x,하드컷,build,배고파서 삼각김밥,"VO+BGM, 김 바삭 소리 없음(고역비 0.074)",,https://www.youtube.com/watch?v=J_NEozHo6v0&t=5s
+6,6.94,7.808,0.868,jump,face_hands,CU,정면,고정,1x,"점프컷(같은 구도, 2박 뒤)",reaction,같은 문장 유지,VO 문장 이어짐+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=6s
+7,7.808,8.675,0.868,hard,face_hands,MCU,정면,고정,1x,"하드컷, 자막 교체",build,기차에서 작업,VO+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=7s
+8,8.675,9.51,0.834,jump,face_hands,MCU,정면,고정,1x,점프컷,reaction,같은 문장 유지,VO+BGM(컷 음량 -17.7dB로 이 구간 가장 작음),,https://www.youtube.com/watch?v=J_NEozHo6v0&t=8s
+9,9.51,11.245,1.735,hard,face,MS,"셀카(하이앵글 45°, 측면)","핸드헬드, 트래킹",1x,"하드컷, 걷는 흔들림 그대로(움직임 13.7로 상위권)",setup,서울 도착·성수 이동,"VO+BGM, 발소리 없음",,https://www.youtube.com/watch?v=J_NEozHo6v0&t=9s
+10,11.245,12.079,0.834,hard,object,WS,아이레벨,핸드헬드,1x,하드컷,setup,가고 싶던 식당,VO+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=11s
+11,12.079,13.78,1.702,hard,object,CU,하이앵글 45°(탑다운에 가까움),고정,1x,"하드컷, 채도 최고 구간(141)",reveal,육회비빔밥 주문,VO+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=12s
+12,13.78,15.482,1.702,hard,face_hands,MCU,정면,고정,1x,"하드컷, 자막 2줄 질문형",payoff,서울 사람만? 과장 반응,VO+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=13s
+13,15.482,16.383,0.901,jump,face_hands,MCU,정면,고정,1x,점프컷,reaction,같은 문장 유지,VO 휴지 구간+BGM(온셋 0개),,https://www.youtube.com/watch?v=J_NEozHo6v0&t=15s
+14,16.383,18.085,1.702,hard,object,ECU,매크로(하이앵글),핸드헬드(숟가락으로 들어 올림),1x,하드컷,build,간장 베이스 설명,VO+BGM(비비는 소리 없음),,https://www.youtube.com/watch?v=J_NEozHo6v0&t=16s
+15,18.085,19.786,1.702,hard,face_hands,MCU,정면(약한 로우앵글),고정,1x,하드컷,payoff,소스가 킥,"VO+BGM, 고역비 0.211로 최고지만 자막 속 치찰음(ㅅ 발음) 영향 추정",,https://www.youtube.com/watch?v=J_NEozHo6v0&t=18s
+16,19.786,20.654,0.868,hard,object,WS,로우앵글,핸드헬드,1x,하드컷,broll,시간 남아 카페,VO+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=19s
+17,20.654,21.488,0.834,hard,object,MS,하이앵글 45°,팬(핸드헬드),1x,"하드컷, 빠른 팬(움직임 13.94로 최상위)",broll,같은 문장 유지,VO+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=20s
+18,21.488,23.223,1.735,hard,face,MS,아이레벨(측면 45°),고정,1x,하드컷,reaction,빵 참고 음료만,"VO+BGM(컷 음량 -11.8dB, 이 구간 가장 큼)",,https://www.youtube.com/watch?v=J_NEozHo6v0&t=21s
+19,23.223,24.925,1.702,hard,face,MS,정면 아이레벨,고정(삼각대·지인 촬영 추정),1x,하드컷,tension,오늘의 목적지 예고,VO+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=23s
+20,24.925,27.527,2.603,hard,object,WS,아이레벨 정면,고정,1x,"하드컷, 영상에서 가장 긴 컷(2.60초=6박)",reveal,행사 초대,VO+BGM(Whisper no_speech 0.53로 이 구간부터 BGM 비중 커짐 추정),,https://www.youtube.com/watch?v=J_NEozHo6v0&t=24s
+21,27.527,29.229,1.702,hard,face,MS,아이레벨 정면,핸드헬드,1x,"하드컷, 피사체가 렌즈로 돌진(움직임 13.5)",rehook,친구와 합류,"VO+BGM, 웃음소리 안 들림",,https://www.youtube.com/watch?v=J_NEozHo6v0&t=27s
+22,29.229,30.097,0.868,hard,face,WS,정면,고정,1x,"하드컷, 채도 급상승(158)",payoff,환대 속 입장,VO+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=29s
+23,30.097,30.931,0.834,jump,face,WS,정면,고정,1x,점프컷(같은 구도 포즈 교체),reaction,같은 문장 유지,VO+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=30s
+24,30.931,32.633,1.702,hard,hands,MS,하이앵글 45°,팬(핸드헬드),1x,"하드컷, 팬(움직임 10.3)",build,준비 많이,VO+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=30s
+25,32.633,33.534,0.901,hard,hands,CU,POV,핸드헬드,1x,"하드컷, 얕은 심도(배경 흐림)",reveal,같은 문장 유지,"VO+BGM(온셋 0개, 컷 음량 -16.7dB)",,https://www.youtube.com/watch?v=J_NEozHo6v0&t=32s
+26,33.534,35.235,1.702,hard,face_hands,MCU,로우앵글(셀카 추정),고정,1x,"하드컷, 보라 조명 번짐",payoff,아이스크림부터,VO+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=33s
+27,35.235,36.069,0.834,hard,hands,CU,POV(하이앵글),핸드헬드,1x,"하드컷, 채도 최고(174) 파란 조명",build,이벤트 참여,"VO+BGM, 버튼 딸깍 소리 없음",,https://www.youtube.com/watch?v=J_NEozHo6v0&t=35s
+28,36.069,36.937,0.868,hard,hands,CU,POV,핸드헬드,1x,하드컷,tension,같은 문장 유지,VO+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=36s
+29,36.937,38.672,1.735,hard,face_hands,CU,셀카(로우앵글),핸드헬드,1x,하드컷,payoff,당 떨어질 때 단백질바,"VO+BGM, 씹는 소리 없음",,https://www.youtube.com/watch?v=J_NEozHo6v0&t=36s
+30,38.672,40.374,1.702,hard,face,MS,아이레벨,핸드헬드,1x,하드컷,tension,추첨 꽝,"VO+BGM, 진행자 목소리 안 들림",,https://www.youtube.com/watch?v=J_NEozHo6v0&t=38s
+31,40.374,42.075,1.702,hard,hands,MS,POV(하이앵글),핸드헬드,1x,하드컷,payoff,귀가 선물,VO+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=40s
+32,42.075,42.943,0.868,hard,object,MS,로우앵글(정면),핸드헬드(틸트),1x,하드컷,setup,저녁 식당 소개,VO+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=42s
+33,42.943,44.645,1.702,hard,object,CU,하이앵글 45°,고정,1x,하드컷,reveal,같은 문장 유지,"VO+BGM, 끓는 소리 없음",,https://www.youtube.com/watch?v=J_NEozHo6v0&t=42s
+34,44.645,46.38,1.735,hard,face_hands,MCU,로우앵글,고정,1x,하드컷,payoff,대기 없이 입장,VO+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=44s
+35,46.38,48.081,1.702,jump,face_hands,MCU,로우앵글,고정,1x,점프컷(검출 점수 4.69),reaction,그럭저럭 맛있게,VO+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=46s
+36,48.081,48.549,0.467,hard,hands,CU,하이앵글 45°,고정,1x,"하드컷, 1박(0.47초) 연타 시작",build,손 수제비가 찐,"VO+BGM, 퐁당 소리 없음",,https://www.youtube.com/watch?v=J_NEozHo6v0&t=48s
+37,48.549,48.949,0.4,jump,hands,CU,하이앵글 45°,고정,1x,점프컷 0.40초(1박),build,같은 문장 유지,VO+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=48s
+38,48.949,49.349,0.4,jump,hands,CU,하이앵글 45°,고정,1x,점프컷 0.40초(1박),build,같은 문장 유지,VO+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=48s
+39,49.349,50.05,0.701,jump,hands,CU,하이앵글 45°,고정,1x,점프컷 0.70초 — 연타 종료,payoff,같은 문장 유지,VO+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=49s
+40,50.05,51.518,1.468,hard,hands,CU,POV(아이레벨),핸드헬드,1x,하드컷,broll,커피 후 기차,VO+BGM(피크 -4.5dB로 영상 최고 음량),,https://www.youtube.com/watch?v=J_NEozHo6v0&t=50s
+41,51.518,52.352,0.834,hard,object,MS,아이레벨,고정,1x,하드컷,setup,같은 문장 유지,VO+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=51s
+42,52.352,53.654,1.301,hard,hands,MCU,탑다운 POV,핸드헬드,1x,"하드컷, 톤이 크림색으로 급변",payoff,일정 마무리,"VO+BGM, 털 소리 없음",,https://www.youtube.com/watch?v=J_NEozHo6v0&t=52s
+43,53.654,54.955,1.301,hard,object,CU,아이레벨 정면,핸드헬드,1x,"하드컷(검출 점수 5.41, 같은 장소 다른 구도), 페이드 없이 종료",loop,당일치기 끝,VO 마지막 문장+BGM,,https://www.youtube.com/watch?v=J_NEozHo6v0&t=53s

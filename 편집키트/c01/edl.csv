@@ -1,0 +1,67 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,0.917,0.917,hard,face_hands,MS,아이레벨 정면,고정,1x,하드컷 시작. 첫 프레임부터 거대 잔+웃는 얼굴이 한 화면(크기 비교가 곧 썸네일 역할),hook,,"잔 받침이 조리대에 닿는 둔탁한 '톡'(온셋 2, rms -15dB), 음악 없음",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=0s
+2,0.917,1.5,0.583,jump,face_hands,MS,아이레벨 정면,고정,1x,같은 구도 점프컷(0.58초),setup,,스푼이 유리에 닿는 작은 '팅'(고역비 0.117),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=0s
+3,1.5,2.6,1.1,jump,face_hands,MS,아이레벨 정면,고정,1x,"점프컷, 투명→빨강 색 변화가 컷 안의 볼거리",build,,"물 붓는 '콸콸'(rms -10.1dB, 온셋 2) — 초반 가장 큰 현장음",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=1s
+4,2.6,3.567,0.967,jump,face_hands,MS,아이레벨 정면,고정,1x,점프컷,build,,"스푼이 유리벽을 긁는 '찰랑·딸깍'(온셋 4, 초당 4.1)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=2s
+5,3.567,4.967,1.4,jump,face_hands,MS,아이레벨 정면,고정,1x,잔으로 렌즈 가림 → 다음 컷과 모양 맞춤(매치 전환 준비),tension,,"거의 무음(rms -30dB, 4.0~4.9초 -30~-33dB) — 다음 컷의 큰 소리 앞 숨 고르기",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=3s
+6,4.967,6.383,1.417,match,hands,CU,POV 하이앵글(냉동칸 안),핸드헬드,1x,앞 컷에서 기울어진 잔과 모양이 이어지는 매치컷 — 장소 이동을 동작 안에 숨김,reveal,,"유리가 냉동칸 선반에 미끄러지는 낮고 큰 '우웅·끼익' 마찰음(rms -9.6dB, 영상 최대 피크 -5.5dB, 5.0~6.9초 주기성 강한 톤)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=4s
+7,6.383,6.733,0.35,jump,hands,CU,POV 하이앵글(냉동칸 안),핸드헬드,1x,점프컷(0.35초),setup,,"마찰음 꼬리(rms -6.4dB, 저역 위주 중심 453Hz)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=6s
+8,6.733,7.017,0.283,hard,object,MS,측면,핸드헬드,1x,문 닫힘 와이프의 1단계,broll,,문 닫힘 저음(rms -8.5dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=6s
+9,7.017,7.367,0.35,whip,object,ECU,측면,핸드헬드,1x,"문 와이프(휩) 전환 1회차, 모션 11.7",broll,,문 닫히는 '탁'(온셋 7.18초),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=7s
+10,7.367,8.883,1.517,hard,face_hands,MS,아이레벨 정면,고정,1x,"하드컷, 새 챕터 시작",setup,,"시리얼 쏟아지는 '차르르' 바삭 고역(고역비 0.456 — 영상 2위, 중심 4.1kHz)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=7s
+11,8.883,9.3,0.417,hard,hands,CU,탑다운,고정,1x,하드컷(정면→탑다운),build,,알갱이 끌리는 작은 '사각'(rms -19dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=8s
+12,9.3,9.717,0.417,jump,hands,CU,탑다운,고정,1x,점프컷,build,,미세한 사각(rms -26dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=9s
+13,9.717,10.0,0.283,jump,hands,CU,탑다운,고정,1x,점프컷(0.28초),build,,"조용(rms -24dB, 고역비 0.15)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=9s
+14,10.0,10.233,0.233,jump,hands,CU,탑다운,고정,2x,점프컷 몽타주 시작(0.23초),build,,링이 꼬치에 걸리는 '톡'(고역비 0.16),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=10s
+15,10.233,10.383,0.15,jump,hands,CU,탑다운,고정,2x,점프컷 0.15초,build,,작은 '톡'(rms -22dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=10s
+16,10.383,10.55,0.167,jump,hands,CU,탑다운,고정,2x,점프컷 0.17초,build,,'톡'(고역비 0.185),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=10s
+17,10.55,10.683,0.133,jump,hands,CU,탑다운,고정,2x,점프컷 0.13초 — 영상 최단 컷,build,,"링끼리 부딪는 '딸깍딸깍'(온셋 2개/0.13초 = 초당 15, 고역비 0.327)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=10s
+18,10.683,10.9,0.217,jump,hands,CU,탑다운,고정,2x,점프컷 0.22초,build,,'톡톡'(고역비 0.2),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=10s
+19,10.9,11.133,0.233,jump,hands,CU,탑다운,고정,2x,점프컷 0.23초,build,,'톡'(고역비 0.228),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=10s
+20,11.133,11.317,0.183,jump,hands,CU,탑다운,고정,2x,점프컷 0.18초,build,,"고역 '딸깍'(고역비 0.416, 중심 4.4kHz)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=11s
+21,11.317,11.7,0.383,jump,hands,CU,탑다운,고정,2x,점프컷 0.38초 — 몽타주 마무리,payoff,,조용(rms -29.4dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=11s
+22,11.7,12.117,0.417,hard,object,MS,탑다운,고정,1x,스톱모션식 팝인(손을 편집으로 지움),build,,"꼬치가 트레이 가장자리에 걸리는 '탁'(온셋 2, rms -19dB)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=11s
+23,12.117,12.433,0.317,jump,object,MS,탑다운,고정,1x,스톱모션 팝인 2회차(모션 블러로 슬라이드),build,,'탁'(rms -19.2dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=12s
+24,12.433,13.333,0.9,hard,face_hands,MS,아이레벨 정면,고정,1x,하드컷(탑다운→정면),build,,칩 쏟아지는 '사라락'(고역비 0.237),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=12s
+25,13.333,14.017,0.683,jump,face_hands,MS,아이레벨 정면,고정,1x,볼로 렌즈 덮기 → 다음 컷 매치 준비,tension,,조용(rms -24.9dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=13s
+26,14.017,14.3,0.283,match,hands,CU,탑다운,고정,1x,"렌즈 가림 매치컷(칩 → 녹은 초콜릿 변신), 정면→탑다운 각도 전환까지 한 번에",reveal,,"볼 놓는 '톡'(온셋 1, rms -20.6dB)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=14s
+27,14.3,14.95,0.65,jump,hands,MS,탑다운,고정,1x,점프컷,build,,거의 무음(rms -27.7dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=14s
+28,14.95,15.567,0.617,jump,hands,MS,탑다운,고정,1x,"점프컷, 마블 패턴이 컷 안 볼거리",build,,"휘젓는 '찰박'(온셋 3, 초당 4.9)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=14s
+29,15.567,16.233,0.667,jump,hands,MS,탑다운,고정,1x,점프컷,build,,끈적한 '쩍'(rms -23dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=15s
+30,16.233,17.217,0.983,jump,hands,MS,탑다운,고정,1x,점프컷,build,,조용(rms -23.1dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=16s
+31,17.217,18.017,0.8,hard,hands,CU,탑다운,고정,1x,하드컷 클로즈업(펀치인 느낌),build,,끈적하게 흘러내리는 소리(rms -22dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=17s
+32,18.017,19.283,1.267,hard,hands,MS,탑다운,고정,1x,하드컷(클로즈업→중간),build,,조용(rms -21.7dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=18s
+33,19.283,19.9,0.617,hard,hands,CU,탑다운,고정,1x,하드컷 클로즈업,build,,조용(rms -22.5dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=19s
+34,19.9,21.117,1.217,hard,hands,MS,탑다운,고정,1x,컷 안 점프컷 2회(검출 누락) — 스톱모션식 재배치,build,,조용(rms -23.2dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=19s
+35,21.117,22.417,1.3,jump,hands,MS,탑다운,고정,1x,점프컷 + 컷 안 점프 1회(검출 누락),build,,"작은 '톡'(rms -19.5dB, 온셋 1)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=21s
+36,22.417,23.217,0.8,hard,object,CU,탑다운 → 하이앵글 45°,푸시인+틸트,1x,카메라 무빙 푸시인(결과 강조),payoff,,조용(rms -22.9dB) → 끝에서 냉동실 소리로 커짐,,https://www.youtube.com/watch?v=O_UhpuefyXE&t=22s
+37,23.217,23.817,0.6,hard,object,MS,POV 하이앵글(냉동칸),핸드헬드,1x,하드컷,broll,,"트레이가 선반에 밀려 들어가는 '드르륵·우웅'(rms -14.6dB, 23.0~24.0초 저역비 0.41~0.45)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=23s
+38,23.817,24.15,0.333,jump,object,MS,POV 하이앵글(냉동칸),핸드헬드,1x,점프컷(0.33초),broll,,"낮은 톤 마찰음(23.9초 약 178Hz, -8.8dB)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=23s
+39,24.15,24.3,0.15,hard,object,WS,부감 와이드,핸드헬드,1x,문 와이프 2회차 시작(0.15초),broll,,저음(rms -19.7dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=24s
+40,24.3,24.417,0.117,whip,object,CU,측면,핸드헬드,1x,"문 와이프(휩) 전환 2회차, 모션 16.1(영상 최대)",broll,,문 닫히는 '탁'(rms -16dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=24s
+41,24.417,26.233,1.817,hard,face_hands,MS,아이레벨 정면,고정,1x,"하드컷, 챕터 전환 후 얼굴 컷으로 재시작",rehook,,"껍질 벗기는 '스르륵'(온셋 4, rms -14.8dB)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=24s
+42,26.233,26.9,0.667,hard,person,MS,하이앵글 45°,고정,1x,"하드컷, 컷 안 짧은 점프 추정(약 26.4s·26.6s)",build,,"칼이 도마 치는 '탁탁'(온셋 3, 초당 4.5)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=26s
+43,26.9,27.167,0.267,jump,person,MS,하이앵글 45°,고정,1x,"점프컷, 칼이 렌즈 쪽으로 들려 화면을 반쯤 가림",build,,칼이 슬라이스를 떠내는 '스윽'(고역비 0.337),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=26s
+44,27.167,28.083,0.917,jump,person,MS,하이앵글 45°,고정,1x,점프컷,build,,"'톡톡' 칼질(온셋 6, 초당 6.5 — 영상 최고 밀도권)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=27s
+45,28.083,28.45,0.367,jump,person,MS,하이앵글 45°,고정,1x,"점프컷, 칼 면이 화면 상단을 가로지름",build,,'스윽'(고역비 0.273),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=28s
+46,28.45,28.95,0.5,jump,object,CU,하이앵글 45°,푸시인,1x,카메라 푸시인(다음 냉동실 컷으로 이어지는 가속),payoff,,조용(rms -23.8dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=28s
+47,28.95,30.0,1.05,hard,hands,MS,POV 하이앵글(냉동칸),핸드헬드,1x,하드컷,broll,,"접시가 선반에 미끄러지는 '우웅' 저음 톤(29.3~30.0초 약 176Hz, -6dB — 영상 최대급)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=28s
+48,30.0,30.217,0.217,hard,object,WS,부감 와이드,핸드헬드,1x,문 와이프 3회차 시작,broll,,저음(rms -16.1dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=30s
+49,30.217,30.55,0.333,whip,object,CU,측면,핸드헬드,1x,문 와이프(휩) 전환 3회차,broll,,"문 닫히는 '탁'(온셋 1, 피크 -6.4dB)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=30s
+50,30.55,31.1,0.55,hard,face_hands,MS,아이레벨 정면,고정,1x,"하드컷, 문 와이프 직후 결과물 등장",reveal,,"트레이 놓는 '달칵'(온셋 1, rms -17.3dB)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=30s
+51,31.1,31.633,0.533,jump,face_hands,MS,아이레벨 정면,고정,1x,점프컷,setup,,조용(rms -25.7dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=31s
+52,31.633,33.633,2.0,jump,face_hands,MS,아이레벨 정면,고정,1x,"컷 안 점프 1회(검출 누락), 막대를 렌즈에 들이밀어 화면 가림",tension,,"얼린 코팅을 쥐고 비트는 '뽀드득' 고역(고역비 0.224, 31.5~32.0초 4kHz 이상 비율 0.77~0.83)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=31s
+53,33.633,34.9,1.267,hard,person,MS,하이앵글 45°,고정,1x,하드컷(정면→하이앵글),reveal,,"꼬치 빠지는 '쓰윽·뽁'(온셋 3, 고역비 0.127)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=33s
+54,34.9,35.15,0.25,jump,person,MS,하이앵글 45°,고정,1x,점프컷(0.25초),reveal,,"'톡'(온셋 1, rms -18.1dB)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=34s
+55,35.15,35.817,0.667,hard,face_hands,MS,아이레벨 정면,고정,1x,하드컷,payoff,,"끼우는 '톡'(저역비 0.57, rms -17.1dB)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=35s
+56,35.817,36.417,0.6,jump,face_hands,MS,아이레벨 정면,고정,1x,점프컷,reaction,,조용(rms -17.2dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=35s
+57,36.417,37.917,1.5,jump,face_hands,MS,아이레벨 정면,고정,1x,컷 안 점프 1회(검출 누락),reaction,,조용~작은 톡(rms -23.3dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=36s
+58,37.917,39.067,1.15,hard,face_hands,MS,아이레벨 정면,고정,1x,하드컷(6번 컷 떡밥 회수),reveal,,"잔 받침 놓는 '쿵'(온셋 2, rms -14.2dB)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=37s
+59,39.067,40.45,1.383,jump,face_hands,MS,아이레벨 정면,고정,1x,점프컷,build,,"얼음 쏟아지는 '와르르 쨍'(고역비 0.551 — 영상 최고, 중심 4.5kHz, rms -11.9dB)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=39s
+60,40.45,41.117,0.667,hard,hands,MS,아이레벨(잔 높이),고정,1x,장소 점프 하드컷(조명·배경 전환),rehook,,"잔 받침 '쿵' 저음(40.5초 저역비 0.56, rms -12.8dB)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=40s
+61,41.117,46.033,4.917,jump,hands,MS,아이레벨(잔 높이),고정,1x,"점프컷, 컷 안 색 변화(투명→파랑)",build,,"음료 붓는 '쪼르르·치익' 연속(온셋 9, 42.5~46초 평탄도 0.5~0.7)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=41s
+62,46.033,48.033,2.0,jump,hands,MS,아이레벨(잔 높이),고정,1x,점프컷,payoff,,"얼음 사이로 빨대 들어가는 '딸각'(온셋 3, rms -14.6dB)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=46s
+63,48.033,49.7,1.667,jump,object,MS,아이레벨(잔 높이),고정(피사체 회전),1x,회전 쇼케이스(턴테이블 또는 손으로 돌림 추정),payoff,,거의 무음(rms -25dB),,https://www.youtube.com/watch?v=O_UhpuefyXE&t=48s
+64,49.7,52.833,3.133,hard,face_hands,MS,아이레벨 정면,고정,1x,"하드컷(장소 복귀), 표정 리액션",payoff,,"'뚝' 부러짐 + '와작' 씹는 소리(온셋 9, 52.3~52.9초 연속 타격 4회)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=49s
+65,52.833,55.583,2.75,jump,face_hands,MS,아이레벨 정면,고정,1x,점프컷,build,,"얼음 부딪치는 '달그락 쨍'(온셋 9, 고역비 0.14)",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=52s
+66,55.583,59.333,3.75,jump,face_hands,MS,아이레벨 정면,고정,1x,"점프컷, 끝 프레임이 첫 프레임과 같은 구도(빈 잔↔가득 찬 잔)",loop,,"빨아들이는 '쭙' 소리(56.8·57.2·58.1초 온셋), 말소리 없음",,https://www.youtube.com/watch?v=O_UhpuefyXE&t=55s

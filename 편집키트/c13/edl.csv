@@ -1,0 +1,75 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,2.617,2.617,hard,face_hands,MS,정면 아이레벨,고정,1x,하드컷 시작. 끝 0.2초에 링이 렌즈를 덮는 실물 와이프,hook,,"칼집 틈이 비벼지는 둔한 마찰음, 고역비 0.059로 약함 — 리액션이 주인공",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=0s
+2,2.617,3.8,1.183,hard,person,CU,정면 아이레벨,고정,1x,하드컷(렌즈 와이프 직후),build,,칼이 속살을 가르는 '쓱' 소리 4회(온셋 초당 3.38),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=2s
+3,3.8,5.683,1.883,match,hands,CU,하이앵글 45°,고정,1x,액션 매치컷 — 배경이 다른 클립(창가)을 칼 동작으로 연결,build,,"같은 슬라이스 소리를 이어 붙임, 고역비 0.137로 조금 더 밝게",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=3s
+4,5.683,7.383,1.7,hard,hands,CU,하이앵글 45°,고정,1x,"하드컷, 끝에 큐브가 렌즈로 다가와 모션 블러",payoff,,즙이 찰박이는 고역(고역비 0.287) — 수박 구간에서 가장 바삭,,https://www.youtube.com/watch?v=-hi0R70WNKk&t=5s
+5,7.383,7.567,0.183,jump,object,CU,하이앵글 45°,고정,1x,"점프컷, 강한 모션 블러(motion 15.21)",payoff,,"거의 무음에 가까운 저역(고역비 0.001, 중심 898Hz)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=7s
+6,7.567,8.717,1.15,hard,face_hands,MS,정면 아이레벨,고정,1x,하드컷 — 의상·도구·색(노랑)이 한꺼번에 바뀌는 챕터 전환,rehook,,"섬유가 뜯기는 '뽀드득 사각' 연속음(초당 5.22, 고역비 0.285)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=7s
+7,8.717,9.617,0.9,hard,person,MCU,정면 아이레벨,고정,1x,하드컷(MS→MCU 펀치인 효과),build,,"코어러 비트는 사각 소리 4회(초당 4.44, 고역비 0.296)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=8s
+8,9.617,10.017,0.4,jump,person,MCU,정면 아이레벨,고정,1x,점프컷,build,,영상 최고 고역비 0.379 — 가장 날카로운 비틀기 소리만 0.4초,,https://www.youtube.com/watch?v=-hi0R70WNKk&t=9s
+9,10.017,12.317,2.3,jump,person,MCU,정면 아이레벨,고정,1x,"점프컷, 컷 안 리빌",reveal,,과육이 빠지는 촉촉한 흡입음·마찰음 7회(초당 3.04),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=10s
+10,12.317,13.183,0.867,jump,person,CU,정면 아이레벨,고정,1x,"점프컷, 끝에 원기둥이 렌즈를 덮는 실물 와이프",payoff,,"작은 마찰음 2회, 고역비 0.05",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=12s
+11,13.183,14.033,0.85,hard,hands,MS,탑다운,고정,1x,하드컷(렌즈 와이프 이후 탑다운),reveal,,"조용함, 온셋 1회(고역비 0.012)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=13s
+12,14.033,15.3,1.267,hard,hands,CU,아이레벨 측면,고정,1x,하드컷 — 배경 변경(창밖 바다·산 전망),build,,"둔한 저역 마찰음(고역비 0.005, 중심 1,434Hz)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=14s
+13,15.3,16.2,0.9,jump,hands,CU,아이레벨 측면,고정,1x,"점프컷, 컷 안 나선 리빌",payoff,,"거의 무음, 온셋 0(고역비 0.004)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=15s
+14,16.2,16.883,0.683,hard,face_hands,MS,정면 아이레벨,고정,1x,"하드컷 — 세 번째 의상, 색이 주황으로 전환",rehook,,칼이 박히는 짧고 굵은 '퍽' 4회(초당 5.86),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=16s
+15,16.883,17.567,0.683,jump,face_hands,MS,정면 아이레벨,고정,1x,점프컷,build,,껍질을 가르는 '쓱' 2회(고역비 0.189),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=16s
+16,17.567,19.383,1.817,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷, 끝에 링이 렌즈를 덮는 실물 와이프(#1 콜백)",reveal,,링이 빠지는 마찰음 3회(고역비 0.064),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=17s
+17,19.383,20.55,1.167,hard,hands,CU,정면 아이레벨,고정,1x,하드컷(렌즈 와이프 직후),build,,"슬라이스 '쓱' 3회(초당 2.57), 중역 중심",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=19s
+18,20.55,21.983,1.433,hard,hands,CU,하이앵글 45°,고정,1x,하드컷,build,,"칼끝이 속살을 찍는 '톡톡톡' 8회(초당 5.58, 고역비 0.238)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=20s
+19,21.983,22.633,0.65,jump,hands,CU,하이앵글 45°,고정,1x,점프컷,payoff,,"칼이 층을 가르는 '스윽' 1회, 음량 낮음(-18.8dB)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=21s
+20,22.633,23.05,0.417,jump,object,CU,하이앵글 45°,고정,1x,점프컷,payoff,,젖은 큐브가 도자기에 쏟아지는 '차르르' 고역(고역비 0.348),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=22s
+21,23.05,23.717,0.667,jump,hands,CU,하이앵글 45°,고정,1x,점프컷,build,,"작은 슬라이스 소리 2회, 음량 낮음(-19.5dB)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=23s
+22,23.717,24.083,0.367,jump,object,CU,하이앵글 45°,고정,1x,점프컷,payoff,,"큐브가 쏟아지는 소리(고역비 0.122), 온셋은 검출 안 됨",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=23s
+23,24.083,24.6,0.517,hard,hands,CU,탑다운,고정,1x,하드컷 — 완전 탑다운으로 앵글 전환,rehook,,껍질을 긁는 '사각' 3회(초당 5.8),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=24s
+24,24.6,24.983,0.383,jump,hands,CU,탑다운,고정,1x,점프컷,build,,"'사각' 3회(초당 7.83), 컷 경계가 소리와 0.013초 차이",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=24s
+25,24.983,25.383,0.4,jump,hands,CU,탑다운,고정,1x,점프컷,build,,"'사각' 3회(초당 7.5, 고역비 0.105)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=24s
+26,25.383,25.733,0.35,jump,hands,CU,탑다운,고정,1x,점프컷,build,,'사각' 1회(고역비 0.11),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=25s
+27,25.733,26.083,0.35,jump,hands,CU,탑다운,고정,1x,점프컷,build,,"'사각' 3회(초당 8.57, 고역비 0.142) — 연타 구간 최고 밀도",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=25s
+28,26.083,26.35,0.267,jump,hands,CU,탑다운,고정,1x,점프컷,build,,'사각' 2회(고역비 0.202),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=26s
+29,26.35,26.65,0.3,jump,hands,CU,탑다운,고정,1x,점프컷,build,,'사각' 2회(고역비 0.164),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=26s
+30,26.65,26.967,0.317,jump,hands,CU,탑다운,고정,1x,점프컷,tension,,'사각' 2회(고역비 0.16),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=26s
+31,26.967,27.983,1.017,jump,hands,CU,탑다운,고정,1x,점프컷 — 도구가 큰 칼에서 과도로 교체,tension,,껍질을 가로지르는 긴 '스윽'(피크 -6.5dB),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=26s
+32,27.983,28.833,0.85,jump,hands,CU,탑다운,고정,1x,점프컷,tension,,가로 칼집 소리 5회(초당 5.88),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=27s
+33,28.833,29.233,0.4,jump,hands,CU,탑다운,고정,1x,점프컷,reveal,,"거의 무음(온셋 0, 고역비 0.002)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=28s
+34,29.233,29.517,0.283,jump,hands,CU,탑다운,고정,1x,점프컷,reveal,,작은 떼어내는 소리 1회(음량 -18.9dB),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=29s
+35,29.517,30.317,0.8,jump,hands,CU,탑다운,고정,1x,"점프컷, 컷 안 완성 리빌",payoff,,"조각 빠지는 '툭' 1회(피크 -6.5dB), 이후 조용",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=29s
+36,30.317,31.383,1.067,jump,hands,CU,탑다운,고정,1x,점프컷,payoff,,"거의 무음(-24.4dB, 영상 최저 음량)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=30s
+37,31.383,32.267,0.883,hard,hands,CU,탑다운,고정,1x,"하드컷 — 색이 분홍으로 전환, 템포 감속",rehook,,"우유가 떨어지는 '졸졸'(피크 -6.3dB), 크게 올림",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=31s
+38,32.267,33.3,1.033,jump,hands,CU,탑다운,고정,1x,점프컷,build,,숟가락이 얼음을 긁는 '서걱' 3회,,https://www.youtube.com/watch?v=-hi0R70WNKk&t=32s
+39,33.3,33.833,0.533,hard,hands,ECU,탑다운,고정,1x,하드컷(펀치인),build,,'서걱서걱' 얼음 긁기 3회(초당 5.63),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=33s
+40,33.833,35.233,1.4,hard,hands,CU,하이앵글 45°,고정,1x,하드컷 — 앵글 변화(창가 배경),build,,"긁는 소리 1회, 여운 길게(초당 0.71)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=33s
+41,35.233,38.05,2.817,hard,hands,CU,탑다운,고정,1x,"하드컷, 영상 최장 컷(2.82s)",payoff,,"느린 긁기 4회, 간격 넓음(초당 1.42)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=35s
+42,38.05,38.967,0.917,hard,hands,CU,탑다운,고정,1x,하드컷 — 자홍·노랑으로 색 전환,rehook,,숟가락이 껍질 벽을 긁는 '사각' 5회(초당 5.45),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=38s
+43,38.967,39.917,0.95,jump,hands,CU,탑다운,고정,1x,점프컷,build,,"'서걱' 3회(초당 3.16), 컷이 소리와 0.004초 차이",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=38s
+44,39.917,41.233,1.317,jump,hands,CU,탑다운,고정,1x,점프컷,build,,'사각' 4회(초당 3.04),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=39s
+45,41.233,43.067,1.833,hard,hands,CU,하이앵글 45°,고정,1x,"하드컷 — 앵글 변화(창가 배경, #40과 같은 설정)",build,,둔한 긁기 5회(고역비 0.013),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=41s
+46,43.067,45.167,2.1,hard,hands,CU,탑다운,고정,1x,하드컷,payoff,,'스윽' 펴는 소리 2회(고역비 0.065),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=43s
+47,45.167,45.6,0.433,hard,hands,CU,탑다운,고정,1x,"하드컷 — 빨강으로 색 복귀, 다시 탑다운 연타 시작",rehook,,도마에 칼이 닿는 '탁' 2회(고역비 0.071),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=45s
+48,45.6,45.833,0.233,jump,hands,CU,탑다운,고정,1x,점프컷,build,,'탁' 2회(초당 8.58),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=45s
+49,45.833,46.1,0.267,jump,hands,CU,탑다운,고정,1x,점프컷,build,,'탁' 1회(고역비 0.098),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=45s
+50,46.1,47.033,0.933,jump,hands,CU,탑다운,고정,1x,점프컷,build,,틀이 속살에 박히는 소리 3회(초당 3.22),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=46s
+51,47.033,47.167,0.133,jump,hands,CU,탑다운,고정,1x,점프컷(0.13s 초단 컷),build,,'딸깍' 1회(고역비 0.199),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=47s
+52,47.167,47.283,0.117,jump,hands,CU,탑다운,고정,1x,점프컷(0.12s 영상 최단),build,,"짧은 누름 소리, 온셋 미검출(고역비 0.083)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=47s
+53,47.283,47.583,0.3,jump,hands,CU,탑다운,고정,1x,점프컷,tension,,"톱니칼 긁는 소리 1회, 음량 낮음(-20.2dB)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=47s
+54,47.583,48.867,1.283,jump,hands,CU,탑다운,고정,1x,"점프컷, 컷 안 리빌",reveal,,속살 빠지는 소리 3회(피크 -7.7dB),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=47s
+55,48.867,50.783,1.917,jump,hands,CU,탑다운,고정,1x,"점프컷, 끝에 렌즈 쪽 접근",payoff,,들어 올리는 촉촉한 소리 4회(초당 2.09),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=48s
+56,50.783,51.517,0.733,jump,hands,ECU,탑다운,고정,1x,"점프컷, 실물 와이프(렌즈 덮기)",payoff,,"거의 무음(-23.1dB, 고역비 0.002)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=50s
+57,51.517,53.033,1.517,hard,person,MCU,정면 아이레벨,고정,2x(추정),"하드컷 — 네 번째 의상, 연두색으로 전환",rehook,,씨와 즙이 쏟아지는 '추르륵' 8회(초당 5.27),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=51s
+58,53.033,53.367,0.333,jump,person,CU,정면 아이레벨,고정,1x,"점프컷, 실물 와이프(렌즈 덮기)",reveal,,"조용함(온셋 0, 고역비 0.054)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=53s
+59,53.367,53.717,0.35,hard,hands,CU,탑다운,고정,2x(추정),하드컷,build,,칼이 도마에 닿는 소리 1회(피크 -6.2dB),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=53s
+60,53.717,53.983,0.267,jump,hands,CU,탑다운,고정,2x(추정),점프컷,build,,칼 소리 1회(초당 3.75),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=53s
+61,53.983,54.267,0.283,jump,hands,CU,탑다운,고정,2x(추정),점프컷,build,,칼 소리 2회(초당 7.07),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=53s
+62,54.267,55.0,0.733,jump,hands,CU,탑다운,고정,2x(추정),점프컷,build,,칼끝 '틱틱' 5회(초당 6.82),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=54s
+63,55.0,55.4,0.4,jump,hands,CU,탑다운,고정,2x(추정),점프컷,build,,칼끝 소리 1회(음량 -17.8dB),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=55s
+64,55.4,55.6,0.2,jump,hands,CU,탑다운,고정,2x(추정),점프컷(0.2s),build,,"거의 무음(온셋 0, 고역비 0.018)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=55s
+65,55.6,55.8,0.2,jump,hands,CU,탑다운,고정,2x(추정),점프컷(0.2s),reveal,,"무음에 가까움(-14.6dB 저역, 고역비 0.003)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=55s
+66,55.8,56.65,0.85,jump,hands,CU,탑다운,고정,4x+(추정),점프컷 + 배속,build,,"음악 또는 저역만 들리는 것으로 추정(온셋 0, 고역비 0.043)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=55s
+67,56.65,56.967,0.317,jump,hands,CU,탑다운,고정,2x(추정),점프컷,build,,칼 소리 1회(고역비 0.011),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=56s
+68,56.967,57.133,0.167,jump,hands,CU,탑다운,고정,2x(추정),점프컷(0.17s),build,,"저역 '툭'(중심 684Hz, -11.3dB)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=56s
+69,57.133,57.317,0.183,jump,hands,CU,탑다운,고정,2x(추정),점프컷(0.18s),build,,거의 무음(-22.8dB),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=57s
+70,57.317,57.5,0.183,jump,hands,CU,탑다운,고정,2x(추정),점프컷(0.18s),build,,저역만(고역비 0.001),,https://www.youtube.com/watch?v=-hi0R70WNKk&t=57s
+71,57.5,57.833,0.333,jump,object,MS,탑다운,고정,1x,점프컷,build,,"조용함(온셋 1, 고역비 0.005)",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=57s
+72,57.833,58.067,0.233,jump,hands,MS,탑다운,고정,2x(추정),점프컷,build,,"고역 거의 없음(0.001) — 둔한 저역, 배속으로 소리가 약해진 것으로 추정",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=57s
+73,58.067,58.3,0.233,jump,object,MS,탑다운,고정,2x(추정),점프컷,build,,"고역 거의 없음(0.001), 온셋 0",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=58s
+74,58.3,58.667,0.367,jump,object,MS,탑다운,크래시 줌,1x,"점프컷 + 편집 크래시 줌(추정, motion 16.23 전체 최대), 엔드카드 없음",loop,,"거의 무음(-20.9dB, 고역비 0) — 우쉬 효과음 없음",,https://www.youtube.com/watch?v=-hi0R70WNKk&t=58s

@@ -1,0 +1,90 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,1.933,1.933,hard,face_hands,MS,정면,고정 → 팬을 렌즈로 밀어 푸시인 효과,1x,"하드컷 시작, 끝에서 팬이 렌즈를 덮는 오브젝트 와이프로 다음 컷 연결",hook,,"0~1초 구간 RMS -38dB의 조용한 바탕 위에 톡톡 타격 4개(0.28·0.70·1.05·1.25s), 고역비 0.225로 영상 최상위권의 쨍한 소리",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=0s
+2,1.933,2.1,0.167,flash,object,ECU,매크로,고정(매크로 인서트),1x,팬이 렌즈를 덮은 직후 매크로 인서트로 이어지는 줌 전환,hook,,"온셋 0, RMS -31dB — 전환 순간은 사실상 조용함",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=1s
+3,2.1,2.783,0.683,hard,object,CU,하이앵글 45°,고정,1x,하드컷(검출 경계가 줌 전환 도중이라 첫 프레임은 매크로),setup,,RMS -20.9dB로 소리가 갑자기 커지며 버너 위 바닥음이 깔림,,https://www.youtube.com/watch?v=U9d25EcxqnU&t=2s
+4,2.783,3.483,0.7,jump,object,CU,하이앵글 45°,고정,1x,"같은 구도 점프컷, 숟가락 모션 블러",build,,"2.90·3.16·3.39s 온셋 연타, 고역비 0.141의 쨍한 '딱' 소리",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=2s
+5,3.483,5.2,1.717,hard,hands,CU,탑다운,고정,2x,"하드컷, 앵글이 위에서 내려다보는 쪽으로 바뀜",build,,"RMS -21.9dB, 온셋 3개(3.60·4.34·4.55s) — 조각이 주걱에 밀리며 달그락",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=3s
+6,5.2,5.583,0.383,hard,hands,CU,하이앵글 45°,고정,1x,하드컷,build,,"RMS -18.8dB로 전반부에서 큰 편, 끈적하게 긁히는 저역 소리",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=5s
+7,5.583,6.167,0.583,jump,hands,CU,하이앵글 45°,고정,1x,점프컷,build,,"RMS -23.5dB, 온셋 2개 — 찰박이는 끈적 소리",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=5s
+8,6.167,6.55,0.383,jump,hands,CU,하이앵글 45°,고정,1x,점프컷,build,,"RMS -23.7dB, 온셋 1개 — 떨어지는 시럽 방울",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=6s
+9,6.55,6.7,0.15,jump,hands,CU,POV 하이앵글 45°,고정,1x,0.15초 점프컷 — 틀을 처음 보여 주는 짧은 예고,tension,,"온셋 0, RMS -26.1dB 거의 조용",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=6s
+10,6.7,7.117,0.417,jump,hands,CU,POV 하이앵글 45°,고정,1x,점프컷,build,,"RMS -19.7dB, 온셋 1개(7.01s) — 시럽이 틀에 닿는 소리",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=6s
+11,7.117,7.6,0.483,jump,hands,CU,POV 하이앵글 45°,고정,1x,점프컷 + 컷 안 점프 1회(약 7.57s),build,,"온셋 0, RMS -22.7dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=7s
+12,7.6,8.083,0.483,hard,hands,CU,탑다운,고정,1x,"하드컷, 화면 주색이 초록에서 빨강으로 급전환",rehook,,"온셋 7.73·7.96s, 고역비 0.104 — 두 번째 톡톡 라운드",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=7s
+13,8.083,8.483,0.4,hard,hands,CU,하이앵글 45°,고정,1x,하드컷,build,,"RMS -26.8dB, 조용한 누름 소리",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=8s
+14,8.483,8.867,0.383,jump,hands,CU,하이앵글 45°,고정,1x,점프컷,build,,"RMS -21.7dB, 온셋 0 — 끈적 마찰음",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=8s
+15,8.867,9.283,0.417,jump,hands,CU,하이앵글 45°,고정,1x,점프컷,build,,"RMS -20.9dB, 온셋 1개, 고역비 0.072",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=8s
+16,9.283,9.717,0.433,jump,hands,CU,하이앵글 45°,고정,1x,점프컷,build,,온셋 2개(9.24·9.31s) 짧은 찰싹 소리,,https://www.youtube.com/watch?v=U9d25EcxqnU&t=9s
+17,9.717,11.183,1.467,hard,hands,CU,측면(낮은 앵글),고정,1x,"하드컷, 앵글을 낮춰 늘어나는 높이를 강조",payoff,,"온셋 0, RMS -21.2dB의 연속 끈적임 — 댓글이 칭찬한 끈적 소리 구간",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=9s
+18,11.183,13.167,1.983,hard,hands,CU,POV 하이앵글 45°,고정,1x,하드컷 + 컷 안 점프 2회,build,,온셋 3개(11.98·12.05·12.89s) — 스푼이 틀에 닿는 달칵,,https://www.youtube.com/watch?v=U9d25EcxqnU&t=11s
+19,13.167,13.433,0.267,jump,hands,CU,POV 하이앵글 45°,고정,1x,점프컷,tension,,"온셋 0, RMS -22.7dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=13s
+20,13.433,14.417,0.983,hard,hands,CU,하이앵글 45°,고정,1x,"하드컷, 배경이 청록 접시로 바뀜",reveal,,"RMS -21.5dB, 실리콘 틀이 떨어지는 소리",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=13s
+21,14.417,15.367,0.95,jump,hands,CU,하이앵글 45°,고정,1x,점프컷,reveal,,"온셋 1개, RMS -21.3dB — 틀 벗기는 쫀득한 소리",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=14s
+22,15.367,15.833,0.467,jump,hands,CU,하이앵글 45°,고정,1x,점프컷,payoff,,"RMS -16.0dB, 피크 -11.2dB — 사탕이 접시에 부딪히는 또렷한 소리",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=15s
+23,15.833,16.35,0.517,hard,face_hands,MS,정면,고정,1x,하드컷(촬영일이 다른 영상을 이어 붙임),rehook,,"고역비 0.152, 온셋 16.09s — 두 번째 얼굴 톡톡",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=15s
+24,16.35,17.217,0.867,jump,face_hands,MS,정면,고정,1x,점프컷,build,,"온셋 3개(16.46·16.67·16.93s), 고역비 0.193 — 쨍한 연타",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=16s
+25,17.217,17.55,0.333,jump,face_hands,CU,정면,고정 → 팬을 렌즈로 밀어 푸시인 효과,1x,팬으로 화면을 덮는 오브젝트 와이프,tension,,"온셋 0, RMS -29.4dB 조용",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=17s
+26,17.55,17.7,0.15,whip,object,CU,매크로 → 하이앵글 45°,고정(팬 자체가 휩 이동),1x,"팬 움직임 자체가 휩 전환, 얼굴 세트에서 작업대 세트로 연결",setup,,"온셋 0, RMS -27.9dB — 휙 효과음 없음",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=17s
+27,17.7,18.133,0.433,match,object,CU,하이앵글 45°,고정,1x,동작 이어 붙이기(매치 컷) + 컷 안 점프 1회,setup,,온셋 2개(17.90·17.97s) — 팬이 버너에 닿는 딸깍,,https://www.youtube.com/watch?v=U9d25EcxqnU&t=17s
+28,18.133,18.5,0.367,jump,object,CU,하이앵글 45°,고정,1x,점프컷,build,,"온셋 18.20·18.48s, 초당 5.45 — 연타",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=18s
+29,18.5,21.067,2.567,hard,hands,CU,하이앵글 45°,고정,2x,하드컷,build,,"온셋 4개, 피크 -13.2dB — 긁는 소리, 영상 최장 컷(2.57초)",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=18s
+30,21.067,21.35,0.283,hard,hands,CU,측면(더치 기울임),고정,1x,"하드컷, 화면이 비스듬히 기울어진 앵글",build,,"온셋 0, RMS -25.9dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=21s
+31,21.35,21.867,0.517,jump,hands,CU,측면(더치 기울임),고정,1x,점프컷,build,,"온셋 1개, RMS -25.7dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=21s
+32,21.867,22.317,0.45,jump,hands,CU,측면(더치 기울임),고정,1x,점프컷,build,,"온셋 0, RMS -26.8dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=21s
+33,22.317,22.7,0.383,hard,hands,CU,POV 하이앵글 45°,고정,1x,하드컷,tension,,"온셋 0, RMS -27.1dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=22s
+34,22.7,23.117,0.417,jump,hands,CU,POV 하이앵글 45°,고정,1x,점프컷,build,,"온셋 2개, 고역비 0.054",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=22s
+35,23.117,23.267,0.15,jump,hands,CU,POV 하이앵글 45°,고정,1x,0.15초 점프컷,build,,"RMS -27.2dB, 거의 조용",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=23s
+36,23.267,23.6,0.333,jump,hands,CU,POV 하이앵글 45°,고정,1x,점프컷,tension,,RMS -29.7dB 조용,,https://www.youtube.com/watch?v=U9d25EcxqnU&t=23s
+37,23.6,23.983,0.383,jump,hands,CU,POV 하이앵글 45°,고정,1x,점프컷,reveal,,"온셋 1개, RMS -29.3dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=23s
+38,23.983,24.967,0.983,hard,hands,CU,하이앵글 45°,고정,1x,"하드컷, 화면 주색이 검정에서 초록으로",rehook,,"온셋 4개(23.96~24.61s) 초당 4.07, 고역비 0.066",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=23s
+39,24.967,25.183,0.217,hard,hands,CU,하이앵글 45°,고정,1x,하드컷,build,,0.22초에 온셋 2개(초당 9.2) 연타,,https://www.youtube.com/watch?v=U9d25EcxqnU&t=24s
+40,25.183,27.7,2.517,jump,hands,CU,하이앵글 45°,고정,2x,점프컷,build,,"온셋 7개(25.84~27.61s), 고역비 0.066 — 조각끼리 부딪히는 사각 소리",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=25s
+41,27.7,28.2,0.5,hard,hands,CU,측면,고정,1x,하드컷,build,,"온셋 1개, RMS -25.4dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=27s
+42,28.2,28.867,0.667,jump,hands,CU,측면,고정,1x,점프컷,build,,"온셋 1개, RMS -23.7dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=28s
+43,28.867,29.483,0.617,jump,hands,CU,측면,고정,1x,점프컷,payoff,,"온셋 3개(29.12·29.21·29.28s), 고역비 0.108 — 끈적하게 찢기는 소리",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=28s
+44,29.483,30.45,0.967,hard,hands,CU,측면(낮은 앵글),고정,1x,하드컷,build,,RMS -28.9dB 조용,,https://www.youtube.com/watch?v=U9d25EcxqnU&t=29s
+45,30.45,30.733,0.283,hard,hands,CU,POV 하이앵글 45°,고정,1x,하드컷,build,,RMS -29.2dB 조용,,https://www.youtube.com/watch?v=U9d25EcxqnU&t=30s
+46,30.733,31.267,0.533,jump,hands,CU,POV 하이앵글 45°,고정,1x,점프컷,build,,"온셋 1개, RMS -27.6dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=30s
+47,31.267,31.833,0.567,hard,object,CU,탑다운,고정,1x,"하드컷, 탑다운으로 전환",tension,,RMS -30.0dB — 소리가 줄어들기 시작,,https://www.youtube.com/watch?v=U9d25EcxqnU&t=31s
+48,31.833,32.367,0.533,hard,hands,CU,하이앵글 45°,고정,1x,하드컷,reveal,,RMS -36.8dB — 영상에서 가장 조용한 구간(소리 드롭),,https://www.youtube.com/watch?v=U9d25EcxqnU&t=31s
+49,32.367,33.2,0.833,jump,hands,CU,하이앵글 45°,고정,1x,점프컷,payoff,,RMS -37.0dB 거의 무음 — 소리를 빼고 시각에 집중,,https://www.youtube.com/watch?v=U9d25EcxqnU&t=32s
+50,33.2,33.833,0.633,hard,object,CU,하이앵글 45°,고정,1x,"하드컷, 화면 주색이 빨강으로",rehook,,"온셋 3개(33.32~33.76s), 고역비 0.097 — 무음 직후 타격음이 다시 튐",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=33s
+51,33.833,34.067,0.233,hard,hands,CU,하이앵글 45°,고정,1x,하드컷,build,,"온셋 0, RMS -26.3dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=33s
+52,34.067,34.333,0.267,jump,hands,CU,하이앵글 45°,고정,1x,점프컷,build,,"온셋 0, RMS -25.5dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=34s
+53,34.333,34.717,0.383,jump,hands,CU,하이앵글 45°,고정,1x,점프컷,build,,"온셋 0, RMS -28.1dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=34s
+54,34.717,35.433,0.717,hard,hands,CU,측면,고정,1x,하드컷,build,,"온셋 2개, 피크 -19.2dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=34s
+55,35.433,35.767,0.333,hard,hands,CU,하이앵글 45°,고정,1x,하드컷,build,,"온셋 1개, 고역비 0.086 — 기포가 톡톡 터지는 소리",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=35s
+56,35.767,36.117,0.35,hard,hands,CU,탑다운,고정,1x,"하드컷, 탑다운",build,,"온셋 0, 고역비 0.103",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=35s
+57,36.117,36.517,0.4,jump,hands,CU,탑다운,고정,1x,점프컷,tension,,"온셋 0, RMS -28.9dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=36s
+58,36.517,37.383,0.867,hard,hands,CU,하이앵글 45°,고정,1x,하드컷 + 컷 안 점프 1회,rehook,,"온셋 4개(36.83~37.34s), 초당 4.61",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=36s
+59,37.383,38.033,0.65,jump,hands,CU,하이앵글 45°,고정,1x,점프컷,build,,"온셋 1개, RMS -26.1dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=37s
+60,38.033,38.483,0.45,hard,hands,CU,측면(얕은 심도),고정,1x,"하드컷, 배경 흐림(아웃포커스)",build,,"온셋 0, RMS -26.2dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=38s
+61,38.483,39.167,0.683,hard,hands,CU,탑다운,고정,1x,하드컷,build,,"온셋 0, RMS -28.0dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=38s
+62,39.167,39.717,0.55,hard,hands,CU,하이앵글 45°,고정,1x,하드컷,build,,피크 -7.3dB(영상 최대 피크) — 주걱이 팬 벽을 치는 소리(추정),,https://www.youtube.com/watch?v=U9d25EcxqnU&t=39s
+63,39.717,40.133,0.417,hard,hands,CU,탑다운,고정,1x,"하드컷, 탑다운",build,,"온셋 1개, 고역비 0.059",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=39s
+64,40.133,40.233,0.1,flash,hands,CU,탑다운,고정,1x,0.1초 플래시 컷,tension,,RMS -32.8dB 무음,,https://www.youtube.com/watch?v=U9d25EcxqnU&t=40s
+65,40.233,41.8,1.567,hard,hands,CU,하이앵글 45°,고정,1x,"하드컷, 배경 접시가 노랑으로",reveal,,"온셋 0, RMS -29.2dB 조용",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=40s
+66,41.8,42.533,0.733,jump,hands,CU,하이앵글 45°,고정,1x,점프컷,payoff,,RMS -31.9dB 조용,,https://www.youtube.com/watch?v=U9d25EcxqnU&t=41s
+67,42.533,43.367,0.833,hard,face_hands,MS,정면,고정,1x,하드컷(다른 촬영일 영상 이어 붙임),rehook,,"고역비 0.277(영상 최고), 온셋 3개 — 가장 쨍한 톡톡",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=42s
+68,43.367,44.233,0.867,jump,face_hands,CU,정면,고정 → 팬을 렌즈로 밀어 푸시인 효과,1x,"점프컷, 끝에서 팬 와이프 전환",build,,"온셋 2개, 고역비 0.172",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=43s
+69,44.233,44.8,0.567,hard,object,CU,매크로 → 하이앵글 45°,고정,1x,컷 안 점프 2회 + 끝 2프레임 플래시 예고(파인애플 틀),setup,,"온셋 2개, RMS -27.7dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=44s
+70,44.8,46.8,2.0,hard,hands,CU,하이앵글 45°,고정,2x,하드컷,build,,"온셋 9개, RMS -16.1dB — 영상에서 가장 촘촘하고 큰 바삭 부서짐 구간",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=44s
+71,46.8,47.167,0.367,jump,hands,CU,하이앵글 45°,고정,1x,점프컷,build,,"온셋 2개(초당 5.45), 고역비 0.132",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=46s
+72,47.167,47.767,0.6,hard,hands,CU,하이앵글 45°,고정,1x,"하드컷, 주걱 모션 블러",build,,"온셋 1개, RMS -22.0dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=47s
+73,47.767,48.667,0.9,hard,hands,CU,POV 하이앵글 45°,고정,1x,하드컷 + 컷 안 점프 1회,build,,"온셋 2개, RMS -22.7dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=47s
+74,48.667,49.267,0.6,hard,hands,CU,하이앵글 45°,고정,1x,"하드컷, 화면 주색이 초록으로",rehook,,"고역비 0.242, 온셋 3개 — 두 번째로 쨍한 타격",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=48s
+75,49.267,50.167,0.9,jump,hands,CU,하이앵글 45°,고정,1x,점프컷,build,,"RMS -19.8dB, 온셋 2개",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=49s
+76,50.167,50.517,0.35,jump,hands,CU,하이앵글 45°,고정,1x,점프컷,build,,"RMS -15.3dB — 영상 최대 RMS, 넓게 긁는 소리",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=50s
+77,50.517,51.0,0.483,hard,hands,CU,탑다운,고정,1x,하드컷,build,,"온셋 3개(초당 6.21), 고역비 0.087",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=50s
+78,51.0,51.467,0.467,hard,hands,CU,하이앵글 45°,고정,1x,하드컷,build,,"온셋 0, RMS -21.6dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=51s
+79,51.467,52.317,0.85,hard,hands,CU,POV 하이앵글 45°,고정,1x,하드컷,build,,"온셋 2개, RMS -20.3dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=51s
+80,52.317,52.867,0.55,jump,hands,CU,POV 하이앵글 45°,고정,1x,점프컷 + 컷 안 점프 1회,build,,"온셋 0, RMS -20.4dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=52s
+81,52.867,53.333,0.467,hard,hands,CU,하이앵글 45°,고정,1x,하드컷,tension,,"온셋 0, RMS -21.6dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=52s
+82,53.333,54.517,1.183,hard,hands,CU,탑다운,고정,1x,"하드컷, 탑다운",reveal,,"온셋 5개, 고역비 0.193 — 실리콘이 벗겨지는 찍찍 소리",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=53s
+83,54.517,54.817,0.3,jump,hands,CU,탑다운,고정,1x,점프컷,reveal,,"0.3초에 온셋 3개(초당 10.0, 영상 최고 밀도)",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=54s
+84,54.817,55.517,0.7,jump,hands,CU,탑다운,고정,1x,점프컷,payoff,,"RMS -17.1dB, 비교적 큰 소리",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=54s
+85,55.517,56.283,0.767,hard,hands,CU,POV 하이앵글 45°,고정,1x,하드컷,build,,"온셋 1개, RMS -27.4dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=55s
+86,56.283,56.883,0.6,hard,hands,CU,탑다운,고정,1x,"하드컷, 배경 접시가 분홍으로",reveal,,"온셋 0, RMS -27.3dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=56s
+87,56.883,57.8,0.917,jump,hands,CU,탑다운,고정,1x,점프컷,reveal,,"온셋 1개, RMS -31.0dB",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=56s
+88,57.8,59.2,1.4,hard,hands,CU,하이앵글 45°,고정,1x,"하드컷, 배경에 음료 잔 등장",payoff,,"온셋 6개(57.96~58.93s), 고역비 0.108 — 반쪽을 누르는 소리",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=57s
+89,59.2,59.933,0.733,jump,hands,CU,하이앵글 45°,고정,1x,"점프컷, 마무리 문구·자막 없이 그대로 종료",loop,,"온셋 0, RMS -31.8dB — 현장음이 빠지고 음악 위주로 끝남",,https://www.youtube.com/watch?v=U9d25EcxqnU&t=59s

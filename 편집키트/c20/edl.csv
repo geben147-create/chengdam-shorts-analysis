@@ -1,0 +1,53 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,1.9,1.9,hard,face_hands,MS,아이레벨 정면,고정,1x,하드 스타트. 끝에서 빵을 렌즈로 밀어 넣어 화면을 가리는 오브젝트 와이프로 #2와 연결,hook,,"비닐 바스락 고역 강조(hf_ratio 0.506 = 영상 최고, 온셋 9개·초당 4.74) — 음악보다 비닐 소리가 앞",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=0s
+2,1.9,2.0,0.1,flash,object,MS,탑다운,고정,1x,0.1초 섬광 프레임 — 앞 컷의 화면 가림을 받아 공간을 정면→탑다운으로 바꾸는 이음새,setup,,"비닐 잔향만 약하게(-24.9dB, 온셋 0)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=1s
+3,2.0,2.2,0.2,whip,hands,CU,탑다운,고정,2x,"슬라이드 인(물체 휩) — 움직임 평균 18.2로 영상 상위, 빵 자체가 전환 역할",setup,,"빵이 쟁반에 닿는 둔탁한 톡(온셋 1, 저역 중심 hf 0.006)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=2s
+4,2.2,3.033,0.833,jump,hands,MS,탑다운,고정,1x,"하드컷(같은 탑다운 구도, 시간만 건너뜀)",build,,빵칼 톱질 '스걱' 저역 강조 — RMS -13.0dB·피크 -8.4dB로 영상 전체 최대 음량,,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=2s
+5,3.033,3.45,0.417,jump,hands,MS,탑다운,고정,1x,점프컷,build,,"거의 조용(-28.0dB, 온셋 0) — 음악 바닥만",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=3s
+6,3.45,4.5,1.05,jump,hands,MS,탑다운,고정,1x,점프컷,build,,"칼이 빵 속을 긁는 '사각' 소리(온셋 4, 초당 3.81, RMS -14.2dB로 크게)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=3s
+7,4.5,5.417,0.917,jump,hands,MS,탑다운,고정,1x,점프컷,build,,"칼집 사각 소리 연속(온셋 4, 초당 4.36)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=4s
+8,5.417,6.233,0.817,jump,hands,MS,탑다운,고정,1x,점프컷,build,,폭신한 속살 뜯기는 소리 작게(-24.0dB),,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=5s
+9,6.233,6.533,0.3,jump,hands,MS,탑다운,고정,2x,"점프컷, 덩어리가 렌즈 앞을 지나며 잠깐 화면을 가림",build,,"음악만(-22.9dB, 온셋 0)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=6s
+10,6.533,6.833,0.3,jump,hands,MS,탑다운,편집 줌(펀치인),1x,편집 줌 펀치인 시작(0.3초 동안 약 1.4배),reveal,,조용(-30.1dB) — 소리를 빼 시선을 화면에 모음,,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=6s
+11,6.833,7.0,0.167,false,object,ECU,탑다운,크래시 줌,1x,줌 연속 구간 — 모션 블러로 크래시 줌 느낌,reveal,,조용(-30.0dB),,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=6s
+12,7.0,8.867,1.867,hard,face_hands,MS,아이레벨 정면,고정,1x,하드컷(탑다운 → 정면 얼굴),rehook,,"필러 소리 약함(-27.2dB, 온셋 1) — 음악이 주도",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=7s
+13,8.867,9.533,0.667,hard,hands,MS,하이앵글 45°,고정,2x,하드컷,build,,칼이 도마·접시를 긁는 소리(hf 0.233),,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=8s
+14,9.533,10.5,0.967,jump,hands,MS,하이앵글 45°,고정,2x,점프컷,build,,플라스틱 팩 딸깍·바스락(온셋 2),,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=9s
+15,10.5,11.417,0.917,jump,hands,MS,하이앵글 45°,고정,2x,점프컷,build,,"귤 껍질 찢기는 소리 고역 강조(hf 0.239, 온셋 3)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=10s
+16,11.417,12.267,0.85,jump,hands,MS,하이앵글 45°,고정,2x,점프컷,build,,"껍질 찢김 연속(온셋 3, hf 0.096)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=11s
+17,12.267,12.633,0.367,jump,hands,MS,하이앵글 45°,고정,2x,점프컷,build,,톡 내려놓는 소리(온셋 1),,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=12s
+18,12.633,13.433,0.8,hard,hands,MS,탑다운,고정,1x,"하드컷, 2단 스테이션 구도(완성 재료 위·진행 재료 아래)",build,,"물에 블루베리 떨어지는 첨벙(hf 0.111, 온셋 2)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=12s
+19,13.433,14.233,0.8,jump,hands,MS,탑다운,고정,1x,점프컷,build,,"물 찰박 소리(온셋 3, 초당 3.75)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=13s
+20,14.233,14.967,0.733,hard,object,CU,하이앵글 45°,푸시인,1x,하드컷 + 푸시인,build,,"물 떨어지는 소리(온셋 1, -22.9dB)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=14s
+21,14.967,15.833,0.867,hard,object,MS,탑다운,푸시인,1x,하드컷 + 푸시인 줌,payoff,,블루베리 우르르 굴러떨어지는 소리(-18.9dB),,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=14s
+22,15.833,15.967,0.133,false,object,CU,탑다운,푸시인,1x,줌 연속,payoff,,음악만(-22.6dB),,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=15s
+23,15.967,17.233,1.267,hard,face_hands,MS,아이레벨 정면,고정,1x,하드컷(탑다운 → 정면 얼굴),rehook,,"크림 쪼르륵(-24.9dB, 온셋 1)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=15s
+24,17.233,18.333,1.1,hard,hands,CU,하이앵글 45°,고정,2x,"하드컷, 2배속 추정",build,,"믹서 모터 윙 + 거품 소리(hf 0.259, 온셋 7·초당 6.36 = 영상 최고 밀도, RMS -14.2dB)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=17s
+25,18.333,19.267,0.933,jump,hands,CU,하이앵글 45°,고정,2x,점프컷,payoff,,"휘핑 마무리 소리(hf 0.195, 온셋 3)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=18s
+26,19.267,20.367,1.1,hard,hands,WS,탑다운,고정,1x,하드컷 + 빵 틀 슬라이드 인(모션 블러),setup,,주걱이 크림을 떠내는 쩍 소리(온셋 3),,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=19s
+27,20.367,21.5,1.133,jump,hands,WS,탑다운,고정,2x,점프컷,build,,"음악만에 가까움(-22.3dB, 온셋 0)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=20s
+28,21.5,22.033,0.533,jump,hands,WS,탑다운,고정,2x,점프컷,build,,조용(-23.9dB),,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=21s
+29,22.033,22.567,0.533,jump,hands,WS,탑다운,고정,2x,점프컷,build,,"집게 딸깍(온셋 3, 초당 5.63)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=22s
+30,22.567,22.833,0.267,hard,object,MS,탑다운,고정,1x,하드컷(3단 WS → 빵 틀 MS로 좁힘),build,,블루베리 톡톡 떨어지는 소리(-17.2dB로 큼),,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=22s
+31,22.833,24.867,2.033,jump,hands,MS,탑다운,고정,4x+,점프컷 + 고배속(4x 이상 추정) — 0.2초마다 과일이 1개씩 늘어나는 타임랩스,build,,"집게 딸깍 연타(온셋 7, 초당 3.44)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=22s
+32,24.867,25.033,0.167,jump,hands,MS,탑다운,고정,2x,점프컷 0.17초 — 빡빡빡 3연타 시작,build,,음악만(온셋 0),,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=24s
+33,25.033,25.167,0.133,jump,object,MS,탑다운,고정,1x,점프컷 0.13초,payoff,,음악만(-25.0dB),,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=25s
+34,25.167,25.333,0.167,jump,hands,MS,탑다운,고정,1x,점프컷 0.17초 — 빡빡빡 3연타 끝,build,,크림 덮는 소리 약하게(온셋 1),,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=25s
+35,25.333,26.6,1.267,hard,hands,MS,측면 아이레벨 45°,푸시인,1x,하드컷 + 푸시인(끝 프레임은 빵 윗면 클로즈업),setup,,"조용(-24.1dB, 온셋 2)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=25s
+36,26.6,27.15,0.55,hard,hands,MS,하이앵글 45°,핸드헬드,1x,하드컷,setup,,냉장고 선반 소리(온셋 1),,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=26s
+37,27.15,28.0,0.85,jump,hands,MS,하이앵글 45°,고정,1x,점프컷,setup,,서랍 닫히는 소리(온셋 1),,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=27s
+38,28.0,30.133,2.133,hard,face_hands,MS,아이레벨 정면,고정,1x,"하드컷, 끝에서 잔을 렌즈로 밀어 화면 가림 → 다음 컷 연결",rehook,,"초콜릿 코인이 유리잔에 쏟아지는 차르르(온셋 8·초당 3.75, hf 0.12)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=28s
+39,30.133,30.383,0.25,hard,hands,CU,탑다운,풀아웃,1x,하드컷 + 풀아웃(가림 → 공개),setup,,조용(-25.1dB),,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=30s
+40,30.383,31.233,0.85,jump,hands,MS,탑다운,고정,2x,"점프컷, 색 변신이 컷 안에서 완료",reveal,,젓는 소리(온셋 3),,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=30s
+41,31.233,31.567,0.333,jump,object,CU,탑다운,푸시인,1x,푸시인 줌,tension,,"조용(-30.7dB, 온셋 0)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=31s
+42,31.567,34.167,2.6,hard,face_hands,MS,아이레벨 정면,고정,1x,하드컷 + 컷 안 점프컷 1회,tension,,초콜릿 흘러내리는 소리(온셋 5),,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=31s
+43,34.167,37.533,3.367,hard,hands,MS,측면 아이레벨,고정,1x,하드컷 + 컷 안 점프 약 2회(≈35.5s·36.1s),reveal,,핑크 초코 흐르는 소리 → 스프링클 촤르르 고역(36~38s 구간 hf 0.266 = 2초 구간 최고),,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=34s
+44,37.533,38.817,1.283,hard,object,CU,측면 아이레벨,고정,1x,하드컷(사이즈 업),payoff,,"조용한 여운(-27.1dB, 온셋 4)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=37s
+45,38.817,39.25,0.433,hard,hands,MS,하이앵글 45° → 아이레벨,회전,1x,"하드컷, 실제 트레이 회전으로 360 보여주기",payoff,,거의 무음(-30.2dB),,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=38s
+46,39.25,39.867,0.617,hard,hands,CU,측면 아이레벨,푸시인,1x,하드컷 + 빠른 푸시인,tension,,무음에 가까움(-33.1dB = 영상 최저),,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=39s
+47,39.867,41.5,1.633,hard,face_hands,MS,아이레벨 정면,고정,1x,하드컷(의상·배경 전환) + 컷 안 점프 1회,rehook,,"조용(-24.7dB, 온셋 2)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=39s
+48,41.5,45.35,3.85,jump,face_hands,MS,아이레벨 정면,고정,1x,"점프컷, 컷 안 효과 없음(날 것 그대로의 긴 테이크)",payoff,,"칼등 톡톡(42.0~42.4s 0.1초 간격 온셋 5개) → 코팅 깨지는 와작(온셋 10, hf 0.152, 피크 -10.2dB)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=41s
+49,45.35,46.2,0.85,jump,face_hands,MS,아이레벨 정면,고정,1x,점프컷,payoff,,"초코 파편 바삭(hf 0.23, 온셋 4·초당 4.71)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=45s
+50,46.2,47.167,0.967,jump,face_hands,MS,아이레벨 정면,고정,1x,점프컷,tension,,"칼이 코팅·빵을 가르는 소리(온셋 5·초당 5.17, RMS -15.9dB = 후반부 최대)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=46s
+51,47.167,48.967,1.8,jump,face_hands,MS,아이레벨 정면,고정,1x,점프컷,reveal,,"조용(-31.6dB, 온셋 1) — 단면 공개는 소리를 비움",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=47s
+52,48.967,52.717,3.75,jump,face_hands,MCU,아이레벨 정면,고정,1x,"점프컷, 엔딩 자막·CTA 없음",payoff,,"베어 무는 소리·씹는 소리(온셋 11, RMS -19.7dB)",,https://www.youtube.com/watch?v=XpaZMEJ3L6M&t=48s

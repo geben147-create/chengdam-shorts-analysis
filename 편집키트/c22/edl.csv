@@ -1,0 +1,90 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,0.783,0.783,hard,face_hands,MS,정면 아이레벨,고정,1x,"오프닝 하드컷, 무자막. 재료를 렌즈 쪽으로 밀어 넣는 깊이감",hook,,"파인애플을 도마에 내려놓는 둔탁한 쿵(0.07~0.28초 온셋 3개, 피크 -6.4dB = 영상 최대), 밝은 BGM 동시 시작",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=0s
+2,0.783,4.9,4.117,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷 진입, 컷 안 미세 점프 1회 추정(약 1.0s)",setup,,"칼이 과육을 가르는 사각 연타 — 온셋 15개(초당 3.6), 고역비 0.079",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=0s
+3,4.9,5.167,0.267,hard,hands,CU,탑다운,고정,1x,하드컷(정면 → 탑다운 앵글 점프),build,,젖은 도마에 슬라이스 놓는 착(온셋 1),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=4s
+4,5.167,5.467,0.3,jump,hands,CU,탑다운,고정,1x,점프컷,build,,"음악만(온셋 0, rms -21dB)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=5s
+5,5.467,5.8,0.333,jump,hands,MS,탑다운,고정,1x,점프컷,build,,슬라이스 놓는 둔한 톡 1회(온셋 1),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=5s
+6,5.8,6.133,0.333,jump,hands,MS,탑다운,고정,1x,점프컷,build,,"음악만(온셋 1, 고역비 0.016)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=5s
+7,6.133,7.017,0.883,jump,hands,MS,탑다운,고정,1x,점프컷,build,,"커터가 과육을 누르는 츱(온셋 3, 고역비 0.12)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=6s
+8,7.017,7.2,0.183,jump,hands,MS,탑다운,고정,2x,점프컷(0.18초 초단 컷),build,,"과즙이 터지는 쨍한 고역(고역비 0.284, 이 영상 상위 5위권)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=7s
+9,7.2,7.533,0.333,jump,hands,MS,탑다운,고정,1x,점프컷,build,,"과즙 츱 2회(온셋 2, 초당 6.0, 고역비 0.231)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=7s
+10,7.533,8.033,0.5,jump,hands,MS,탑다운,고정,1x,점프컷,build,,"음악만(온셋 0, rms -27dB)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=7s
+11,8.033,8.3,0.267,jump,hands,MS,탑다운,고정,1x,점프컷,build,,"음악만(온셋 0, rms -25.9dB)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=8s
+12,8.3,8.6,0.3,jump,hands,MS,탑다운,고정,1x,점프컷,build,,"음악만(rms -29.5dB, 영상에서 가장 조용한 구간 중 하나)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=8s
+13,8.6,8.833,0.233,jump,hands,MS,탑다운,고정,1x,점프컷(0.23초),build,,음악만(rms -29.1dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=8s
+14,8.833,9.617,0.783,jump,hands,MS,탑다운,편집 줌(펀치인),1x,점프컷 + 끝 크래시 줌인(motion 9.5) — 단계 완성 패턴 1회차,reveal,,"음악만(온셋 1, rms -27.9dB)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=8s
+15,9.617,10.667,1.05,hard,person,MS,아이레벨,고정,1x,"하드컷(같은 주방, 앵글 리셋)",setup,,"양파 써는 서걱 4회(온셋 4, 고역비 0.148)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=9s
+16,10.667,11.267,0.6,jump,person,MS,아이레벨,틸트,1x,점프컷 + 틸트다운,build,,칼이 도마를 긁는 소리 1회(rms -16.4dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=10s
+17,11.267,11.8,0.533,jump,person,CU,아이레벨,고정,1x,점프컷 + 물체를 렌즈로 밀기,build,,음악만(rms -28.7dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=11s
+18,11.8,14.067,2.267,hard,face_hands,MS,정면 아이레벨,고정,1x,"하드컷, 컷 안 점프컷 1회(약 12.6s)",reaction,,"링이 분리되는 뽁 소리(온셋 5, 고역비 0.143)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=11s
+19,14.067,14.25,0.183,hard,hands,MS,탑다운,고정,2x,하드컷(0.18초 초단 컷),build,,링 놓는 톡(온셋 1),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=14s
+20,14.25,14.717,0.467,jump,hands,MS,탑다운,고정,1x,점프컷,build,,링 놓는 톡 2회(온셋 2),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=14s
+21,14.717,14.95,0.233,jump,hands,MS,탑다운,고정,1x,점프컷(0.23초),build,,음악만(온셋 0),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=14s
+22,14.95,15.217,0.267,jump,hands,MS,탑다운,고정,1x,점프컷,build,,링 떼어 내는 소리 1회(온셋 1),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=14s
+23,15.217,15.45,0.233,jump,hands,MS,탑다운,고정,1x,점프컷(0.23초),build,,음악만(온셋 0),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=15s
+24,15.45,15.967,0.517,jump,hands,MS,탑다운,고정,1x,점프컷,build,,낮은 툭 1회(중심 953Hz),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=15s
+25,15.967,16.2,0.233,jump,object,CU,탑다운,크래시 줌,1x,"점프컷 + 크래시 줌(motion 22.3, 영상 최대권) — 단계 완성 패턴 2회차",reveal,,음악만(rms -20.5dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=15s
+26,16.2,18.433,2.233,hard,face_hands,MS,정면 아이레벨,고정,1x,하드컷 + 물체를 렌즈로 밀어 초점 이동,reveal,,"끼우는 소리 3회(온셋 3, 고역비 0.092)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=16s
+27,18.433,18.733,0.3,hard,hands,MS,탑다운,고정,1x,하드컷(얼굴 → 탑다운),build,,음악만(온셋 0),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=18s
+28,18.733,19.067,0.333,jump,hands,MS,탑다운,고정,1x,점프컷,build,,"음악만(온셋 0, 채도 평균 171 = 영상 최고)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=18s
+29,19.067,19.333,0.267,jump,hands,MS,탑다운,고정,1x,점프컷,build,,음악만(온셋 0),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=19s
+30,19.333,19.633,0.3,jump,hands,MS,탑다운,고정,1x,점프컷,build,,음악만(rms -25.8dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=19s
+31,19.633,20.2,0.567,jump,hands,MS,탑다운,고정,2x,점프컷 + 배속 추정,build,,음악만(온셋 0),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=19s
+32,20.2,20.667,0.467,jump,object,CU,탑다운,크래시 줌,1x,점프컷 + 크래시 줌(motion 13.4) — 단계 완성 패턴 3회차,reveal,,음악만(rms -25.6dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=20s
+33,20.667,21.867,1.2,hard,face_hands,MS,정면 아이레벨,고정,1x,하드컷 + 렌즈 가림 전환(고기가 화면을 덮으며 다음 컷),rehook,,"고기 떼는 약한 소리(온셋 1, rms -19.9dB)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=20s
+34,21.867,21.967,0.1,hard,hands,MS,탑다운,고정,1x,"하드컷(0.10초, 영상 최단 컷)",build,,음악만(온셋 0),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=21s
+35,21.967,22.317,0.35,jump,hands,MS,탑다운,고정,1x,점프컷,build,,"음악만(온셋 0, 중심 985Hz 저역)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=21s
+36,22.317,22.617,0.3,jump,hands,MS,탑다운,고정,1x,점프컷(0.30초),build,,음악만(온셋 0),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=22s
+37,22.617,22.883,0.267,jump,hands,MS,탑다운,고정,1x,점프컷(0.27초),build,,음악만(rms -29.4dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=22s
+38,22.883,23.217,0.333,jump,hands,MS,탑다운,고정,1x,점프컷,build,,음악만(rms -27.6dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=22s
+39,23.217,24.283,1.067,jump,hands,MS,탑다운,고정,1x,점프컷,payoff,,음악만(rms -26dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=23s
+40,24.283,24.65,0.367,jump,hands,MS,탑다운,고정,1x,점프컷,build,,음악만(온셋 0),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=24s
+41,24.65,25.05,0.4,jump,hands,MS,탑다운,고정,1x,점프컷,build,,음악만(온셋 0),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=24s
+42,25.05,25.35,0.3,jump,hands,MS,탑다운,고정,1x,점프컷,build,,음악만(온셋 0),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=25s
+43,25.35,25.617,0.267,jump,hands,MS,탑다운,고정,1x,점프컷(0.27초),build,,음악만(온셋 0),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=25s
+44,25.617,25.95,0.333,jump,hands,MS,탑다운,고정,1x,점프컷,build,,음악만(온셋 0),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=25s
+45,25.95,26.817,0.867,jump,hands,MS,탑다운,고정,1x,점프컷 — #39와 같은 동작 반복,payoff,,음악만(rms -26.5dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=25s
+46,26.817,27.25,0.433,jump,hands,MS,탑다운,고정,1x,점프컷,build,,음악만(온셋 0),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=26s
+47,27.25,27.483,0.233,jump,hands,MS,탑다운,고정,1x,점프컷(0.23초),build,,"작은 톡(피크 -9dB, 온셋 0)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=27s
+48,27.483,27.733,0.25,jump,hands,MS,탑다운,고정,1x,점프컷(0.25초),build,,작은 툭(피크 -10.7dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=27s
+49,27.733,27.967,0.233,jump,hands,MS,탑다운,고정,1x,점프컷(0.23초),build,,톡 1회(온셋 1),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=27s
+50,27.967,28.217,0.25,jump,hands,MS,탑다운,고정,1x,점프컷(0.25초),payoff,,톡 1회(온셋 1),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=27s
+51,28.217,28.767,0.55,hard,hands,MS,하이앵글 45°,고정,1x,하드컷(장소 전환: 창가 풍경),build,,"그라인더 드르륵(온셋 2, 고역비 0.105)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=28s
+52,28.767,29.483,0.717,jump,hands,MS,하이앵글 45°,고정,1x,점프컷,build,,"양념병 흔드는 샤샤샥 — 온셋 6개(초당 8.4, 컷 내 영상 최고), 고역비 0.316",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=28s
+53,29.483,29.867,0.383,jump,object,CU,하이앵글 45°,푸시인,1x,점프컷 + 푸시인(motion 8.5) — 단계 완성 패턴 4회차,reveal,,양념 떨어지는 소리 2회(온셋 2),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=29s
+54,29.867,32.2,2.333,hard,face_hands,WS,정면 아이레벨,고정,1x,하드컷 + 컷 안 점프컷 2회,setup,,"빵가루 쏟는 사르르가 영상 최고 고역비 0.368, 계란 깨는 톡(온셋 6)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=29s
+55,32.2,32.817,0.617,hard,hands,MS,탑다운,고정,1x,하드컷(정면 와이드 → 탑다운),build,,"젓가락 탁탁(온셋 4, 초당 6.5, 고역비 0.143)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=32s
+56,32.817,33.65,0.833,jump,hands,MS,탑다운,고정,1x,점프컷,build,,음악만(rms -28.2dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=32s
+57,33.65,33.983,0.333,jump,hands,MS,탑다운,고정,1x,점프컷,build,,음악만(rms -28.7dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=33s
+58,33.983,34.617,0.633,jump,hands,CU,탑다운,고정,1x,점프컷 + 물체를 렌즈로 들기,build,,음악만(rms -28.8dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=33s
+59,34.617,34.783,0.167,jump,hands,MS,탑다운,고정,2x,점프컷(0.17초),build,,톡 1회(피크 -11.3dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=34s
+60,34.783,34.983,0.2,hard,hands,CU,탑다운,고정,1x,하드컷(사이즈 점프: MS → CU),build,,"음악만(온셋 0, rms -17.7dB)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=34s
+61,34.983,35.383,0.4,jump,hands,CU,탑다운,고정,1x,점프컷,build,,음악만(rms -28.2dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=34s
+62,35.383,35.783,0.4,jump,hands,CU,탑다운,고정,1x,점프컷 + 물체를 렌즈로 들기,payoff,,"음악만(rms -34.3dB, 영상 최저 음량 컷)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=35s
+63,35.783,36.1,0.317,hard,hands,MS,탑다운,고정,1x,하드컷(프레이밍 확장),build,,음악만(rms -31.2dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=35s
+64,36.1,36.733,0.633,jump,hands,MS,탑다운,고정,1x,점프컷,build,,음악만(rms -29.2dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=36s
+65,36.733,37.05,0.317,jump,hands,MS,탑다운,고정,1x,점프컷,build,,톡 1회(피크 -11.7dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=36s
+66,37.05,37.55,0.5,jump,hands,MS,탑다운,고정,1x,점프컷,build,,음악만(rms -28dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=37s
+67,37.55,37.883,0.333,jump,hands,CU,탑다운,고정,1x,점프컷 + 물체를 렌즈로 들기(#62 반복),payoff,,음악만(rms -25.5dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=37s
+68,37.883,38.65,0.767,hard,person,CU,아이레벨,고정,1x,하드컷(탑다운 → 테이블 높이),payoff,,톡 1회(온셋 1),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=37s
+69,38.65,39.75,1.1,hard,hands,MS,하이앵글 45°,고정,1x,하드컷(장소 전환: 창가 버너),tension,,"기름 지글 시작(rms -18.5dB, 고역비 0.066)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=38s
+70,39.75,40.467,0.717,hard,object,CU,아이레벨,고정,1x,하드컷(사이즈 점프 CU),tension,,"튀김 지글(온셋 1, 고역비 0.072)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=39s
+71,40.467,41.383,0.917,hard,hands,CU,아이레벨,핸드헬드,1x,하드컷,reveal,,"기름 떨어지는 쏴(온셋 2, 고역비 0.136)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=40s
+72,41.383,41.833,0.45,jump,object,ECU,아이레벨,편집 줌(펀치인),1x,점프컷 + 펀치인(motion 15.3),payoff,,"음악만(온셋 0, rms -16.2dB)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=41s
+73,41.833,42.533,0.7,hard,object,CU,하이앵글 45°,핸드헬드,1x,하드컷,payoff,,"기름 떨어지는 소리(온셋 1, 고역비 0.149)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=41s
+74,42.533,43.55,1.017,jump,object,MS,하이앵글 45°,고정,1x,점프컷 + 컷 안 점프 1회,build,,"음악만(온셋 0, 고역비 0.147)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=42s
+75,43.55,43.867,0.317,hard,hands,MS,탑다운,고정,1x,하드컷(하이앵글 → 탑다운),build,,집게 딸깍(온셋 1),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=43s
+76,43.867,44.15,0.283,jump,hands,MS,탑다운,고정,1x,점프컷,build,,톡 1회(온셋 1),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=43s
+77,44.15,44.45,0.3,jump,hands,MS,탑다운,고정,1x,점프컷,build,,"바삭한 톡(온셋 1, 고역비 0.189)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=44s
+78,44.45,44.767,0.317,jump,object,CU,탑다운,크래시 줌,1x,"점프컷 + 크래시 줌(motion 22.6, 영상 최대) — 단계 완성 패턴 5회차",reveal,,"음악만(rms -21.6dB, 고역비 0.14)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=44s
+79,44.767,45.717,0.95,hard,face_hands,MS,정면 아이레벨,고정,1x,하드컷(탑다운 → 얼굴 정면),reaction,,"집게로 도넛 두드리는 바삭(온셋 5, 초당 5.3, 고역비 0.215)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=44s
+80,45.717,47.65,1.933,hard,person,MS,정면 아이레벨,고정,1x,하드컷 + 컷 안 점프컷 약 4회,payoff,,"도넛을 얹을 때 바삭·툭 — 온셋 11개(초당 5.7), 고역비 0.303",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=45s
+81,47.65,49.533,1.883,hard,hands,MS,아이레벨,고정,1x,하드컷(장소 전환: 창가),payoff,,"음악만(온셋 1, rms -25dB)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=47s
+82,49.533,49.967,0.433,jump,hands,MS,아이레벨,고정,1x,점프컷,payoff,,음악만(rms -24.4dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=49s
+83,49.967,50.467,0.5,jump,hands,MS,아이레벨,고정,1x,점프컷,payoff,,음악만(rms -24.7dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=49s
+84,50.467,51.6,1.133,jump,object,CU,아이레벨,고정,1x,점프컷 + 컷 안 점프 1회,payoff,,음악만(rms -27dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=50s
+85,51.6,52.25,0.65,jump,object,CU,아이레벨,고정,1x,점프컷,payoff,,음악만(rms -25.3dB),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=51s
+86,52.25,54.017,1.767,hard,face_hands,MS,정면 아이레벨,고정,1x,하드컷(창가 → 얼굴 정면 세트),reveal,,집게 딸깍·흔드는 소리(온셋 4),,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=52s
+87,54.017,57.333,3.317,jump,face_hands,MS,정면 아이레벨,고정,1x,점프컷,payoff,,"베어 무는 와삭 크런치 — 온셋 16개(초당 4.8), 고역비 0.235, rms -15.2dB(후반 최대)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=54s
+88,57.333,58.65,1.317,hard,mixed,ECU,정면 아이레벨,고정,1x,하드컷 + 전경 물체 초점(얼굴 아웃포커스),reveal,,"씹는 소리(온셋 7, 초당 5.3, 고역비 0.134)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=57s
+89,58.65,59.433,0.783,hard,face_hands,MS,정면 아이레벨,고정,1x,"하드컷, 루프 연결(첫 프레임과 같은 세트·옷·구도)",loop,,"씹는 소리 + BGM(온셋 4, rms -14.9dB)",,https://www.youtube.com/watch?v=bBzYW7Sf1Mc&t=58s

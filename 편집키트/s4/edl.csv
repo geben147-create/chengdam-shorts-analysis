@@ -1,0 +1,26 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,0.033,0.033,false,object,WS,로우앵글(매장 간판),편집 줌(펀치인),1x,줌블러 인트로 프레임,hook,세일 역접,보이스 첫 음절 시작,줌 전환 휙 추정,https://www.youtube.com/watch?v=2zyipzwtcMs&t=0s
+2,0.033,1.335,1.301,hard,object,WS,로우앵글 → 아이레벨,풀아웃+핸드헬드+회전,1x,키프레임 줌아웃+약한 회전,hook,세일이어도…,보이스만(현장 거리음 없음),,https://www.youtube.com/watch?v=2zyipzwtcMs&t=0s
+3,1.335,3.136,1.802,hard,object,MS,아이레벨,고정,1x,하드컷 + 가우시안 블러 전면,hook,장벽크림 / 10개+ 경험,보이스만,,https://www.youtube.com/watch?v=2zyipzwtcMs&t=1s
+4,3.136,5.305,2.169,hard,text,insert,정면(그래픽),고정,1x,하드컷 + 카드 스택 팝업 + 상품명 블러 마스크,setup,실제 정착 / 알려드림,보이스만,카드 팝 틱 추정,https://www.youtube.com/watch?v=2zyipzwtcMs&t=3s
+5,5.305,7.941,2.636,hard,hands,CU,아이레벨 측면(테이블 높이),고정,1x,하드컷,setup,다른 영상 경고,현장음 없음 — 시각적 광택만,,https://www.youtube.com/watch?v=2zyipzwtcMs&t=5s
+6,7.941,12.713,4.771,hard,hands,CU,아이레벨 측면(테이블 높이),고정 + 편집 줌(펀치인),1x,하드컷 + 11.34s 펀치인,reveal,보세요 / 안 꾸덕,현장음 없음 — 얇은 광택막이 촉감 대체,,https://www.youtube.com/watch?v=2zyipzwtcMs&t=7s
+7,12.713,14.681,1.969,hard,face_hands,CU,셀카 로우앵글,핸드헬드,1x,하드컷,tension,수분 날아가? 질문,현장음 없음,,https://www.youtube.com/watch?v=2zyipzwtcMs&t=12s
+8,14.681,16.416,1.735,hard,face,ECU,셀카 정면,고정,1x,하드컷(크기 급변),payoff,그럼 장벽크림 아님,현장음 없음,,https://www.youtube.com/watch?v=2zyipzwtcMs&t=14s
+9,16.416,17.885,1.468,hard,face_hands,CU,셀카 정면,고정,1x,하드컷,build,피부 장벽 구조,현장음 없음 — 흰 점이 시각 포인트,,https://www.youtube.com/watch?v=2zyipzwtcMs&t=16s
+10,17.885,20.087,2.202,jump,face_hands,CU,셀카 정면,고정,1x,점프컷,build,유사 성분 / 제대로,현장음 없음,,https://www.youtube.com/watch?v=2zyipzwtcMs&t=17s
+11,20.087,24.424,4.338,hard,face_hands,MCU,셀카 정면(3/4 측면),고정,1x,하드컷 + 컷 안 점프컷 1회(22.06s),build,까다로운 성분 1.5%,현장음 없음,,https://www.youtube.com/watch?v=2zyipzwtcMs&t=20s
+12,24.424,26.593,2.169,hard,face_hands,CU,셀카 정면,고정,1x,하드컷,payoff,기름기 없이,현장음 없음 — 손바닥 패팅 동작만,,https://www.youtube.com/watch?v=2zyipzwtcMs&t=24s
+13,26.593,29.296,2.703,jump,face,ECU,셀카 정면 → 측면,핸드헬드 푸시인,1x,점프컷 + 고개 회전,payoff,싹 흡수 / 만족,현장음 없음 — 반사광이 흡수감 대체,,https://www.youtube.com/watch?v=2zyipzwtcMs&t=26s
+14,29.296,32.165,2.87,hard,object,MS,아이레벨,고정(미세 푸시인 추정),1x,하드컷 + 텍스트 블러-인,reveal,브랜드+제품명 카드,보이스가 제품명 낭독,,https://www.youtube.com/watch?v=2zyipzwtcMs&t=29s
+15,32.165,33.634,1.468,hard,face_hands,MCU,셀카 정면,고정,1x,하드컷,build,가장 중요한 것,현장음 없음,,https://www.youtube.com/watch?v=2zyipzwtcMs&t=32s
+16,33.634,35.936,2.302,jump,face_hands,MCU,셀카 정면,고정,스피드 램프,점프컷 + 가속 추정(1.3~1.5x),payoff,성분+사용감 다 잡음,현장음 없음,,https://www.youtube.com/watch?v=2zyipzwtcMs&t=33s
+17,35.936,38.405,2.469,hard,hands,insert,정면(그래픽 PIP),고정,1x,하드컷 + PIP + 워터마크 배경,rehook,작년부터 추천,현장음 없음 — 과거 영상 소리 제거,,https://www.youtube.com/watch?v=2zyipzwtcMs&t=35s
+18,38.405,40.207,1.802,hard,mixed,insert,정면(그래픽 PIP),고정,1x,하드컷 + 16:9 PIP + 라벨 스티커,rehook,다른 채널에서도,현장음 없음,,https://www.youtube.com/watch?v=2zyipzwtcMs&t=38s
+19,40.207,41.775,1.568,hard,hands,MS,아이레벨,고정,1x,하드컷 + 인카메라 손 스와이프 진입,tension,브랜드가 광고 줌,현장음 없음,,https://www.youtube.com/watch?v=2zyipzwtcMs&t=40s
+20,41.775,44.645,2.87,jump,hands,MS,아이레벨,고정,1x,점프컷(펀치인),payoff,광고 아니어도 추천,현장음 없음,,https://www.youtube.com/watch?v=2zyipzwtcMs&t=41s
+21,44.645,51.618,6.974,hard,hands,CU,하이앵글 45°,고정,1x,하드컷 + 컷 안 점프컷 2회,setup,건성·속건조·계절,현장음 없음 — 짜기·펴기 모두 시각만,,https://www.youtube.com/watch?v=2zyipzwtcMs&t=44s
+22,51.618,53.186,1.568,hard,text,insert,정면(그래픽),고정,1x,하드컷 + 카드 스택 팝업 + 블러 해제 + 노란 하이라이트,cta,이번 세일 때,보이스만,카드 팝 틱 추정,https://www.youtube.com/watch?v=2zyipzwtcMs&t=51s
+23,53.186,54.555,1.368,hard,hands,CU,하이앵글 45°,고정,1x,하드컷 + 인카메라 모션블러 진입,cta,제발 / 헛돈 금지,툭 내려놓는 소리 여부 확인 불가(보이스에 묻힘),툭 추정,https://www.youtube.com/watch?v=2zyipzwtcMs&t=53s
+24,54.555,57.324,2.769,jump,hands,ECU,아이레벨 → 로우앵글,고정,1x,점프컷 + 렌즈로 밀기 모션블러,cta,꼭 사두기 / 속건조 해결,현장음 없음,,https://www.youtube.com/watch?v=2zyipzwtcMs&t=54s
+25,57.324,57.357,0.033,flash,hands,CU,측면(손등 텍스처),고정,프리즈,썸네일 1프레임 삽입,loop,세일? 정착 크림,무음(끝 잔향),,https://www.youtube.com/watch?v=2zyipzwtcMs&t=57s

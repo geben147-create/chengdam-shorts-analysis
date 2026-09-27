@@ -1,0 +1,70 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,1.633,1.633,hard,face_hands,MS,아이레벨 정면,고정,1x,인트로 없이 붓는 동작 중간에서 시작(콜드 오픈),hook,,"액체가 잔 바닥에 떨어지는 콸콸·찰랑 소리를 크게(0~1초 고역비 0.32~0.37, 컷 고역비 0.35), BGM은 아래에 깔림",,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=0s
+2,1.633,2.4,0.767,jump,face_hands,MS,아이레벨 정면,고정(피사체가 렌즈로 접근),1x,잔 입구가 렌즈를 덮는 오브젝트 와이프로 다음 컷(냉동실)과 연결,hook,,"음악 위주, 유리 스치는 소리 약함(고역비 0.04)",,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=1s
+3,2.4,3.2,0.8,hard,hands,CU,POV,핸드헬드,1x,앞 컷의 렌즈 가림에서 이어지는 와이프 매칭 전환,setup,,"유리잔이 선반에 닿는 둔탁한 쿵(컷 rms -11.1dB, 2.5초 구간 저역 큼)",,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=2s
+4,3.2,3.517,0.317,hard,object,MS,POV 아이레벨,핸드헬드,1x,문이 화면을 가로지르며 닫히는 자연 와이프,setup,,"문 움직이는 소리, 음악",,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=3s
+5,3.517,3.7,0.183,false,object,MS,아이레벨,핸드헬드,1x,흰 문면이 화이트 플래시처럼 작동하는 전환,setup,,문 닫힘 '탁' 온셋 2개(초당 10.9),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=3s
+6,3.7,4.55,0.85,hard,face_hands,MS,아이레벨 정면,고정,1x,"하드컷, 같은 스튜디오로 복귀",setup,,과자 쏟아지는 바스락(고역비 0.23),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=3s
+7,4.55,5.983,1.433,jump,face_hands,MS,아이레벨 정면,고정,1x,점프컷,build,,"꼬치가 퍼프 과자를 뚫는 사각·뽀드득 고역음(5~7초 고역비 0.66~0.82, 영상 최고 수준)",,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=4s
+8,5.983,7.3,1.317,jump,face_hands,MS,아이레벨 정면,고정(피사체가 렌즈로 접근),1x,막대 끝으로 렌즈를 가리는 오브젝트 와이프,build,,과자끼리 비비는 사각 소리 지속(컷 고역비 0.35),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=5s
+9,7.3,8.0,0.7,hard,hands,MS,하이앵글 45°,고정,1x,"하드컷, 정면에서 하이앵글로 전환",build,,사각거리는 과자 마찰 고역(7.5초 고역비 0.80),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=7s
+10,8.0,9.217,1.217,jump,hands,MS,하이앵글 45°,고정,1x,점프컷,build,,사각음 이후 잔잔한 음악(8.5초 고역비 0.61),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=8s
+11,9.217,9.683,0.467,jump,hands,MCU,하이앵글 45°,푸시인(핸드헬드),1x,손으로 하는 푸시인이 다음 탑다운 컷으로 이어지는 흐름,build,,음악 위주(고역비 0.09),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=9s
+12,9.683,10.1,0.417,hard,hands,CU,탑다운,고정,1x,볼이 렌즈를 덮었다 빠지는 리빌 전환,build,,음악만(rms -25.9dB),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=9s
+13,10.1,10.533,0.433,jump,hands,MS,탑다운,고정,1x,점프컷,build,,"음악만, 영상에서 가장 조용한 편(rms -31dB)",,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=10s
+14,10.533,11.367,0.833,jump,hands,MS,탑다운,고정,1x,색이 바뀌는 과정 자체가 시각 효과(흰색→연두),build,,스푼이 볼을 긁는 소리 약간(10.5초 고역비 0.40),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=10s
+15,11.367,12.133,0.767,jump,hands,MS,탑다운,고정,1x,점프컷,build,,음악만(rms -28dB),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=11s
+16,12.133,12.45,0.317,jump,hands,CU,탑다운,고정(피사체가 렌즈로 접근),1x,"점프컷, 피사체 줌 효과",build,,음악만,,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=12s
+17,12.45,12.85,0.4,jump,hands,MS,탑다운,고정,1x,점프컷,build,,음악만,,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=12s
+18,12.85,13.1,0.25,jump,hands,MS,탑다운,고정,1x,"점프컷, 비포/애프터 대비 구도",build,,음악만(rms -32.6dB),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=12s
+19,13.1,14.967,1.867,jump,hands,MS,탑다운,고정,1x,점프컷(1.87초로 이 구간 최장),build,,음악 + 스푼 소리 약간(14.5초 고역비 0.14),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=13s
+20,14.967,15.183,0.217,jump,hands,MS,탑다운,고정,1x,"점프컷, 완성 정지 컷",build,,음악만,,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=14s
+21,15.183,15.467,0.283,jump,hands,MS,탑다운,고정,1x,볼로 렌즈를 스치며 빠지는 와이프,build,,음악만,,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=15s
+22,15.467,15.8,0.333,jump,object,CU,탑다운,크래시 줌,1x,빠른 다이브 줌으로 어두운 면에 암전처럼 넘기는 전환,build,,음악만(rms -29.7dB),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=15s
+23,15.8,16.117,0.317,hard,hands,MS,POV 하이앵글,핸드헬드,1x,"하드컷, 공간 전환(핑크 냉장고)",setup,,트레이 미끄러지는 소리(rms -13.1dB),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=15s
+24,16.117,16.45,0.333,jump,hands,MS,POV 하이앵글,핸드헬드,1x,점프컷,setup,,"트레이가 벽에 닿는 쿵(컷 rms -10.0dB, 16초 부근 큰 저역)",,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=16s
+25,16.45,16.55,0.1,hard,object,WS,아이레벨,핸드헬드,1x,0.1초 초단컷으로 문 닫기 연타 시작,setup,,"문 움직임 소리, 음악",,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=16s
+26,16.55,16.667,0.117,false,hands,MS,아이레벨,핸드헬드(따라가기),1x,"연속 동작(검출기 오분할), 문 닫힘 와이프",setup,,문 닫힘 '탁' 온셋 1개(초당 8.6),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=16s
+27,16.667,16.967,0.3,hard,hands,CU,탑다운,고정,1x,"하드컷, 채도 급상승(채도 138, 앞 컷 68)",build,,칼질 직전 음악만(rms -19dB),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=16s
+28,16.967,17.1,0.133,jump,hands,CU,탑다운,고정,1x,점프컷(칼 소리에 맞춘 컷),build,,"칼이 도마에 닿는 '톡' 1회, 컷이 소리와 0.08초 이내로 맞음",,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=16s
+29,17.1,17.25,0.15,jump,hands,CU,탑다운,고정,1x,점프컷,build,,음악 + 칼 소리 여운,,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=17s
+30,17.25,17.767,0.517,jump,hands,CU,탑다운,고정,1x,점프컷,build,,칼질 톡톡 3회(초당 5.8),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=17s
+31,17.767,18.033,0.267,jump,hands,CU,탑다운,고정,1x,점프컷,build,,칼날이 도마를 스치는 스윽(고역비 0.17),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=17s
+32,18.033,18.6,0.567,jump,hands,CU,탑다운,고정,1x,점프컷,build,,칼질 톡톡 3회(초당 5.3),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=18s
+33,18.6,18.883,0.283,jump,hands,CU,탑다운,고정,1x,점프컷,build,,칼질 톡 1회,,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=18s
+34,18.883,19.133,0.25,jump,hands,CU,탑다운,고정,1x,점프컷,build,,칼날 스치는 소리 약함(고역비 0.06),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=18s
+35,19.133,20.033,0.9,jump,hands,CU,탑다운,고정,1x,점프컷,build,,칼질 톡톡 4회(초당 4.4),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=19s
+36,20.033,20.35,0.317,hard,hands,CU,탑다운,고정,1x,하드컷(구도 확대),build,,음악만(rms -28.6dB),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=20s
+37,20.35,20.6,0.25,jump,object,CU,탑다운,고정,1x,점프컷,build,,블루베리 구르는 톡톡 1회,,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=20s
+38,20.6,20.883,0.283,jump,object,CU,탑다운,고정,1x,점프컷,build,,음악만,,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=20s
+39,20.883,21.183,0.3,jump,object,ECU,탑다운 → 매크로,크래시 줌,1x,크래시 줌 + 모션 블러 전환,reveal,,음악만,,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=20s
+40,21.183,23.133,1.95,hard,hands,MS,탑다운,고정,타임랩스,"타임랩스 압축(수십 초 작업을 1.95초로), 위아래 분할 구도",build,,음악만(고역비 0.02),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=21s
+41,23.133,23.4,0.267,jump,hands,MS,탑다운,고정,1x,점프컷,build,,음악만,,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=23s
+42,23.4,23.85,0.45,jump,hands,MS,탑다운,고정,1x,점프컷,build,,물 붓는 졸졸(23.5초 고역비 0.12),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=23s
+43,23.85,24.267,0.417,jump,hands,MS,탑다운,고정,1x,점프컷,build,,음악 + 약한 물소리,,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=23s
+44,24.267,24.683,0.417,jump,hands,CU,탑다운,고정(피사체가 렌즈로 접근),1x,틀로 렌즈를 덮는 오브젝트 와이프,build,,음악만,,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=24s
+45,24.683,25.317,0.633,hard,hands,MS,POV 하이앵글,핸드헬드,1x,하드컷,setup,,"판이 냉동칸에 닿는 쿵(컷 rms -10.8dB, 24.5~25.5초 큰 저역)",,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=24s
+46,25.317,25.433,0.117,hard,object,WS,아이레벨,핸드헬드,1x,초단컷 문 닫기(1회차와 같은 패턴 반복),setup,,문 움직임 소리,,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=25s
+47,25.433,25.683,0.25,false,object,MS,아이레벨,핸드헬드(따라가기),1x,"연속 동작(검출기 오분할), 문 닫힘 와이프",setup,,문 닫힘 '탁' 온셋 1개,,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=25s
+48,25.683,28.233,2.55,hard,face_hands,MS,아이레벨 정면,고정,1x,"하드컷, 스튜디오 복귀",reveal,,음악 + 꼬치 빼는 소리 약간(고역비 0.08),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=25s
+49,28.233,28.8,0.567,jump,face_hands,MS,아이레벨 정면,고정,1x,점프컷,build,,음악만(rms -19.3dB),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=28s
+50,28.8,29.583,0.783,jump,face_hands,MS,아이레벨 정면,고정,1x,점프컷,payoff,,과자 마찰 고역 한 번(29초 고역비 0.26),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=28s
+51,29.583,30.133,0.55,jump,face_hands,MS,아이레벨 정면,고정,1x,점프컷,reaction,,음악만,,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=29s
+52,30.133,31.45,1.317,hard,face_hands,MCU,아이레벨 정면,고정,1x,하드컷,reveal,,"얼음 막대가 접시에 떨어지는 딸깍·탁(30.5초 고역비 0.38, 온셋 5개)",,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=30s
+53,31.45,33.283,1.833,jump,hands,CU,하이앵글 45°,고정,1x,점프컷,payoff,,얼음 부딪히는 딸깍 7회(초당 3.8),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=31s
+54,33.283,33.55,0.267,jump,hands,ECU,하이앵글 45°,푸시인,1x,점프컷 + 푸시인(움직임 15.2),payoff,,얼음 딸깍 1회,,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=33s
+55,33.55,34.267,0.717,hard,hands,MS,하이앵글 45°,고정,1x,"하드컷, 접시 색을 파랑→빨강으로 바꿔 대비",payoff,,"구슬 얼음 우수수 쨍그랑 — 영상 최대 피크(-5.7dB), 컷 고역비 0.58, rms -10.4dB",,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=33s
+56,34.267,35.433,1.167,jump,hands,CU,하이앵글 45°,푸시인,1x,점프컷 + 푸시인,payoff,,얼음 달그락 2회,,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=34s
+57,35.433,36.233,0.8,hard,face_hands,MS,아이레벨 정면,고정,1x,하드컷,reveal,,"음악 위주(rms -31.5dB), 잔 들어 올리는 소리 1회",,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=35s
+58,36.233,37.25,1.017,jump,face_hands,MS,아이레벨 정면,고정,1x,점프컷,build,,얼음이 유리잔에 쏟아지는 쨍(36.5초 고역비 0.77),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=36s
+59,37.25,38.75,1.5,hard,hands,MS,아이레벨(잔 높이),고정,2x,하드컷 + 로케이션 전환(창가 세트),build,,얼음 막대 부딪히는 딸깍 4회(초당 2.7),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=37s
+60,38.75,41.0,2.25,jump,hands,MS,아이레벨(잔 높이),고정,2x,"점프컷, 배속 추정",build,,얼음 막대 딸깍 7회(초당 3.1),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=38s
+61,41.0,44.85,3.85,jump,hands,MS,아이레벨(잔 높이),고정,1x,3.85초 롱테이크(영상 두 번째로 긴 컷),payoff,,탄산 쏴아·기포 치익 — 41~44초 고역비 0.17~0.21 연속 노이즈 띠(스펙트로그램 고역 밝은 띠),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=41s
+62,44.85,46.517,1.667,jump,hands,MS,아이레벨(잔 높이),고정,1x,점프컷,payoff,,음악 + 얼음 딸깍 2회,,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=44s
+63,46.517,48.25,1.733,jump,hands,MS,로우앵글,고정(잔 회전),1x,"점프컷, 턴테이블 회전 추정",payoff,,음악 + 얼음 딸깍 2회,,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=46s
+64,48.25,49.617,1.367,hard,hands,CU,하이앵글 45°,핸드헬드,1x,하드컷,payoff,,얼음 달그락 3회(초당 2.2),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=48s
+65,49.617,50.033,0.417,jump,hands,CU,하이앵글 45°,핸드헬드,1x,점프컷,payoff,,음악 + 얼음 소리 여운(고역비 0.17),,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=49s
+66,50.033,52.133,2.1,hard,object,MS,로우앵글,고정(잔 회전),1x,"하드컷, 회전 히어로샷",payoff,,"영상 최저 음량 구간(rms -30.5dB, 50.5~51.5초) — 음악 바닥만 남는 숨 고르기",,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=50s
+67,52.133,53.383,1.25,hard,hands,MS,아이레벨(잔 높이),고정,1x,하드컷,rehook,,음악 + 얼음 딸깍 1회,,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=52s
+68,53.383,54.883,1.5,hard,face_hands,MS,아이레벨 정면,고정,1x,"하드컷, 스튜디오 복귀",payoff,,"과자 빨대 씹는 바삭 연타 — 1.5초에 온셋 10개(초당 6.7, 영상 최고 밀도)",,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=53s
+69,54.883,58.967,4.083,jump,face_hands,MS,아이레벨 정면,고정,1x,"점프컷, 엄지척에서 바로 끝(아웃트로 없음)",loop,,"빨대 호로록·얼음(55초 고역비 0.30, 57초 rms -11.7dB), 음악 마무리",,https://www.youtube.com/watch?v=11ORkGfOk6Q&t=54s

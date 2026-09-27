@@ -1,0 +1,49 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,2.2,2.2,hard,face_hands,MCU,정면 아이레벨,고정 + 편집 줌(약 1.2→1.4s 줌아웃),1x,첫 프레임 무자막 → 1.4s 편집 줌아웃 + 빨간 네온 자막 타자 등장 + X 아이콘,hook,과냉동 실패 X(빨간 네온),"볼 속 얼음 달그락 + 1.25~1.6s 고음 비명(-6.2dB, 영상 최대 음량)","실패 버저(79Hz 계열 저음, 약 1.7s)",https://www.youtube.com/watch?v=DUvdR4bvAds&t=0s
+2,2.2,4.417,2.217,jump,face_hands,MCU,정면 아이레벨,고정(타이트 크롭),1x,"점프컷(와이드→타이트), 빨간 네온 자막 타자 등장",hook,덜 녹음 X,얼음 부딪힘 + 3.25s 두 번째 비명(-8.3dB),실패 버저(약 3.6s),https://www.youtube.com/watch?v=DUvdR4bvAds&t=2s
+3,4.417,5.7,1.283,jump,face_hands,MS,정면 아이레벨,고정(와이드 크롭),1x,점프컷(타이트→와이드 크롭 교차),setup,,"얼음 뒤집어 받는 달그락(초당 온셋 6.24, 영상 최고)",,https://www.youtube.com/watch?v=DUvdR4bvAds&t=4s
+4,5.7,6.65,0.95,jump,face_hands,MCU,정면 아이레벨,고정,1x,점프컷,build,,"얼음 톡 소리 약하게, 음악 위주(온셋 1개)",,https://www.youtube.com/watch?v=DUvdR4bvAds&t=5s
+5,6.65,8.05,1.4,jump,face_hands,MCU,정면 아이레벨,고정,1x,점프컷,reaction,,얼음 달그락 + 5.25s 짧은 탄성,"저음 버저형 소리 추정(7.5~8.7s, 화면 X 없음)",https://www.youtube.com/watch?v=DUvdR4bvAds&t=6s
+6,8.05,11.967,3.917,hard,hands,MS,하이앵글 45°,고정,1x,"하드컷(스튜디오→조리대 장소 전환), 끝부분 빨간 네온 자막",tension,안 붙음 X,얼음이 접시에 쏟아지는 달그락(온셋 12개) + 9.25s 비명(-6.1dB),실패 버저(약 11.4s),https://www.youtube.com/watch?v=DUvdR4bvAds&t=8s
+7,11.967,13.033,1.067,hard,hands,CU,하이앵글 45°,"고정(컷 안 점프 1회 추정, 약 12.2s)",1x,"하드컷, 앞 자막이 약 0.3초 이어지며 연결",build,앞 컷 X 자막 잔류,샤워기 물줄기 쏴아 — 고역비 0.641로 영상에서 가장 쨍함,,https://www.youtube.com/watch?v=DUvdR4bvAds&t=11s
+8,13.033,14.367,1.333,hard,hands,CU,하이앵글 45°,핸드헬드 약간,1x,"하드컷, 초록 네온 자막 타자 등장",reveal,녹여 크기 맞춤 O(초록 네온),물속 얼음 굴리는 찰랑·달그락(고역비 0.386),,https://www.youtube.com/watch?v=DUvdR4bvAds&t=13s
+9,14.367,15.433,1.067,hard,hands,CU,하이앵글 45°,고정,1x,하드컷,build,O 자막 유지,물 쏟아지는 소리 + 얼음이 망에 떨어지는 소리,,https://www.youtube.com/watch?v=DUvdR4bvAds&t=14s
+10,15.433,15.567,0.133,hard,object,CU,탑다운,핸드헬드(거름망 흔들기),2x,"하드컷, 모션블러",build,O 자막 유지,거름망 속 얼음 흔드는 사락사락 노이즈,,https://www.youtube.com/watch?v=DUvdR4bvAds&t=15s
+11,15.567,16.033,0.467,false,object,CU,탑다운,핸드헬드,2x,하드컷 아님(연속 장면),broll,O 자막 유지,얼음 흔드는 노이즈 연속,,https://www.youtube.com/watch?v=DUvdR4bvAds&t=15s
+12,16.033,16.217,0.183,false,object,CU,탑다운,핸드헬드,2x,하드컷 아님(연속 장면),broll,O 자막 유지,얼음 흔드는 노이즈 연속,,https://www.youtube.com/watch?v=DUvdR4bvAds&t=16s
+13,16.217,16.367,0.15,false,object,CU,탑다운,핸드헬드,2x,하드컷 아님(연속 장면),broll,O 자막 유지,"뭉개진 연속 흔들림 소리(온셋 0, 고역비 0.50)",,https://www.youtube.com/watch?v=DUvdR4bvAds&t=16s
+14,16.367,16.533,0.167,false,object,CU,탑다운,핸드헬드,2x,하드컷 아님(연속 장면),broll,O 자막 유지,연속 흔들림 소리(고역비 0.569),,https://www.youtube.com/watch?v=DUvdR4bvAds&t=16s
+15,16.533,16.783,0.25,false,object,CU,탑다운,핸드헬드,2x,하드컷 아님(연속 장면),broll,O 자막 유지,연속 흔들림 소리,,https://www.youtube.com/watch?v=DUvdR4bvAds&t=16s
+16,16.783,16.95,0.167,false,object,CU,탑다운,핸드헬드,2x,"하드컷 아님(연속 장면), 자막 퇴장",broll,,연속 흔들림 소리,,https://www.youtube.com/watch?v=DUvdR4bvAds&t=16s
+17,16.95,17.2,0.25,false,object,CU,탑다운,핸드헬드,2x,하드컷 아님(연속 장면),broll,,연속 흔들림 소리가 끝남,,https://www.youtube.com/watch?v=DUvdR4bvAds&t=16s
+18,17.2,20.383,3.183,hard,object,CU,탑다운,고정,2x,하드컷,build,,"집게-얼음 딸깍(온셋 11개, 3.46/s)",,https://www.youtube.com/watch?v=DUvdR4bvAds&t=17s
+19,20.383,22.083,1.7,hard,object,CU,탑다운,고정(더 가까운 사이즈),2x,"하드컷(사이즈 업), 빨간 네온 자막을 화면 하단에 배치",tension,기울면 미끄러짐 X(하단),집게 딸깍(온셋 6개),,https://www.youtube.com/watch?v=DUvdR4bvAds&t=20s
+20,22.083,22.717,0.633,jump,hands,CU,탑다운,고정,1x,"점프컷, 손가락 포인팅",tension,미끄러짐 X 유지,"음악 위주, 얼음 소리 거의 없음",실패 버저(약 22.3s),https://www.youtube.com/watch?v=DUvdR4bvAds&t=22s
+21,22.717,24.85,2.133,jump,hands,CU,탑다운,고정,1x,"점프컷, X 자막 → O 자막 교체(하단→상단, 타자 등장)",payoff,작은 컵 눌러 고정 O,컵-얼음 딸깍(온셋 8개),,https://www.youtube.com/watch?v=DUvdR4bvAds&t=22s
+22,24.85,25.017,0.167,hard,hands,CU,탑다운,고정(한 단계 와이드),1x,하드컷,payoff,작은 컵 고정 O 유지,정답 차임이 깔리며 현장음은 작음,"정답 차임(약 24.8s, 740~1661Hz 화음)",https://www.youtube.com/watch?v=DUvdR4bvAds&t=24s
+23,25.017,25.583,0.567,false,hands,CU,탑다운,고정,1x,"하드컷 아님(연속 장면), OK 제스처",reaction,O 자막 유지,차임 이어짐,정답 차임 이어짐,https://www.youtube.com/watch?v=DUvdR4bvAds&t=25s
+24,25.583,26.95,1.367,hard,object,CU,아이레벨(테이블 높이 측면),고정,1x,하드컷(장소 전환: 창가 산뷰),setup,,젓가락-얼음 톡(온셋 1),,https://www.youtube.com/watch?v=DUvdR4bvAds&t=25s
+25,26.95,27.483,0.533,jump,hands,CU,아이레벨(테이블 높이 측면),고정,1x,점프컷,build,,"음악 위주(온셋 0), 저음 BGM",,https://www.youtube.com/watch?v=DUvdR4bvAds&t=26s
+26,27.483,30.367,2.883,jump,hands,CU,아이레벨 → 하이앵글 45°,고정(볼만 기울임),1x,"점프컷, 끝부분 빨간 네온 자막 타자 등장",tension,상온 부착 불가 X,얼음 와르르(29.26s 온셋) + 29.5s 비명(약 884Hz),,https://www.youtube.com/watch?v=DUvdR4bvAds&t=27s
+27,30.367,31.333,0.967,jump,hands,CU,아이레벨(테이블 높이),고정,1x,"점프컷, 손가락 포인팅",tension,상온 부착 불가 X 유지,음악 위주,실패 버저(약 30.8s),https://www.youtube.com/watch?v=DUvdR4bvAds&t=30s
+28,31.333,32.167,0.833,jump,object,CU,아이레벨(테이블 높이),푸시인,1x,점프컷,setup,X 자막 유지,"거의 무음(-32dB, 영상 최저) — 전환 전 숨 고르기",,https://www.youtube.com/watch?v=DUvdR4bvAds&t=31s
+29,32.167,33.217,1.05,hard,hands,MS,정면 아이레벨,고정,1x,"하드컷(장소 전환), 초록 네온 자막 타자 등장",payoff,냉동 5분 O,"32.2s 저음 쿵(약 60Hz, 접시 놓는 소리 또는 BGM 저음 추정)",,https://www.youtube.com/watch?v=DUvdR4bvAds&t=32s
+30,33.217,33.5,0.283,hard,object,WS,정면 아이레벨,고정,1x,하드컷,payoff,냉동 5분 O 유지,"현장음 작음, 차임 위주",정답 차임(약 33.0s),https://www.youtube.com/watch?v=DUvdR4bvAds&t=33s
+31,33.5,34.0,0.5,false,object,WS,정면 아이레벨,고정,1x,문 닫힘 자연 와이프,broll,O 자막 유지,차임 여운,정답 차임 여운,https://www.youtube.com/watch?v=DUvdR4bvAds&t=33s
+32,34.0,37.933,3.933,hard,face_hands,MCU,정면 아이레벨,고정,1x,"하드컷(장소 복귀), 끝부분 빨간 네온 자막",tension,바로 꺼내면 안 떼짐 X,"서리 얼음 긁히는 바삭(35.3~35.8s 노이즈, 온셋 10개)",실패 버저(약 37.3s),https://www.youtube.com/watch?v=DUvdR4bvAds&t=34s
+33,37.933,39.65,1.717,jump,face_hands,MS,정면 아이레벨,고정,1x,점프컷,build,문지르기 시도(자막 타자 시작),"장갑-얼음 문지르는 뽀드득(고역비 0.483, 초당 온셋 4.08)",,https://www.youtube.com/watch?v=DUvdR4bvAds&t=37s
+34,39.65,41.967,2.317,jump,face_hands,MCU,정면 아이레벨,고정 + 편집 줌아웃 추정(약 41.2s),1x,"점프컷, 빨간 네온 자막 타자 등장",tension,문질러도 안 떼짐 X,음악 위주,실패 버저(약 41.3s),https://www.youtube.com/watch?v=DUvdR4bvAds&t=39s
+35,41.967,43.25,1.283,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷, 초록 네온 자막을 얼굴 아래·볼 위에 배치",payoff,물 채워 3초 담금 O(하단),물 붓는 콸콸(42.28·42.45s 온셋),,https://www.youtube.com/watch?v=DUvdR4bvAds&t=41s
+36,43.25,44.65,1.4,jump,face_hands,MS,정면 아이레벨,고정,1x,점프컷,build,3초 담금 O 유지,물에 담그는 찰랑(온셋 2),,https://www.youtube.com/watch?v=DUvdR4bvAds&t=43s
+37,44.65,48.8,4.15,jump,face_hands,MCU,정면 아이레벨,고정,1x,"점프컷, 무자막으로 결과물에 집중",reveal,,물 떨어지는 소리 + 45.5s·47.0s 환호성(약 1kHz),정답 차임(약 48.3s 시작),https://www.youtube.com/watch?v=DUvdR4bvAds&t=44s
+38,48.8,49.45,0.65,jump,face_hands,MCU,정면 아이레벨,고정,1x,"점프컷, OK 제스처",reaction,,현장음 작음,정답 차임(최대 -8.7dB),https://www.youtube.com/watch?v=DUvdR4bvAds&t=48s
+39,49.45,50.4,0.95,jump,face_hands,MCU,정면 아이레벨,고정,1x,"점프컷, 검지 흔들기, 빨간 자막 하단",rehook,투명감 사라짐 X(하단),음악 위주,실패 버저(약 50.3s),https://www.youtube.com/watch?v=DUvdR4bvAds&t=49s
+40,50.4,53.4,3.0,jump,face_hands,MS,정면 아이레벨,고정,1x,"점프컷, X→O 자막 교체",payoff,살짝 담금 O(하단),물 첨벙(51.25s 고역) + 51.5s 탄성,정답 차임(약 52.8s 시작),https://www.youtube.com/watch?v=DUvdR4bvAds&t=50s
+41,53.4,54.05,0.65,jump,face_hands,MCU,정면 아이레벨,고정,1x,"점프컷, OK 제스처",payoff,,현장음 작음,정답 차임,https://www.youtube.com/watch?v=DUvdR4bvAds&t=53s
+42,54.05,56.083,2.033,hard,hands,MS,아이레벨(테이블 높이),고정,1x,하드컷(장소 전환: 창가),payoff,,음료 붓는 졸졸 + 탄산 치익(55.5~55.8s),,https://www.youtube.com/watch?v=DUvdR4bvAds&t=54s
+43,56.083,56.967,0.883,jump,hands,MS,아이레벨(테이블 높이),고정,1x,점프컷,payoff,,얼음컵이 유리잔에 닿는 딸깍,,https://www.youtube.com/watch?v=DUvdR4bvAds&t=56s
+44,56.967,57.717,0.75,hard,hands,CU,하이앵글 45°,고정,1x,하드컷,payoff,,그라니타 사각사각 긁는 소리(57.1s 온셋),,https://www.youtube.com/watch?v=DUvdR4bvAds&t=56s
+45,57.717,58.083,0.367,hard,hands,MS,아이레벨(테이블 높이),고정,1x,하드컷,payoff,,그라니타가 떨어지는 소리(57.84·57.93s 온셋),,https://www.youtube.com/watch?v=DUvdR4bvAds&t=57s
+46,58.083,58.5,0.417,jump,hands,MS,아이레벨(테이블 높이),고정,1x,점프컷(같은 동작 반복 압축),payoff,,음악 위주,,https://www.youtube.com/watch?v=DUvdR4bvAds&t=58s
+47,58.5,58.933,0.433,hard,object,CU,아이레벨(테이블 높이),고정,1x,하드컷,payoff,,음악만,,https://www.youtube.com/watch?v=DUvdR4bvAds&t=58s
+48,58.933,59.933,1.0,hard,object,MS,아이레벨(테이블 높이),회전(느린 아크),1x,"하드컷, 느린 아크 회전, CTA 없이 컷아웃",loop,,"BGM 저음 여운(약 50Hz, -10dB)",,https://www.youtube.com/watch?v=DUvdR4bvAds&t=58s

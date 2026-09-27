@@ -1,0 +1,56 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,1.467,1.467,hard,face_hands,MS,정면 아이레벨,고정,1x,"영상 시작 첫 프레임 = 상자+웃는 얼굴. 자막 없음. 컷 안 점프컷 1회(약 0.62s, 세운 상자 → 뚜껑이 열리고 뽁뽁이가 솟는 순간으로 건너뜀, 검출기 누락)",hook,,"상자 골판지 스치는 소리와 뽁뽁이 바스락(0.07·0.40·0.70s 온셋), 고역비 0.36",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=0s
+2,1.467,3.833,2.367,jump,face_hands,MS,정면 아이레벨,고정,1x,같은 구도 점프컷으로 들어옴. 뽁뽁이가 렌즈를 가렸다 걷히는 '실물 와이프' 공개(약 2.0s). 약 2.33s 손 위치가 한 프레임 만에 바뀌는 미세 점프컷 추정,reveal,,뽁뽁이 벗기는 바스락(1.25~1.63s 온셋 4개 연속) → 유리잔 잡는 순간 작은 탁 소리(2.58s),,https://www.youtube.com/watch?v=VODrIsa9vqw&t=1s
+3,3.833,5.5,1.667,hard,hands,MS,하이앵글 45°,고정,1x,하드컷. 장소가 거실 조리대 → 창가 싱크로 전환,setup,,"수전 물줄기가 유리 안을 때리는 소리(4.18·4.34s 온셋), 음악 멜로디가 밑에 깔림",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=3s
+4,5.5,6.5,1.0,hard,hands,CU,하이앵글 45°,고정,1x,하드컷,build,,물이 쏟아지는 촤르르(5.55s 온셋),,https://www.youtube.com/watch?v=VODrIsa9vqw&t=5s
+5,6.5,7.083,0.583,hard,hands,CU,하이앵글 45°,고정,1x,하드컷,build,,"브러시가 유리 안쪽을 문지르는 뽀득 소리(0.58초에 온셋 3개, 초당 5.15)",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=6s
+6,7.083,8.633,1.55,hard,hands,CU,하이앵글 45°,고정,1x,"하드컷 + 컷 안 점프컷 1회(약 7.87s, 눕힌 잔 전체 → 잔 안쪽 브러시 클로즈업으로 건너뜀). 배경 수전·창 위치가 그대로라 카메라는 고정, 흔들림처럼 보이는 것은 점프컷 때문",build,,"거품 브러시 문지르는 소리(온셋 5개), 전체 음량은 -23dB로 낮아 멜로디가 들림",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=7s
+7,8.633,9.283,0.65,hard,hands,CU,하이앵글 45°,고정,1x,하드컷,build,,"거품물 쏟아지는 소리, 음량 낮음(-23dB)",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=8s
+8,9.283,10.067,0.783,hard,hands,CU,탑다운,고정,1x,하드컷. 싱크 바닥을 수직으로 내려다보는 자리로 바뀌어 옆에서 뻗는 빗줄기 물살이 가로줄로 보임,build,,"빗줄기 수전의 '쏴' 소리, 고역비 0.48로 초반 최고",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=9s
+9,10.067,11.617,1.55,hard,hands,CU,하이앵글 45°,고정,1x,"하드컷 + 컷 안 점프컷 1회(약 11.15s, 물 쏟기 → 손을 잔 속에 넣은 모습으로 건너뜀). 배경 수전 위치 고정",build,,물 쏟는 소리(10.24·10.57s 온셋),,https://www.youtube.com/watch?v=VODrIsa9vqw&t=10s
+10,11.617,14.3,2.683,hard,hands,MS,아이레벨 측면,고정,1x,하드컷. 창밖 고층 아파트가 보이는 창가 배경,build,,린서 분사음과 물 빠지는 소리(12.03·12.35s 온셋),,https://www.youtube.com/watch?v=VODrIsa9vqw&t=11s
+11,14.3,14.9,0.6,hard,hands,MS,아이레벨 측면,고정,1x,하드컷,payoff,,"물기 떨어지는 작은 소리, 저역 위주(고역비 0.02)",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=14s
+12,14.9,17.833,2.933,hard,face_hands,MS,정면 아이레벨,고정,1x,"컷 안 점프컷 4회(약 15.35·15.67·16.22·16.85s, 프레임 차이로 확인)로 팩이 순식간에 탑처럼 쌓이고 용과를 꺼내는 스톱모션 효과",rehook,,"플라스틱 과일 팩 부딪히는 딸깍 연타(14.58~15.51s 온셋 7개), 뚜껑 여는 소리(15.98·16.56·17.00s)",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=14s
+13,17.833,18.5,0.667,hard,hands,MS,하이앵글 45°,고정,1x,하드컷,build,,"여기서부터 32s까지 샤워 수전 '쏴' 소리가 끊김 없이 깔림(온셋 거의 0, 고역비 0.21)",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=17s
+14,18.5,19.117,0.617,hard,hands,CU,탑다운,고정,1x,하드컷,build,,"빗줄기 물소리 고역비 0.31, 온셋 0(연속음)",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=18s
+15,19.117,19.95,0.833,jump,hands,CU,탑다운,고정,1x,같은 구도 점프컷,build,,연속 물소리 고역비 0.45,,https://www.youtube.com/watch?v=VODrIsa9vqw&t=19s
+16,19.95,20.883,0.933,hard,hands,MS,하이앵글 45°,고정,1x,하드컷. 과일이 렌즈 앞을 지나며 화면을 가림,build,,물 떨어지는 소리와 과일이 금속 선반에 닿는 둔탁음(연속음에 섞임),,https://www.youtube.com/watch?v=VODrIsa9vqw&t=19s
+17,20.883,22.333,1.45,jump,hands,CU,하이앵글 45°,고정,1x,같은 구도 점프컷. 약 21.0s 손 위치가 순간 이동하는 미세 점프컷 추정,build,,"연속 물소리 베드, 과일 내려놓는 둔탁음",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=20s
+18,22.333,23.767,1.433,hard,hands,MS,하이앵글 45°,고정,1x,하드컷. 한 프레임 안에 '씻는 중(위)'과 '씻은 것(아래)'이 함께 보이는 자연 분할 구도,build,,"망고가 물에 떨어지는 저역 '텀' 소리(약 22.9s), 물 베드",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=22s
+19,23.767,24.267,0.5,jump,hands,MS,하이앵글 45°,고정,1x,같은 구도 점프컷(0.5초),build,,연속 물소리 고역비 0.43,,https://www.youtube.com/watch?v=VODrIsa9vqw&t=23s
+20,24.267,24.833,0.567,jump,hands,CU,하이앵글 45°,고정,1x,같은 구도 점프컷. 망고가 렌즈 쪽으로 다가와 크기가 커지는 원근 효과,build,,"연속 물소리, 물방울 떨어지는 소리",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=24s
+21,24.833,25.517,0.683,jump,hands,CU,하이앵글 45°,고정,1x,같은 구도 점프컷,build,,연속 물소리 고역비 0.53,,https://www.youtube.com/watch?v=VODrIsa9vqw&t=24s
+22,25.517,26.55,1.033,jump,hands,CU,하이앵글 45°,고정,1x,같은 구도 점프컷,build,,연속 물소리 고역비 0.45,,https://www.youtube.com/watch?v=VODrIsa9vqw&t=25s
+23,26.55,27.55,1.0,hard,object,MS,하이앵글 45°,고정,1x,하드컷. 새 과일 종류 진입 = 색 전환(노랑·주황),build,,"과일이 물에 쏟아지는 큰 첨벙(RMS -11.9dB, 피크 -7.5dB)과 연속 물소리",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=26s
+24,27.55,28.367,0.817,jump,hands,MS,하이앵글 45°,고정,1x,같은 구도 점프컷,build,,연속 물소리 고역비 0.33,,https://www.youtube.com/watch?v=VODrIsa9vqw&t=27s
+25,28.367,29.467,1.1,hard,hands,CU,탑다운,고정,1x,"하드컷(24번보다 더 가파른 부감 자리로 이동해 창이 사라지고 위=씻은 과일 더미, 아래=씻는 바구니로 위아래가 18~22번과 뒤바뀜), 컷 끝에서 과일이 렌즈를 거의 덮음",build,,연속 물소리 고역비 0.45,,https://www.youtube.com/watch?v=VODrIsa9vqw&t=28s
+26,29.467,29.85,0.383,jump,hands,MS,탑다운,고정,1x,같은 구도 점프컷(0.38초),build,,연속 물소리 고역비 0.56(최고치 부근),,https://www.youtube.com/watch?v=VODrIsa9vqw&t=29s
+27,29.85,30.433,0.583,jump,hands,MS,탑다운,고정,1x,"같은 구도 점프컷, 팩이 렌즈 앞을 스치는 모션 블러",tension,,"영상 전체에서 가장 큰 첨벙(RMS -8.5dB, 피크 -5.2dB)",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=29s
+28,30.433,31.133,0.7,jump,hands,MS,탑다운,고정,1x,같은 구도 점프컷,tension,,"두 번째 첨벙(30.60·30.74s 온셋), RMS -9.4dB",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=30s
+29,31.133,31.833,0.7,jump,hands,MS,탑다운,고정,1x,같은 구도 점프컷,build,,연속 물소리,,https://www.youtube.com/watch?v=VODrIsa9vqw&t=31s
+30,31.833,32.417,0.583,jump,hands,CU,탑다운,고정,1x,같은 구도 점프컷,payoff,,연속 물소리가 이 컷 끝에서 멈춤,,https://www.youtube.com/watch?v=VODrIsa9vqw&t=31s
+31,32.417,33.95,1.533,hard,face_hands,MS,정면 아이레벨,고정,1x,"하드컷. 소리 베드 전환(물 → 조용한 실내). 컷 안 점프컷 1회(약 33.0s, 트레이를 잡은 손 → 용과를 집는 손으로 건너뜀)",reaction,,물소리가 끊기고 트레이 내려놓는 소리(32.74·33.07·33.14s 온셋),,https://www.youtube.com/watch?v=VODrIsa9vqw&t=32s
+32,33.95,34.95,1.0,hard,hands,CU,탑다운,고정,1x,"하드컷. 앵글이 탑다운으로 고정되는 손질 구간 시작. 컷 안 점프컷 1회(약 34.2s, 칼이 이미 과일 중앙에 박힌 순간으로 건너뜀)",build,,"칼이 용과를 가르며 도마를 치는 '탁'(34.1s, RMS 곡선 -5.8dB로 27번 첨벙과 맞먹는 순간 피크), 컷 전체 RMS -16.6dB",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=33s
+33,34.95,35.45,0.5,jump,hands,ECU,탑다운,편집 줌(펀치인),1x,같은 구도 점프컷 + 0.5초 줌인으로 속살이 화면을 채움(채도 193 = 영상 최고),reveal,,"거의 무음(RMS -33.3dB), BGM 멜로디만",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=34s
+34,35.45,36.283,0.833,jump,hands,ECU,탑다운,고정,1x,점프컷. 33번 줌 배율을 유지한 채 과일을 렌즈 쪽으로 들어 올려 더 커 보임(도마 나뭇결 크기는 그대로라 카메라 고정),build,,"조용함(RMS -32.1dB), 껍질 벗기는 소리 1회(35.94s)",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=35s
+35,36.283,38.217,1.933,hard,hands,CU,탑다운,고정,2x,"배속 약 2배 추정(초당 칼질 약 8회) + 컷 안 점프컷 1회(약 37.2s, 세로→가로)",build,,"조용한 칼질(RMS -27.4dB), 도마 두드림은 작게",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=36s
+36,38.217,39.417,1.2,jump,hands,CU,탑다운,고정,1x,같은 구도 점프컷,payoff,,"조용함(RMS -31.5dB), BGM 멜로디가 전면에",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=38s
+37,39.417,40.0,0.583,hard,person,MS,하이앵글 45°,고정,1x,하드컷. 청록 접시 vs 진홍 큐브 보색 대비,payoff,,"큐브가 접시에 떨어지는 소리(39.47s 온셋), 고역비 0.44",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=39s
+38,40.0,40.917,0.917,hard,hands,CU,탑다운,고정,2x,"하드컷, 칼질 속도로 보아 약 1.5~2배속 추정",build,,칼질 소리(40.08·40.29·40.54s 온셋),,https://www.youtube.com/watch?v=VODrIsa9vqw&t=40s
+39,40.917,42.333,1.417,jump,hands,CU,탑다운,고정,1x,"같은 구도 점프컷, 컷 끝에서 큐브가 렌즈 쪽으로 기울며 확대",payoff,,"조용함(RMS -27.4dB), 멜로디 위주",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=40s
+40,42.333,42.867,0.533,hard,person,MS,하이앵글 45°,고정,1x,하드컷. 접시 위 진홍+노랑 두 줄 색 띠 형성,payoff,,"큐브가 접시에 떨어지는 톡톡(초당 온셋 5.63, 이 구간 최고)",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=42s
+41,42.867,43.333,0.467,jump,person,MS,하이앵글 45°,고정,1x,같은 구도 점프컷(0.47초),payoff,,톡톡 떨어지는 소리(초당 온셋 6.42),,https://www.youtube.com/watch?v=VODrIsa9vqw&t=42s
+42,43.333,44.083,0.75,hard,hands,MS,탑다운,고정,1x,"하드컷. 위=완성 접시, 아래=작업 중 도마의 상하 분할 구도",build,,칼질 소리 작게(RMS -20.5dB),,https://www.youtube.com/watch?v=VODrIsa9vqw&t=43s
+43,44.083,45.3,1.217,jump,hands,MS,탑다운,고정,1x,같은 구도 점프컷(키위 → 오렌지로 시간 건너뜀),build,,칼질 소리 작게(RMS -23.4dB),,https://www.youtube.com/watch?v=VODrIsa9vqw&t=44s
+44,45.3,46.95,1.65,jump,hands,MS,탑다운,고정,2x,"같은 구도 점프컷 + 약 2배속 추정 + 컷 안 점프컷 1회(약 46.4s, 세로 칼질 → 격자 완료)",build,,조용함(RMS -26.5dB),,https://www.youtube.com/watch?v=VODrIsa9vqw&t=45s
+45,46.95,47.183,0.233,jump,object,MS,탑다운,고정,1x,"같은 구도 점프컷(0.23초, 영상 최단 컷)",payoff,,"조용함(RMS -30.9dB), 멜로디만",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=46s
+46,47.183,47.65,0.467,jump,hands,MS,탑다운,고정,1x,같은 구도 점프컷,build,,조용함(RMS -28.5dB),,https://www.youtube.com/watch?v=VODrIsa9vqw&t=47s
+47,47.65,48.45,0.8,jump,hands,MS,탑다운,고정,1x,"같은 구도 점프컷, 손이 빠진 '완성 정물'로 끝남. 약 48.08s 손이 한 번에 사라지는 미세 점프컷 추정",payoff,,조용함(RMS -25.7dB),,https://www.youtube.com/watch?v=VODrIsa9vqw&t=47s
+48,48.45,48.9,0.45,hard,object,CU,탑다운,크래시 줌,1x,0.45초 크래시 줌(움직임 21.98 = 영상 최고). 이 컷 첫 프레임이 유튜브 썸네일과 같은 장면,payoff,,"무음에 가까움(RMS -28.9dB, 고역비 0.001)",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=48s
+49,48.9,50.15,1.25,hard,face_hands,MS,정면 아이레벨,고정,1x,하드컷 + 컷 안 점프컷 2회(약 49.25·49.6s) — 통을 두 개씩 끼울 때마다 건너뛰는 12번과 같은 스톱모션 방식,rehook,,"스테인리스 통이 부딪히는 쨍그랑(초당 온셋 4.8), 소리 베드가 다시 커짐(RMS -13.5dB)",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=48s
+50,50.15,50.583,0.433,hard,person,MS,하이앵글 45°,고정,1x,하드컷,payoff,,큐브가 스테인리스 통에 떨어지는 소리(초당 온셋 4.62),,https://www.youtube.com/watch?v=VODrIsa9vqw&t=50s
+51,50.583,51.017,0.433,jump,person,MS,하이앵글 45°,고정,1x,같은 구도 점프컷(0.43초),payoff,,큐브 떨어지는 소리(RMS -16.2dB),,https://www.youtube.com/watch?v=VODrIsa9vqw&t=50s
+52,51.017,52.217,1.2,jump,person,MS,하이앵글 45°,고정,1x,같은 구도 점프컷 + 컷 안 점프컷 2회(약 51.45s·51.8s)로 세 과일을 1.2초에 압축,payoff,,큐브 떨어지는 소리(온셋 5개),,https://www.youtube.com/watch?v=VODrIsa9vqw&t=51s
+53,52.217,52.833,0.617,hard,hands,MS,탑다운,고정,1x,하드컷. 탑다운 완성 정물 + 토핑 등장,reveal,,"스프링클 알갱이 차르르 흔들리는 소리(온셋 2개, 고역비 0.23)",,https://www.youtube.com/watch?v=VODrIsa9vqw&t=52s
+54,52.833,53.217,0.383,jump,hands,MS,탑다운,고정,1x,같은 구도 점프컷(0.38초),payoff,,병이 금속 통에 닿는 톡 소리,,https://www.youtube.com/watch?v=VODrIsa9vqw&t=52s
+55,53.217,54.383,1.167,jump,hands,MS,탑다운,고정,1x,같은 구도 점프컷 + 뚜껑이 화면을 덮는 실물 와이프로 종료(약 53.8s),loop,,뚜껑 미끄러지는 소리와 닫히는 소리(53.41·53.52·54.08s 온셋),,https://www.youtube.com/watch?v=VODrIsa9vqw&t=53s

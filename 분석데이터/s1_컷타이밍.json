@@ -1,0 +1,48 @@
+{
+"fps": 30.0,
+"frames": 1592,
+"duration": 53.067,
+"size": [
+720,
+1280
+],
+"threshold": 4.0,
+"shots": [
+{
+"idx": 1,
+"f_in": 0,
+"f_out": 374,
+"t_in": 0.0,
+"t_out": 12.5,
+"dur": 12.5,
+"cut_score": null,
+"bright_mean": 136.8,
+"sat_mean": 82.8,
+"motion_mean": 2.48
+},
+{
+"idx": 2,
+"f_in": 375,
+"f_out": 627,
+"t_in": 12.5,
+"t_out": 20.933,
+"dur": 8.433,
+"cut_score": 5.36,
+"bright_mean": 136.8,
+"sat_mean": 81.3,
+"motion_mean": 1.7
+},
+{
+"idx": 3,
+"f_in": 628,
+"f_out": 1591,
+"t_in": 20.933,
+"t_out": 53.067,
+"dur": 32.133,
+"cut_score": 7.48,
+"bright_mean": 130.2,
+"sat_mean": 83.6,
+"motion_mean": 3.08
+}
+]
+}
